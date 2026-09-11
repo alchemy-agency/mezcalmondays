@@ -1,0 +1,41 @@
+name: Harvest BNAAA partner pages
+
+# Fetches the partner landing pages and brand imagery from bnaaamezcal.com with a real browser
+# (SiteGround's bot check blocks plain HTTP clients from some networks) and commits them into
+# mezcalmonday/data/bnaaa-pages/ and mezcalmonday/src/assets/img/brand/. Run it from the Actions tab.
+on:
+  workflow_dispatch:
+    inputs:
+      slugs:
+        description: "Comma-separated page slugs to fetch (empty = try every venue slug)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: mezcalmonday
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci && npm install --no-save playwright && npx playwright install --with-deps chromium
+      - name: Fetch pages and images
+        env:
+          SLUGS: ${{ github.event.inputs.slugs }}
+        run: node scripts/harvest-bnaaa.mjs
+      - name: Commit results
+        run: |
+          cd ..
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mezcalmonday/data/bnaaa-pages mezcalmonday/src/assets/img/brand mezcalmonday/data/venues.json
+          git diff --cached --quiet && echo "Nothing new" || (git commit -m "Harvest BNAAA partner pages and brand assets" && git push)

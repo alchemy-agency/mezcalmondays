@@ -41,7 +41,7 @@ export function home({ site, venues, stores, categories, recipes, sponsors, regi
       <div class="hero-copy">
         <p class="day">${icon('calendar-dots')}It is <b data-today>Monday</b>. <span data-open-note>Time for mezcal.</span></p>
         <h1>Where to drink <em>mezcal</em> this Monday.</h1>
-        <p class="lede">Search ${nVenues} bars and restaurants that pour it, find the Monday deals, see who is on the map near you, or make it at home.</p>
+        <p class="lede">${nVenues} bars and restaurants that pour it. Monday deals, a map of who is near you, and recipes for home.</p>
         <div class="hero-search">
           ${searchBlock({ placeholder: 'Search a bar, a city or a drink' })}
           <div class="hero-quick">${quick.map(([h, l, ic]) => `<a class="chip" href="${h}">${icon(ic, 'ico')} ${l}</a>`).join('')}</div>
@@ -74,16 +74,6 @@ export function home({ site, venues, stores, categories, recipes, sponsors, regi
   </div>
 </section>
 
-<section class="section" id="how">
-  <div class="container">
-    <div class="section-head"><h2>Three ways to use it</h2></div>
-    <div class="bento">
-      <a class="cell s2" href="/find/" data-reveal><span class="n">${nVenues}</span><h3>Find a bar</h3><p>Search or open the map. Filter by city, cocktails, restaurants or Monday deals.</p></a>
-      <a class="cell s2 tint" href="/buy/" data-reveal><span class="n">${nStores}</span><h3>Buy a bottle</h3><p>Bottle shops near you plus online delivery for the nights you stay in.</p></a>
-      <a class="cell s2" href="/recipes/" data-reveal><span class="n">${recipes.length}</span><h3>Make it at home</h3><p>Margarita, paloma, carajillo and the Oaxaca old fashioned, step by step.</p></a>
-    </div>
-  </div>
-</section>
 
 <section class="section" id="recipes">
   <div class="container">

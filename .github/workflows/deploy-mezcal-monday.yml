@@ -1,0 +1,58 @@
+name: Deploy mezcal-monday.com
+
+on:
+  push:
+    branches: [main]
+    paths: ['mezcalmonday/**', '.github/workflows/deploy-mezcal-monday.yml']
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-mezcal-monday
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: mezcalmonday
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: mezcalmonday/package-lock.json
+      - run: npm ci
+      - run: node scripts/build.mjs
+      - name: Check secrets
+        env:
+          SG_HOST: ${{ secrets.SG_HOST }}
+          SG_USER: ${{ secrets.SG_USER }}
+          SG_SSH_KEY: ${{ secrets.SG_SSH_KEY }}
+        run: |
+          if [ -z "$SG_HOST" ] || [ -z "$SG_USER" ] || [ -z "$SG_SSH_KEY" ]; then
+            echo "::error::Add SG_HOST, SG_USER and SG_SSH_KEY (optional: SG_SSH_PASSPHRASE, SG_PORT, SG_REMOTE_PATH) under Settings > Secrets and variables > Actions."; exit 1; fi
+      - name: Prepare SSH key
+        env:
+          SG_SSH_KEY: ${{ secrets.SG_SSH_KEY }}
+          SG_SSH_PASSPHRASE: ${{ secrets.SG_SSH_PASSPHRASE }}
+          SG_HOST: ${{ secrets.SG_HOST }}
+          SG_PORT: ${{ secrets.SG_PORT }}
+        run: |
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$SG_SSH_KEY" > ~/.ssh/siteground && chmod 600 ~/.ssh/siteground
+          if [ -n "$SG_SSH_PASSPHRASE" ]; then ssh-keygen -p -P "$SG_SSH_PASSPHRASE" -N "" -f ~/.ssh/siteground >/dev/null; fi
+          ssh-keyscan -p "${SG_PORT:-18765}" -H "$SG_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+      - name: Upload dist to SiteGround
+        env:
+          SG_HOST: ${{ secrets.SG_HOST }}
+          SG_USER: ${{ secrets.SG_USER }}
+          SG_PORT: ${{ secrets.SG_PORT }}
+          SG_REMOTE_PATH: ${{ secrets.SG_REMOTE_PATH }}
+        run: |
+          PORT="${SG_PORT:-18765}"; REMOTE="${SG_REMOTE_PATH:-www/mezcal-monday.com/public_html}"
+          tar -C dist -czf /tmp/dist.tgz .
+          scp -i ~/.ssh/siteground -P "$PORT" /tmp/dist.tgz "$SG_USER@$SG_HOST:/tmp/mezcal-monday-dist.tgz"
+          ssh -i ~/.ssh/siteground -p "$PORT" "$SG_USER@$SG_HOST" "set -e; mkdir -p $REMOTE \$(dirname $REMOTE)/private; cd $REMOTE; find . -mindepth 1 -maxdepth 1 -exec rm -rf {} +; tar -xzf /tmp/mezcal-monday-dist.tgz; rm /tmp/mezcal-monday-dist.tgz; chmod 700 \$(dirname $REMOTE)/private; ls | head -30"
+          echo "Deployed https://mezcal-monday.com"
