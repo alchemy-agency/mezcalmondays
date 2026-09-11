@@ -88,7 +88,7 @@ export function recipesPage({ recipes, sponsors }) {
 </section>
 <section class="section" style="padding-top:0">
   <div class="container" style="display:grid;gap:1.5rem">
-    <div class="recipe-grid">${recipes.map((r) => `<a class="rcard" href="/recipes/${esc(r.slug)}/"><span class="kicker">${esc(r.kicker)}</span><h3>${esc(r.name)}</h3><p class="small">${esc(r.intro)}</p><div class="spec"><span>${esc(r.glass)}</span><span>${esc(r.method)}</span><span>${esc(r.time)}</span><span>${esc(r.difficulty)}</span></div></a>`).join('')}</div>
+    <div class="recipe-grid">${recipes.map((r) => `<a class="rcard" href="/recipes/${esc(r.slug)}/">${r.img ? `<img class="rcard-img" src="/${esc(r.img)}" alt="${esc(r.name)}" loading="lazy">` : ''}<span class="kicker">${esc(r.kicker)}</span><h3>${esc(r.name)}</h3><p class="small">${esc(r.intro)}</p><div class="spec"><span>${esc(r.glass)}</span><span>${esc(r.method)}</span><span>${esc(r.time)}</span><span>${esc(r.difficulty)}</span></div></a>`).join('')}</div>
     ${leaderboard(slot, sp)}
   </div>
 </section>`;

@@ -17,9 +17,10 @@ export function home({ site, venues, stores, categories, recipes, sponsors, regi
 
   const cells = regions.map((r, i) => {
     const n = venues.filter((v) => matchRegion(v, r)).length;
-    const cls = i === 0 ? 'cell ink s3' : i === 1 ? 'cell tint s3' : 'cell s2';
+    const spans = ['ink s4', 'tint s2', 's2', 's4', 'tint s3', 's3'];
+    const cls = 'cell ' + (spans[i] || 's2');
     return `<a class="${cls}" href="/find/?region=${esc(r.slug)}" data-reveal>
-      <span class="n">${n}<small>spots</small></span>
+      <span class="n">${n}<small>${n === 1 ? 'spot' : 'spots'}</small></span>
       <h3>${esc(r.name)}</h3>
       <p>${esc(r.blurb)}</p>
     </a>`;
@@ -83,6 +84,7 @@ export function home({ site, venues, stores, categories, recipes, sponsors, regi
     </div>
     <div class="recipes-split">
       <a class="recipe-feature" href="/recipes/${esc(featRecipe.slug)}/" data-reveal>
+        ${featRecipe.img ? `<img class="rfeat-img" src="/${esc(featRecipe.img)}" alt="${esc(featRecipe.name)}" loading="lazy">` : ''}
         <span class="kicker">${esc(featRecipe.kicker)}</span>
         <div><h3>${esc(featRecipe.name)}</h3><p>${esc(featRecipe.intro)}</p></div>
         <div class="spec"><span>${esc(featRecipe.glass)}</span><span>${esc(featRecipe.method)}</span><span>${esc(featRecipe.time)}</span></div>

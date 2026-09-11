@@ -1,4 +1,7 @@
-import { esc, icon, initials, TYPE_LABEL } from '../lib.mjs';
+import fs from 'node:fs';
+import path from 'node:path';
+import { esc, icon, initials, TYPE_LABEL, SRC } from '../lib.mjs';
+const hasAsset = (rel) => !!rel && fs.existsSync(path.join(SRC, rel));
 
 const TYPE_ICON = { restaurant: 'fork-knife', bar: 'martini', hotel: 'building', store: 'storefront' };
 
@@ -52,7 +55,7 @@ export function featurePour(slot, sponsor) {
   if (!slot || !slot.enabled || !sponsor) return '';
   return `<aside class="feature-pour" aria-label="Featured pour">
     <div class="fp-head"><span>Featured pour</span><span>Sponsor</span></div>
-    <div class="fp-logo"><span class="fp-wordmark">${esc(sponsor.short)}</span><span class="fp-tag">${esc(sponsor.tagline)}</span></div>
+    <div class="fp-logo">${hasAsset(sponsor.logo) ? `<img class="fp-img" src="/${esc(sponsor.logo)}" alt="${esc(sponsor.name)}" width="180" height="60">` : `<span class="fp-wordmark">${esc(sponsor.short)}</span>`}<span class="fp-tag">${esc(sponsor.tagline)}</span></div>${hasAsset(sponsor.bottle) ? `<img class="fp-bottle" src="/${esc(sponsor.bottle)}" alt="" loading="lazy">` : ''}
     <div class="fp-body">
       <h3>${esc(slot.headline)}</h3>
       <p>${esc(slot.body)}</p>

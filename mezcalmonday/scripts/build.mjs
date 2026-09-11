@@ -17,6 +17,8 @@ const recipes = readJSON('recipes.json');
 const ads = readJSON('ads.json');
 const sponsors = readJSON('sponsors.json');
 const regions = site.regions;
+const RECIPE_BRAND_IMG = { 'mezcal-margarita': 'assets/img/brand/recipe-margarita.png', 'mezcaloma': 'assets/img/brand/recipe-mezcaloma.png', 'mezcal-carajillo': 'assets/img/brand/recipe-carajillo.png' };
+for (const r of recipes) { const own = path.join(SRC, r.image || ''); const brand = RECIPE_BRAND_IMG[r.slug]; r.img = r.image && fs.existsSync(own) ? r.image : brand && fs.existsSync(path.join(SRC, brand)) ? brand : ''; }
 site.build = String(Math.floor(Date.now() / 1000)).slice(-6);
 
 // Optional enrichment from the harvest workflow (data/bnaaa-pages/pages.json)

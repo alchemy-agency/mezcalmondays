@@ -350,3 +350,8 @@ html[data-theme="dark"] .cta-band .btn { background: #0C1B16; color: #D2E85A; }
 .toast.is-on { opacity: 1; visibility: visible; transform: translate(-50%, 0); transition: opacity var(--dur) var(--ease-out), transform var(--dur) var(--ease-out); }
 html:not(.reduced):not(.no-js) [data-reveal] { opacity: 0; transform: translateY(18px); }
 html:not(.reduced):not(.no-js) [data-reveal].is-in { opacity: 1; transform: none; transition: opacity 700ms var(--ease-out), transform 700ms var(--ease-out); }
+
+.fp-img { height: 56px; width: auto; max-width: 220px; filter: brightness(0) invert(1); }
+.fp-bottle { position: absolute; right: 1.25rem; bottom: 0; height: 78%; width: auto; object-fit: contain; pointer-events: none; }
+.rfeat-img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--r-in); margin-bottom: 0.4rem; }
+.rcard-img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--r-in); }
