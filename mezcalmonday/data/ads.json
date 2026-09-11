@@ -1,0 +1,17 @@
+{
+  "note": "Placements sold on mezcal-monday.com. price is a display string; leave null to show 'Ask for pricing'. Sponsors fill slots in sponsors.json.",
+  "placements": [
+    { "slug": "featured-pour", "name": "Featured pour", "where": "Home page hero panel, the first thing every visitor sees", "size": "Logo, headline, one line of copy, one button", "price": null, "premium": true },
+    { "slug": "leaderboard", "name": "Leaderboard banner", "where": "Under the hero on the home page and above the results on the finder", "size": "1456 x 180 (desktop), 800 x 400 (mobile)", "price": null, "premium": true },
+    { "slug": "finder-sidebar", "name": "Finder sidebar", "where": "Next to the map on the finder page, sticky while people browse", "size": "600 x 1000", "price": null, "premium": false },
+    { "slug": "bar-page-banner", "name": "Bar page banner", "where": "On every bar and restaurant profile, above the map", "size": "1456 x 180 (desktop), 800 x 400 (mobile)", "price": null, "premium": false },
+    { "slug": "recipe-sponsor", "name": "Recipe sponsor", "where": "Your spirit named as the pour in every recipe, with a bottle link", "size": "Brand name in the ingredients plus a logo panel", "price": null, "premium": true },
+    { "slug": "featured-listing", "name": "Featured listing", "where": "Your bar pinned to the top of its city in search, the finder and the Monday list", "size": "Standard listing with a Featured badge", "price": null, "premium": false },
+    { "slug": "city-takeover", "name": "City takeover", "where": "Every placement on one city's pages for a month", "size": "All of the above, one city", "price": null, "premium": true }
+  ],
+  "audience": [
+    { "label": "Listings live", "value": "63 bars and restaurants, 73 bottle shops" },
+    { "label": "Markets", "value": "Las Vegas, the Bay Area, Southern California, Boston, Cape Cod, Lake Tahoe" },
+    { "label": "Readers", "value": "People searching for mezcal on a Monday, by name, city or drink" }
+  ]
+}

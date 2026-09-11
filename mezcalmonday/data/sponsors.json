@@ -1,0 +1,24 @@
+{
+  "note": "Sponsor creatives per placement slug. Every slot currently runs BNAAA Mezcal. Set enabled:false to empty a slot. logo paths are relative to src/; the harvest workflow fills assets/img/brand/.",
+  "sponsors": {
+    "bnaaa": {
+      "name": "BNAAA Mezcal",
+      "short": "BNAAA",
+      "url": "https://bnaaamezcal.com/",
+      "shop_url": "https://bnaaamezcal.com/shop-mezcal/",
+      "logo": "assets/img/brand/bnaaa-logo.svg",
+      "logo_png": "assets/img/brand/bnaaa-logo.png",
+      "bottle": "assets/img/brand/bnaaa-bottle.png",
+      "tagline": "Mezcal made in Oaxaca. Poured on Mondays.",
+      "description": "BNAAA Mezcal is the house pour behind Mezcal Monday. It is on the menu at every bar in this directory and on the shelf at every store in the finder.",
+      "accent": "#C4A14A"
+    }
+  },
+  "slots": {
+    "featured-pour": { "enabled": true, "sponsor": "bnaaa", "headline": "The Monday pour", "body": "BNAAA Mezcal is on the menu at every bar in this directory. Find the nearest one, or the nearest bottle.", "cta": "Find BNAAA near you", "href": "/find/", "cta2": "Shop the bottle", "href2": "https://bnaaamezcal.com/shop-mezcal/" },
+    "leaderboard": { "enabled": true, "sponsor": "bnaaa", "headline": "Every bar here pours BNAAA Mezcal", "body": "Ask for it by name this Monday.", "cta": "Where to buy", "href": "/buy/" },
+    "finder-sidebar": { "enabled": true, "sponsor": "bnaaa", "headline": "Can't get out tonight?", "body": "BNAAA ships, and Total Wine and Instacart carry it.", "cta": "Shop the bottle", "href": "https://bnaaamezcal.com/shop-mezcal/" },
+    "bar-page-banner": { "enabled": true, "sponsor": "bnaaa", "headline": "This bar pours BNAAA Mezcal", "body": "Order it neat with an orange slice, or in the house margarita.", "cta": "About BNAAA", "href": "https://bnaaamezcal.com/" },
+    "recipe-sponsor": { "enabled": true, "sponsor": "bnaaa", "headline": "Recipes made with BNAAA Mezcal", "body": "The mezcal in every recipe on this site.", "cta": "Shop the bottle", "href": "https://bnaaamezcal.com/shop-mezcal/" }
+  }
+}

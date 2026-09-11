@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "mezcal-margarita", "name": "Mezcal Margarita", "kicker": "The one to start with", "featured": true,
+    "intro": "A classic margarita with the tequila swapped for mezcal. Smoke, lime and a salted rim. Two minutes of work.",
+    "glass": "Rocks glass", "method": "Shaken", "time": "2 min", "serves": 1, "difficulty": "Easy",
+    "ingredients": ["2 oz BNAAA Mezcal", "1 oz fresh lime juice", "3/4 oz agave nectar (or 3/4 oz orange liqueur)", "Salt for the rim", "Lime wheel"],
+    "steps": ["Run a lime wedge around half the rim of a rocks glass and dip it in salt.", "Shake the mezcal, lime juice and agave hard with ice for 12 seconds.", "Strain over fresh ice.", "Garnish with the lime wheel."],
+    "tip": "Skip the orange liqueur and use agave nectar if you want the mezcal to lead. Use half of each if you want it rounder.",
+    "tags": ["classic", "sour", "shaken"], "image": "assets/img/recipes/mezcal-margarita.jpg", "image_credit": ""
+  },
+  {
+    "slug": "mezcaloma", "name": "Mezcaloma", "kicker": "The Monday paloma",
+    "intro": "Mexico's most popular highball, made smoky. Grapefruit soda does most of the work, which is why bars love it on a Monday.",
+    "glass": "Highball", "method": "Built", "time": "1 min", "serves": 1, "difficulty": "Easy",
+    "ingredients": ["2 oz BNAAA Mezcal", "1/2 oz fresh lime juice", "Pinch of salt", "Grapefruit soda to top (about 4 oz)", "Grapefruit wedge"],
+    "steps": ["Salt half the rim of a highball glass if you like.", "Fill the glass with ice, add the mezcal, lime and the pinch of salt.", "Top with grapefruit soda and give it one gentle stir.", "Garnish with the grapefruit wedge."],
+    "tip": "Fresh grapefruit juice plus a splash of soda water is the bartender version. Squirt or Jarritos is the Monday version.",
+    "tags": ["highball", "built", "citrus"], "image": "assets/img/recipes/mezcaloma.jpg", "image_credit": ""
+  },
+  {
+    "slug": "mezcal-carajillo", "name": "Mezcal Carajillo", "kicker": "Espresso, Licor 43 and smoke",
+    "intro": "The Mexico City after-dinner drink, split with mezcal so the vanilla and citrus of Licor 43 get some grit.",
+    "glass": "Rocks glass", "method": "Shaken", "time": "3 min", "serves": 1, "difficulty": "Easy",
+    "ingredients": ["1 1/2 oz Licor 43", "1 oz BNAAA Mezcal", "1 1/2 oz hot espresso (a double shot)", "3 coffee beans"],
+    "steps": ["Pull the espresso first so it is still hot.", "Shake the Licor 43, mezcal and espresso with plenty of ice for 15 seconds. The heat and the shake build the foam.", "Strain over a large cube.", "Float the coffee beans on the foam."],
+    "tip": "Shaken is the Mexico City style. For the layered version, pour the espresso slowly over the back of a spoon onto the liqueur and mezcal.",
+    "tags": ["after dinner", "coffee", "shaken"], "image": "assets/img/recipes/mezcal-carajillo.jpg", "image_credit": ""
+  },
+  {
+    "slug": "oaxaca-old-fashioned", "name": "Oaxaca Old Fashioned", "kicker": "The modern classic",
+    "intro": "Phil Ward's 2007 Death and Co drink put mezcal on cocktail menus everywhere. Reposado does the body, mezcal does the smoke, agave does the sweet.",
+    "glass": "Rocks glass", "method": "Stirred", "time": "3 min", "serves": 1, "difficulty": "Medium",
+    "ingredients": ["1 1/2 oz reposado tequila", "1/2 oz BNAAA Mezcal", "1 tsp agave nectar", "2 dashes Angostura bitters", "Orange peel"],
+    "steps": ["Stir everything with ice for 25 to 30 seconds.", "Strain over a large cube in a rocks glass.", "Express the orange peel over the drink. The original flames it: hold a lit match between the peel and the glass and squeeze.", "Drop the peel in."],
+    "tip": "Flip the ratio to 1 1/2 oz mezcal and 1/2 oz reposado when you want it fully smoky.",
+    "tags": ["stirred", "spirit forward", "classic"], "image": "assets/img/recipes/oaxaca-old-fashioned.jpg", "image_credit": ""
+  },
+  {
+    "slug": "mezcal-negroni", "name": "Mezcal Negroni", "kicker": "Equal parts, one swap",
+    "intro": "Gin out, mezcal in. Bitter, sweet and smoky in equal thirds. The easiest way to make a Negroni taste new.",
+    "glass": "Rocks glass", "method": "Stirred", "time": "2 min", "serves": 1, "difficulty": "Easy",
+    "ingredients": ["1 oz BNAAA Mezcal", "1 oz Campari", "1 oz sweet vermouth", "Orange peel"],
+    "steps": ["Stir all three with ice for 20 seconds.", "Strain over a large cube.", "Express the orange peel over the top and drop it in."],
+    "tip": "Cheaper to batch than to build. Mix a bottle of equal parts, keep it in the fridge, pour over ice on Monday.",
+    "tags": ["stirred", "bitter", "batchable"], "image": "assets/img/recipes/mezcal-negroni.jpg", "image_credit": ""
+  },
+  {
+    "slug": "naked-and-famous", "name": "Naked and Famous", "kicker": "Equal parts, four ingredients",
+    "intro": "Joaquín Simó's 2011 drink from Death and Co. Mezcal, Aperol, yellow Chartreuse and lime, all in equal measure. Bright, herbal and smoky.",
+    "glass": "Coupe", "method": "Shaken", "time": "2 min", "serves": 1, "difficulty": "Medium",
+    "ingredients": ["3/4 oz BNAAA Mezcal", "3/4 oz Aperol", "3/4 oz yellow Chartreuse", "3/4 oz fresh lime juice"],
+    "steps": ["Shake everything with ice for 12 seconds.", "Double strain into a chilled coupe.", "No garnish."],
+    "tip": "Green Chartreuse works if that is what you have. It is stronger and more herbal, so pull it back to 1/2 oz.",
+    "tags": ["shaken", "sour", "modern classic"], "image": "assets/img/recipes/naked-and-famous.jpg", "image_credit": ""
+  },
+  {
+    "slug": "mezcal-mule", "name": "Mezcal Mule", "kicker": "Ginger beer, lime, smoke",
+    "intro": "The Moscow Mule with a better spirit. Ginger and smoke are a natural pair, and it takes a minute to build.",
+    "glass": "Copper mug or highball", "method": "Built", "time": "1 min", "serves": 1, "difficulty": "Easy",
+    "ingredients": ["2 oz BNAAA Mezcal", "3/4 oz fresh lime juice", "1/2 oz agave nectar", "Ginger beer to top (about 3 oz)", "Lime wheel and a slice of fresh ginger"],
+    "steps": ["Fill the mug with ice.", "Add the mezcal, lime and agave and stir once.", "Top with ginger beer.", "Garnish with the lime wheel and the ginger slice."],
+    "tip": "Muddle a slice of jalapeno in the mug first if you want heat with the smoke.",
+    "tags": ["highball", "built", "ginger"], "image": "assets/img/recipes/mezcal-mule.jpg", "image_credit": ""
+  },
+  {
+    "slug": "mezcal-sour", "name": "Mezcal Sour", "kicker": "Silky, tart, smoky",
+    "intro": "A whiskey sour template with mezcal. The egg white softens the smoke into something you can drink two of.",
+    "glass": "Coupe or rocks glass", "method": "Shaken", "time": "3 min", "serves": 1, "difficulty": "Medium",
+    "ingredients": ["2 oz BNAAA Mezcal", "1 oz fresh lemon juice", "3/4 oz simple syrup", "1 egg white (or 3/4 oz aquafaba)", "3 dashes Angostura bitters"],
+    "steps": ["Dry shake the mezcal, lemon, syrup and egg white without ice for 10 seconds.", "Add ice and shake again for 12 seconds.", "Strain into the glass.", "Dot the bitters on the foam and drag a toothpick through them."],
+    "tip": "Rich simple syrup (2 parts sugar to 1 part water) at 1/2 oz gives the same sweetness with less dilution.",
+    "tags": ["shaken", "sour", "egg white"], "image": "assets/img/recipes/mezcal-sour.jpg", "image_credit": ""
+  },
+  {
+    "slug": "how-to-drink-mezcal-neat", "name": "Mezcal, neat", "kicker": "The way Oaxaca drinks it",
+    "intro": "No ice, no shaking, no hurry. A copita or a small tumbler, an orange slice and a pinch of sal de gusano if you can find it.",
+    "glass": "Copita or small tumbler", "method": "Poured", "time": "1 min", "serves": 1, "difficulty": "Easy",
+    "ingredients": ["1 1/2 oz BNAAA Mezcal at room temperature", "1 orange slice", "Sal de gusano or flaky salt with a pinch of chile"],
+    "steps": ["Pour the mezcal and let it sit for a minute so the alcohol lifts off.", "Sip. Do not shoot it. Hold it on the tongue for a second before swallowing.", "Bite the orange, dipped in the salt, between sips.", "Sip again. The second taste is the real one."],
+    "tip": "The old saying is para todo mal, mezcal, y para todo bien, también. For everything bad, mezcal, and for everything good, the same.",
+    "tags": ["neat", "tasting", "no mixing"], "image": "assets/img/recipes/mezcal-neat.jpg", "image_credit": ""
+  }
+]

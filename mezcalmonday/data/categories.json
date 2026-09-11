@@ -1,0 +1,10 @@
+[
+  { "slug": "monday-specials", "name": "Monday specials", "blurb": "Bars with a mezcal deal on Mondays", "filter": "special", "keywords": ["special", "deal", "discount", "happy hour", "monday", "cheap", "promo"] },
+  { "slug": "mezcal-on-the-menu", "name": "Mezcal on the menu", "blurb": "Every bar that pours it, by the glass or in a cocktail", "filter": "menu", "keywords": ["menu", "pour", "neat", "flight", "list", "bottle", "agave", "smoky", "smokey"] },
+  { "slug": "cocktails", "name": "Mezcal cocktails", "blurb": "Margaritas, palomas, negronis and old fashioneds with smoke", "filter": "cocktails", "keywords": ["cocktail", "margarita", "paloma", "mezcaloma", "negroni", "old fashioned", "carajillo", "mule", "sour", "drink"] },
+  { "slug": "restaurants", "name": "Restaurants", "blurb": "Dinner first, mezcal after", "filter": "restaurant", "keywords": ["restaurant", "dinner", "food", "eat", "steak", "seafood", "tacos", "mexican", "italian", "bistro"] },
+  { "slug": "bars-and-lounges", "name": "Bars and lounges", "blurb": "Late pours, patios and speakeasies", "filter": "bar", "keywords": ["bar", "lounge", "pub", "tavern", "speakeasy", "late", "night", "patio", "sports"] },
+  { "slug": "hotels-and-casinos", "name": "Hotels and casinos", "blurb": "Resort bars on the Strip and beyond", "filter": "hotel", "keywords": ["hotel", "casino", "resort", "strip", "vegas", "bellagio", "cosmopolitan", "mgm", "mandalay", "linq"] },
+  { "slug": "where-to-buy", "name": "Where to buy", "blurb": "Bottle shops and online", "filter": "store", "keywords": ["buy", "bottle", "shop", "store", "liquor", "total wine", "instacart", "online", "delivery", "purchase"] },
+  { "slug": "recipes", "name": "Recipes", "blurb": "Make it at home", "filter": "recipe", "keywords": ["recipe", "make", "home", "how to", "ingredients", "mix"] }
+]

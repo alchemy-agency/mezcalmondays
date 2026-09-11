@@ -1,0 +1,20 @@
+{
+  "brand": "Mezcal Monday",
+  "domain": "mezcal-monday.com",
+  "url": "https://mezcal-monday.com",
+  "tagline": "Where to drink mezcal this Monday.",
+  "description": "Mezcal Monday is the directory of bars and restaurants that pour mezcal, with Monday specials, a map finder, where to buy it and recipes for the smoky stuff.",
+  "contact_email": "hello@mezcal-monday.com",
+  "hashtag": "#mezcalmonday",
+  "instagram_url": "https://www.instagram.com/explore/tags/mezcalmonday/",
+  "default_center": { "lat": 37.3, "lng": -117.9, "zoom": 5 },
+  "map_tiles": { "carto_key": "" },
+  "regions": [
+    { "slug": "las-vegas", "name": "Las Vegas", "blurb": "The Strip, Downtown and Henderson", "center": { "lat": 36.13, "lng": -115.17 }, "zoom": 11, "match": { "state": "NV" } },
+    { "slug": "bay-area", "name": "Bay Area", "blurb": "Lafayette, Oakland, San Francisco and the East Bay", "center": { "lat": 37.8, "lng": -122.15 }, "zoom": 10, "match": { "state": "CA", "cities": ["Lafayette", "Oakland", "Pleasanton", "San Ramon", "Dublin", "San Francisco", "Napa"] } },
+    { "slug": "southern-california", "name": "Southern California", "blurb": "Long Beach, Newport, Manhattan Beach and the desert", "center": { "lat": 33.75, "lng": -117.9 }, "zoom": 9, "match": { "state": "CA", "cities": ["Long Beach", "Manhattan Beach", "Corona del Mar", "Palm Desert", "Newport Beach", "El Cajon"] } },
+    { "slug": "boston", "name": "Boston", "blurb": "Downtown, the Seaport and the suburbs", "center": { "lat": 42.36, "lng": -71.1 }, "zoom": 10, "match": { "state": "MA", "cities": ["Boston", "Framingham", "Dedham", "Burlington", "Lynnfield"] } },
+    { "slug": "cape-cod", "name": "Cape Cod", "blurb": "Hyannis, Brewster, Dennis Port and Woods Hole", "center": { "lat": 41.67, "lng": -70.25 }, "zoom": 10, "match": { "state": "MA", "cities": ["Hyannis", "Brewster", "West Harwich", "Dennis Port", "West Yarmouth", "Woods Hole"] } },
+    { "slug": "lake-tahoe", "name": "Lake Tahoe", "blurb": "Carnelian Bay on the north shore", "center": { "lat": 39.22, "lng": -120.08 }, "zoom": 11, "match": { "state": "CA", "cities": ["Carnelian Bay"] } }
+  ]
+}

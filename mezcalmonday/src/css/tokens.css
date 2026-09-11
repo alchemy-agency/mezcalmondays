@@ -1,0 +1,73 @@
+/* Mezcal Monday design tokens.
+   Palette: mineral paper and bottle-green ink with one agave-lime accent. Night theme is the inside of the bottle. */
+:root {
+  color-scheme: light;
+  --bg: #EEF1EA;
+  --surface: #F8FAF4;
+  --surface-2: #E2E8DB;
+  --surface-3: #D3DBCB;
+  --ink: #10201A;
+  --ink-2: #3E4F47;
+  --ink-3: #62736A;
+  --line: rgba(16, 32, 26, 0.11);
+  --line-strong: rgba(16, 32, 26, 0.2);
+  --accent: #C7E043;
+  --accent-hover: #B9D22F;
+  --accent-soft: rgba(199, 224, 67, 0.22);
+  --accent-ink: #10201A;
+  --accent-text: #2A6A4C;
+  --btn-bg: #10201A;
+  --btn-ink: #F3F6EC;
+  --scrim: rgba(16, 32, 26, 0.45);
+  --shadow: 0 24px 48px -28px rgba(16, 32, 26, 0.3);
+  --shadow-sm: 0 10px 24px -16px rgba(16, 32, 26, 0.24);
+  --map-tiles: light;
+
+  --font-display: 'Archivo', 'Geist', system-ui, sans-serif;
+  --font-body: 'Geist', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --r: 14px;
+  --r-in: 8px;
+  --r-pill: 999px;
+
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-soft: cubic-bezier(0.32, 0.72, 0, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --dur-fast: 160ms;
+  --dur: 260ms;
+  --dur-slow: 700ms;
+
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --container: 1360px;
+  --section: clamp(4rem, 7.5vw, 6.5rem);
+  --nav-h: 64px;
+
+  --z-nav: 40;
+  --z-drawer: 50;
+  --z-overlay: 60;
+  --z-toast: 70;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0C1B16;
+  --surface: #12251E;
+  --surface-2: #193128;
+  --surface-3: #213D32;
+  --ink: #EEF2E8;
+  --ink-2: #B3C0B6;
+  --ink-3: #7F918A;
+  --line: rgba(238, 242, 232, 0.1);
+  --line-strong: rgba(238, 242, 232, 0.2);
+  --accent: #D2E85A;
+  --accent-hover: #E0F072;
+  --accent-soft: rgba(210, 232, 90, 0.14);
+  --accent-ink: #0C1B16;
+  --accent-text: #D2E85A;
+  --btn-bg: #EEF2E8;
+  --btn-ink: #0C1B16;
+  --scrim: rgba(4, 12, 9, 0.62);
+  --shadow: 0 24px 48px -28px rgba(0, 0, 0, 0.7);
+  --shadow-sm: 0 10px 24px -16px rgba(0, 0, 0, 0.6);
+  --map-tiles: dark;
+}
