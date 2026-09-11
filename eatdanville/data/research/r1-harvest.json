@@ -1,0 +1,248 @@
+{
+ "official_name": "Danville Harvest",
+ "tagline": "Danville's Farm to Table Restaurant",
+ "cuisine": "New American / Californian farm-to-table",
+ "description": "Danville Harvest is a farm-to-table restaurant in downtown Danville led by Executive Chef Noe Briseno, built around sustainably sourced, seasonal Bay Area ingredients with an approachable menu of shared small plates, salads and mains. It describes itself as \"a pillar of the downtown community,\" serving weekday lunch, weekend brunch, daily dinner and a daily happy hour. Its bar program bills itself as award-winning, with seasonal craft cocktails, a \"Build your own Manhattan\" project and what it calls the largest whiskey selection in the Tri-Valley. The restaurant is part of restaurateur Darren Matte's group, which also runs Cocina Hermanas (Danville), Parkside Los Gatos and Per Diem (San Francisco).",
+ "owner_chef": "Owner: Darren Matte (restaurateur; group \"Restaurants by Darren Matte\"). Executive Chef: Noe Briseno.",
+ "opened": "2016 (reported as \"Established in 2016\" in Yelp-derived search snippets; the Yelp page itself could not be loaded to verify)",
+ "address": "500 Hartz Avenue",
+ "city": "Danville",
+ "state": "CA",
+ "zip": "94526",
+ "lat": 37.8206233,
+ "lng": -121.9979845,
+ "geo_source": "Nominatim node \"Danville Harvest, 500, Hartz Avenue, Danville\" from https://nominatim.openstreetmap.org/search?q=500%20Hartz%20Avenue%2C%20Danville%2C%20CA%2094526&format=json (the site's own Google Maps link agrees: 37.820691,-121.997899)",
+ "phone": "(925) 362-3665",
+ "email": "info@danvilleharvest.com (private events: events@danvilleharvest.com)",
+ "website": "https://www.danvilleharvest.com/",
+ "menu_url": "https://www.danvilleharvest.com/menu",
+ "reservation_platform": "OpenTable (Squarespace OpenTable widget on the site's /reservations page)",
+ "reservation_url": "https://www.opentable.com/r/danville-harvest",
+ "order_online_url": "https://www.toasttab.com/danville-harvest/v3",
+ "private_dining_url": "https://www.danvilleharvest.com/events",
+ "catering_url": "",
+ "delivery_links": [
+  {
+   "platform": "DoorDash",
+   "url": "https://www.doordash.com/store/danville-harvest-danville-27776160/"
+  },
+  {
+   "platform": "Uber Eats",
+   "url": "https://www.ubereats.com/store/danville-harvest/23oxT6TIRy2umIerbLXtqA"
+  },
+  {
+   "platform": "order.online (DoorDash storefront)",
+   "url": "https://order.online/store/danville-harvest-danville-27776160/"
+  },
+  {
+   "platform": "Toast (pickup)",
+   "url": "https://www.toasttab.com/danville-harvest/v3"
+  }
+ ],
+ "google_maps_url": "https://www.google.com/maps/place/Danville+Harvest/@37.820691,-122.0000877,17z/data=!3m1!4b1!4m6!3m5!1s0x808f8cabe7bbc871:0x3c8989011120060e!8m2!3d37.820691!4d-121.997899!16s%2Fg%2F11c0vldnz0",
+ "google_rating": "4.3 (826 reviews) per Wanderlog's Google data",
+ "yelp_rating": "3.9 (approx. 1,471 reviews) per Yelp search snippet; Yelp page returned 403",
+ "yelp_url": "https://www.yelp.com/biz/danville-harvest-danville",
+ "instagram": "https://www.instagram.com/danvilleharvest/ (@danvilleharvest; bio per search snippet: \"Seasonal dining inspired by local ingredients Brunch • Lunch • Happy Hour • Dinner 📍 Downtown Danville\"; ~2,750 followers)",
+ "facebook": "https://www.facebook.com/danvilleharvest/ (92% recommend, 682 reviews, 1.5K followers, $$)",
+ "tiktok": "",
+ "price_range": "$$",
+ "hours": [
+  {
+   "day": "Monday",
+   "open": "11:30 AM",
+   "close": "8:30 PM",
+   "notes": "Lunch 11:30-3, happy hour 3-5, dinner 4-8:30"
+  },
+  {
+   "day": "Tuesday",
+   "open": "11:30 AM",
+   "close": "9:00 PM",
+   "notes": "Lunch 11:30-3, happy hour 3-5, dinner from 4"
+  },
+  {
+   "day": "Wednesday",
+   "open": "11:30 AM",
+   "close": "9:00 PM",
+   "notes": "Lunch 11:30-3, happy hour 3-5, dinner from 4"
+  },
+  {
+   "day": "Thursday",
+   "open": "11:30 AM",
+   "close": "9:00 PM",
+   "notes": "Lunch 11:30-3, happy hour 3-5, dinner from 4"
+  },
+  {
+   "day": "Friday",
+   "open": "11:30 AM",
+   "close": "9:30 PM",
+   "notes": "Lunch 11:30-3, happy hour 3-5, dinner from 4 (site: 'later on weekends')"
+  },
+  {
+   "day": "Saturday",
+   "open": "10:00 AM",
+   "close": "9:30 PM",
+   "notes": "Brunch 10-3, happy hour 3-5, dinner from 4"
+  },
+  {
+   "day": "Sunday",
+   "open": "10:00 AM",
+   "close": "8:00 PM",
+   "notes": "Brunch 10-3, happy hour 3-5, Sunday Fried Chicken Supper from 5 PM"
+  }
+ ],
+ "hours_source": "Official site (danvilleharvest.com home/contact) gives service windows only: Lunch weekdays 11:30am-3pm, Brunch weekends 10am-3pm, Dinner daily 4pm-8:30pm \"(later on weekends)\", Happy Hour daily 3pm-5pm. Day-by-day open/close times are Google-derived listings that agree with each other (wanderlog.com/place/details/440764, restaurantji.com, danville-harvest.res-discover.com).",
+ "latest_close_time": "9:30 PM Fri-Sat (Google-derived listings; official site only says dinner ends 8:30 PM, \"later on weekends\")",
+ "happy_hour": "Daily 3-5 PM (official site). Happy hour menu: $5 bites (fried chicken slider, shrimp lettuce wrap, short rib taco, Italian meatballs 2 pcs, short rib empanada, ahi tuna tostada, fries; sweet potato fries +$3, truffle +$5); $10 cocktails (Solstice, Old-Fashioned, Southpaw, Hi-Tide; A Pimm's Style $11), $5 off all other signature cocktails; $5 draft beers (Bo Pils, Fieldwork Hazy IPA, Mother Earth Cream Ale, Coronado Salty Crew Blonde); $9 wines (Argiolas Vermentino, EOS Cabernet), Chateau de Bligny Brut $18, $3 off all other wines by the glass; Three Horseman Elijah Craig whiskey flight $20.",
+ "late_night": "None found. Dinner runs to 8:30 PM (9:30 PM Fri-Sat per Google-derived hours); no late-night or nightcap menu published and no evidence the bar stays open past the kitchen. Desserts are offered (DoorDash \"Sweets\": Jumbo Choc Cookies, Bread Pudding, Beignets) but no dessert menu is posted on the website.",
+ "industry_night": "None found on the official site, menus, or listings.",
+ "services": {
+  "brunch": true,
+  "lunch": true,
+  "dinner": true,
+  "late_night": false,
+  "private_dining": true,
+  "catering": true,
+  "takeout": true,
+  "delivery": true,
+  "secret_menu": false,
+  "industry_specials": false,
+  "happy_hour": true,
+  "full_bar": true,
+  "patio": true,
+  "live_music": false,
+  "reservations": true,
+  "kids_menu": true,
+  "dog_friendly": true
+ },
+ "services_notes": "brunch: weekends 10am-3pm with a dedicated Brunch PDF (June 2026) on danvilleharvest.com/menu. lunch: weekdays 11:30am-3pm, Lunch PDF. dinner: daily 4pm-8:30pm, Dinner PDF. private_dining: /events page lists Front Bar Dining (up to 24), Main Dining Room (48 seated/70 standing, curtained back section up to 20), Side Patio (26 seated/36 standing), full-restaurant buyout; contact events@danvilleharvest.com. catering: contact page lists \"General & Catering Inquiries info@danvilleharvest.com\" (no catering menu published). takeout: \"Order Online\" Toast link on the site; Facebook lists \"In-store pickup\"; DoorDash shows ordering windows 11:30am-2:25pm and 5-8:10pm. delivery: DoorDash store live with delivery (4.6, 100+); Uber Eats listing exists (page blocked, not read); Grubhub now says \"Not available on Grubhub anymore\". happy_hour: daily 3-5pm per site + Happy Hour PDF. full_bar: cocktails, whiskey flights, wine, draft/canned beer on every menu; site claims largest whiskey selection in the Tri-Valley. patio: \"Side Patio\" on events page; Facebook \"Outdoor seating\". reservations: OpenTable widget on /reservations and OpenTable listing. kids_menu: site advertises \"Kids Eat Free Mon-Thu 4-6 PM, free kids meal (up to $11) per adult entree\", implying kids meals, though no kids menu PDF is posted. dog_friendly: third-party only - Restaurantji lists \"Pet Friendly\" and BringFido has a listing titled \"Danville Harvest is pet friendly!\" (page blocked); not stated on the official site. live_music/secret_menu/industry_specials/late_night: no evidence found.",
+ "signature_dishes": [
+  {
+   "name": "Hushpuppies (VG)",
+   "price": "$13",
+   "course": "Starter",
+   "description": "Corn, cheddar, scallions, bell pepper, maple sriracha butter, hot honey, cilantro aioli (dinner/lunch/brunch menus; Wanderlog calls them 'locally-famous')"
+  },
+  {
+   "name": "Millionaire Bacon (GF)",
+   "price": "$16",
+   "course": "Starter",
+   "description": "Thick cut - classic, maple, BBQ (dinner & brunch)"
+  },
+  {
+   "name": "Short Rib Bites",
+   "price": "$17",
+   "course": "Starter",
+   "description": "Honey glaze, crispy shallots, sesame seeds, spicy aioli (dinner & lunch)"
+  },
+  {
+   "name": "Braised Short Ribs",
+   "price": "$31",
+   "course": "Main",
+   "description": "Tamarind-chipotle glaze, fettuccine, sauteed greens, gremolata (dinner)"
+  },
+  {
+   "name": "Danville Burger",
+   "price": "$26",
+   "course": "Main",
+   "description": "Filet mignon-prime rib patty, smoked cheddar, lettuce, pickled onion, tomato, pickle, secret sauce, fries (dinner)"
+  },
+  {
+   "name": "Filet Mignon (GF)",
+   "price": "$42",
+   "course": "Main",
+   "description": "Two 3oz medallions, green beans, carrots, 3-cheese potato gratin, brandy-mushroom sauce (dinner)"
+  },
+  {
+   "name": "Horseradish Crusted Salmon",
+   "price": "$30",
+   "course": "Main",
+   "description": "Basil infused potato puree, collard greens, red wine butter sauce (dinner)"
+  },
+  {
+   "name": "Fried Chicken Sandwich",
+   "price": "$17",
+   "course": "Lunch",
+   "description": "Cabbage slaw, swiss cheese, jalapeno, mayonnaise, dutch crunch (lunch; $21 with fried egg at brunch)"
+  },
+  {
+   "name": "Short Rib Hash (GF)",
+   "price": "$23",
+   "course": "Brunch",
+   "description": "Sunny-side eggs, peppers, kale, Brussels sprouts, sweet potatoes, harissa hollandaise"
+  },
+  {
+   "name": "Sunday Evening Fried Chicken Supper",
+   "price": "$25 per person / $80 family of 4",
+   "course": "Weekly special",
+   "description": "Every Sunday from 5 PM - 'Crispy, golden, and made with love... just like grandma used to make' (home page Weekly Offerings; also printed on dinner and lunch menus)"
+  }
+ ],
+ "signature_drinks": [
+  {
+   "name": "Harvest Old-Fashioned",
+   "price": "$18",
+   "description": "Elijah Craig bourbon, rye, barrel proof & toasted barrel, demerara, bitters"
+  },
+  {
+   "name": "Hi-Tide",
+   "price": "$16",
+   "description": "House-infused blood orange tequila, Ramazzotti rosato, lime, hibiscus rim"
+  },
+  {
+   "name": "Smoke on the Water",
+   "price": "$18",
+   "description": "Rye whiskey, Jelinek fernet, maple-chai, orange/Creole bitters"
+  },
+  {
+   "name": "Cal Salida",
+   "price": "$16",
+   "description": "Grapefruit & habanero infused mezcal, Pamplemousse, honey, lemon"
+  },
+  {
+   "name": "Sombra Diablo",
+   "price": "$16",
+   "description": "Mezcal, banana, guava, elderflower, lime, rosemary"
+  },
+  {
+   "name": "Mimosa Bar - Bottle Service, Make Your Own",
+   "price": "$28 (single mimosa $12)",
+   "description": "Brunch: carafe of juice - orange, hibiscus or pineapple - with bubbles; Bloody Mary/Maria $13 (vodka or mezcal, housemade mix; Fully Loaded +$4)"
+  }
+ ],
+ "desserts": [
+  "Bread Pudding (DoorDash 'Sweets' category, $14.70 DoorDash price)",
+  "Beignets (DoorDash 'Sweets', $14.70 DoorDash price)",
+  "Jumbo Choc Cookies (DoorDash 'Sweets', $12.60 DoorDash price)",
+  "Brunch 'shared' sweets from official Brunch PDF: Cinnamon Roll $9 (Old Towne Bakery roll, walnuts, caramel, berries), Mini Donuts $14 (cinnamon sugar, chocolate & caramel dip), Banana Bread $10 (chocolate chips, honey butter)"
+ ],
+ "brand_colors_or_style": "Squarespace site with Adobe Fonts (Typekit): headings and buttons in \"Granville\" (bold 700, a serif display face), body/navigation in \"Degular\" (sans), meta text in \"Brandon Grotesque\". Palette from site.css: warm cream page background #F8F5DF (hsl 52.8, 64%, 92%), deep forest green #212E21 used as the site's \"black\"/dark sections, beige-tan light accent #E6DCC8, and sage green dark accent #AEC0AB - an earthy cream/green farmhouse scheme. Imagery is large photography of produce, plated dishes (glazed short ribs, a Manhattan cocktail, seasonal salad and fried chicken), the back dining room and the exterior; logo file is \"Danville_Harvest_conceptlogo.png\". Overall mood: warm, rustic-modern farm-to-table.",
+ "notes": "NAME DISAMBIGUATION: the full-service \"Harvest\" in downtown Danville is officially \"Danville Harvest\" (500 Hartz Ave). \"Harvest Kitchen\" at 190 Hartz Ave (DoorDash/Grubhub/Seamless listings) is a delivery-only virtual brand operated out of Vitality Bowls' store at 190 Hartz Ave Ste 150 (per NRN: \"Vitality Bowls launches Harvest Kitchen hybrid virtual brand nationally\" and vitalitybowls.com order pages) - not a standalone restaurant. A separate \"Harvest Prep Kitchen\" at 202 Sycamore Valley Rd W is marked CLOSED on Yelp. MENUS: all dishes/prices come from the June 2026 Dinner, Lunch and Brunch PDFs and the Happy Hour PDF linked from danvilleharvest.com/menu (extracted with pdftotext). Menu footnotes: bread service $4; 20% service charge for parties of 6 or more; VG/v/GF labeling. WEEKLY OFFERINGS on the home page: Sunday Fried Chicken Supper $25/person or $80 family of 4 from 5 PM; Kids Eat Free Mon-Thu 4-6 PM (free kids meal up to $11 per adult entree); Happy Hour every day 3-5 PM. GAPS/CAVEATS: Yelp, OpenTable, Tripadvisor, Toast, Uber Eats, order.online and BringFido pages returned 403/CAPTCHA to WebFetch, curl and a text proxy, so Yelp (3.9, ~1.4k) and OpenTable (4.7, 1,743 diners) ratings and the Instagram bio/follower count come from search-result snippets only; Tripadvisor 4.0 (61) and Google 4.3 (826) come from Wanderlog. The \"established 2016\" date is snippet-only. The OpenTable restaurant ID could not be extracted from the site's widget (loaded by JS). No dessert menu is published on the site; dessert names come from DoorDash's Sweets category (DoorDash prices are marked up). Dog-friendly status rests on Restaurantji and a BringFido listing title only. No TikTok account, live music, industry night or secret menu was found. The Happy Hour PDF was uploaded earlier (March 2026) than the June 2026 food menus. danvillesocial.com shows older hours (to 10 PM Thu-Sat) that conflict with current Google-derived hours; the current listings were used.",
+ "sources": [
+  "https://www.danvilleharvest.com/",
+  "https://www.danvilleharvest.com/menu",
+  "https://www.danvilleharvest.com/contact",
+  "https://www.danvilleharvest.com/reservations",
+  "https://www.danvilleharvest.com/events",
+  "https://static1.squarespace.com/static/63c99b384e950111606a8e1a/t/6a3b467cc8baad5d50ff1fd3/1782269564401/Harvest+-+Dinner+JUNE+2026.pdf",
+  "https://static1.squarespace.com/static/63c99b384e950111606a8e1a/t/6a3b4639c0096f6c148edce7/1782269503944/LUNCH+JUNE+2026.pdf",
+  "https://static1.squarespace.com/static/63c99b384e950111606a8e1a/t/6a2c5a139cbb0b0830493794/1781291552891/Brunch+JUNE+2026.pdf",
+  "https://static1.squarespace.com/static/63c99b384e950111606a8e1a/t/69aa2d02ba9915096c5e02d5/1772760322924/Happy+Hour+For+Website.pdf",
+  "https://static1.squarespace.com/static/versioned-site-css/63c99b384e950111606a8e1a/52/5c5a519771c10ba3470d8101/63c99b384e950111606a8e36/1824/site.css",
+  "https://nominatim.openstreetmap.org/search?q=500%20Hartz%20Avenue%2C%20Danville%2C%20CA%2094526&format=json",
+  "https://wanderlog.com/place/details/440764/danville-harvest",
+  "https://www.restaurantji.com/ca/danville/danville-harvest-/",
+  "https://danville-harvest.res-discover.com/",
+  "https://www.danvillesocial.com/directory/danville-harvest/",
+  "https://culinaryagents.com/groups/2248-Restaurants-by-Darren-Matte",
+  "https://www.doordash.com/store/danville-harvest-danville-27776160/ (read via r.jina.ai)",
+  "https://www.facebook.com/danvilleharvest/about (read via r.jina.ai)",
+  "https://www.grubhub.com/restaurant/danville-harvest-500-hartz-ave-danville/8734736 (read via r.jina.ai)",
+  "https://www.yelp.com/biz/danville-harvest-danville (search snippet only; page blocked)",
+  "https://www.opentable.com/r/danville-harvest (search snippet only; page blocked)",
+  "https://www.instagram.com/danvilleharvest/ (search snippet only; login wall)",
+  "https://www.nrn.com/marketing-branding/vitality-bowls-launches-harvest-kitchen-hybrid-virtual-brand-nationally (search result headline re: Harvest Kitchen virtual brand)",
+  "https://www.bringfido.com/restaurant/89265 (search result title only; page blocked)"
+ ],
+ "confidence": 0.85
+}

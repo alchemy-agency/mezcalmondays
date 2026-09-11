@@ -1,0 +1,244 @@
+{
+ "official_name": "Kaia's Island Kitchen & Tiki Bar",
+ "tagline": "Come for the food, stay for the vibe, return for the magic",
+ "address": "480 Hartz Ave",
+ "city": "Danville",
+ "state": "CA",
+ "zip": "94526",
+ "phone": "(925) 820-7210",
+ "email": "info@kaiasdanville.com",
+ "website": "https://kaiasdanville.com/",
+ "lat": 37.8209385,
+ "lng": -121.9983871,
+ "geo_source": "https://nominatim.openstreetmap.org/search?q=480%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json (returned OSM way 982722700, still labeled with the predecessor business \"The Vine and Spirits\", 480 Hartz Avenue, Danville 94526 — same building)",
+ "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxrE3quMj4ARVZRm43itrZc",
+ "cuisine": "Hawaiian / island-inspired comfort food with a classic tiki cocktail bar",
+ "price_range": "$$$$",
+ "description": "Kaia's Island Kitchen & Tiki Bar opened in April 2025 at 480 Hartz Ave in downtown Danville, in the space that was formerly The Vine and Spirits wine bar. Veteran Danville restaurateur Randy Negi (longtime owner of Bridges and a partner at Danville Brewing Company) built the concept around family trips to Hawaii and named it for his granddaughter Kaia, whose painted portrait greets guests near the entrance. The menu is food-first Hawaiian comfort fare — Spam musubi, poke crisps and bowls, loco moco, chicken katsu, kalbi beef, macadamia-crusted catch and a shareable Hula Pie — paired with a serious tiki program (a '44 Mai Tai, Ohanapod Mai Tai, Chi Chi, Zombie, Navy Grog, rum flights) assembled with help from Danville Brewing head brewer Matt Sager. The room mixes bamboo, thatch, carved tiki statues, blown-glass orbs, a sunset beach mural and colorful lighting, with an island garden patio (heaters and tiki torches), a reservable \"Celi's Beach Hut,\" daily brunch and lunch, a keiki menu, and live Hawaiian music on Fridays.",
+ "owner_chef": "Owner: Randy Negi (local restaurateur; former longtime owner of Bridges Restaurant, partner at Danville Brewing Company). Cocktail menu led by Matt Sager, head brewer at Danville Brewing Company. No named executive chef found.",
+ "opened": "April 2025 (Diablo Magazine, 3/18/2025: planned launch \"second week of April\" 2025, dinner first then lunch and weekend brunch; mytiki.life and Yelp: reopened April 2025 after remodel of The Vine and Spirits; Town of Danville mayor welcome visit posted 6/27/2025)",
+ "hours": [
+  {
+   "day": "Sunday",
+   "open": "11:30 AM",
+   "close": "9:00 PM",
+   "notes": "Kitchen closes one hour before the bar; brunch & lunch combo 11:30 AM-3:00 PM"
+  },
+  {
+   "day": "Monday",
+   "open": "11:30 AM",
+   "close": "9:00 PM",
+   "notes": "Mai Tai Mondays all day; Aloha Hour 3-6 PM; kitchen closes one hour before the bar"
+  },
+  {
+   "day": "Tuesday",
+   "open": "11:30 AM",
+   "close": "9:00 PM",
+   "notes": "Aloha Hour 3-6 PM; kitchen closes one hour before the bar"
+  },
+  {
+   "day": "Wednesday",
+   "open": "11:30 AM",
+   "close": "10:00 PM",
+   "notes": "Aloha Hour 3-6 PM; kitchen closes one hour before the bar"
+  },
+  {
+   "day": "Thursday",
+   "open": "11:30 AM",
+   "close": "10:00 PM",
+   "notes": "Aloha Hour 3-6 PM; kitchen closes one hour before the bar"
+  },
+  {
+   "day": "Friday",
+   "open": "11:30 AM",
+   "close": "11:00 PM",
+   "notes": "Aloha Hour 3-6 PM; live music 6-10 PM; tables held for walk-ins 6-8 PM; kitchen closes one hour before the bar"
+  },
+  {
+   "day": "Saturday",
+   "open": "11:30 AM",
+   "close": "11:00 PM",
+   "notes": "Tables held for walk-ins 6-8 PM; kitchen closes one hour before the bar"
+  }
+ ],
+ "hours_source": "https://kaiasdanville.com/ footer (\"Sunday - Tuesday 11:30 AM - 9:00 PM; Wed - Thursday 11:30 AM - 10:00 PM; Friday - Saturday 11:30 AM - 11:00 PM; Island Brunch & Lunch Combo every day 11:30 AM - 3:00 PM; kitchen closes one hour before the bar\"). Matches Yelp-sourced hours shown on Apple Maps and the Tripadvisor search snippet. Toast online ordering hours differ (delivery/takeout 11:30 AM-8:00 PM on Thu 9/10/2026 per order.toasttab.com).",
+ "latest_close_time": "11:00 PM Fri-Sat (bar; kitchen closes about 10:00 PM)",
+ "happy_hour": "\"Aloha Hour\" Monday-Friday 3:00-6:00 PM: all draft beer $6/glass, $3 off all wine/sparkling by the glass, $3 off select cocktails ('44 Mai Tai, Chi Chi, Painkiller, Blue Hawaii, Zombie, Jet Pilot, Saturn, Kaia's Crown, Cranberry Punch, Seb's Signature Sling, Three Hour Tour, Ipanema Breeze). Food: Fried Fish Tacos (2) $8, Kalua Pork Tacos (2) $8, Tiki Chicken Bites $11, Green Waves (guac + ahi poke, taro chips) $12, Tiki Torch Satay $12, Huli Huli Sliders (3) $12, plus lunch-size small plates (Island Fries $6, Spam Musubi $10, Veggie Spring Rolls $10, Maui Salad $12, Kalua Pork Nachos $13, Coconut Shrimp $15, Poke Crisp $15, Poke Bowl $19, Garlic Shrimp Bowl $18, Kimo's Bowl $21, Early Bird Mix Plate $15). Also \"Mai Tai Mondays\" all day Monday (11:30 AM-9 PM): $5 off the '44 Mai Tai and Ohanapod Mai Tai, $3 off any call/custom Mai Tai.",
+ "late_night": "Bar stays open one hour after the kitchen closes (site: \"our kitchen closes one hour before the bar\"), so drinks run until 11 PM Fri-Sat (kitchen ~10 PM) and until 10 PM Wed-Thu. Dessert menu \"Sweets & Treats\": Hula Pie to Share $14, Chocolate Lava Cake $11, Kaia's Paradise $12, Dole Whip Soft Serve $8 bowl / $3 cone. No dedicated late-night or nightcap menu found.",
+ "industry_night": "None found on the website, specials page, or in searches.",
+ "services": {
+  "brunch": true,
+  "lunch": true,
+  "dinner": true,
+  "late_night": true,
+  "private_dining": true,
+  "catering": true,
+  "takeout": true,
+  "delivery": true,
+  "secret_menu": true,
+  "industry_specials": false,
+  "happy_hour": true,
+  "full_bar": true,
+  "patio": true,
+  "live_music": true,
+  "reservations": true,
+  "kids_menu": true,
+  "dog_friendly": true
+ },
+ "services_notes": "brunch: \"Island Brunch & Lunch Combo Every Day 11:30 AM-3:00 PM\" (home footer); Brunch/Lunch menu has \"Sun Rise Plates\" (Da Kine Breakfast $18, Lilikoi Pancakes $15, Ube Waffle $15) and \"Golden Mornings\" mimosas/Bloody Mary (drink menu). lunch: Lunch Mixed Plate, lunch-size salads/bowls on Brunch/Lunch menu. dinner: Dinner Menu \"Second Wave\" entrees (food-menu page). late_night: bar open one hour past kitchen close, until 11 PM Fri-Sat (home footer). private_dining: Parties page \"Group Reservations and Private Parties\" with Party Menu (Aloha Lunch $35pp, Aloha Feast $48pp, Kaia's Deluxe $59pp, Ohana Buffet $75pp) and \"Reserve Celi's Beach Hut\" on the patio (home page). catering: Yelp amenities (via Apple Maps) list \"Catering services\"; party inquiry form includes \"To get a special event catered\"; per-person \"Escape & Celebrate Platters\" ($8-$12pp) on the party menu; food page says \"To-go catering tray options coming soon! from family of 4 packs, up to 20 people\". takeout/delivery: \"Order online directly with us for pickup or delivery\" via Toast (order.toasttab.com/online/kaiasdanville); DoorDash and Uber Eats store pages exist. secret_menu: footer \"Follow us on social media for specials and secret menu items!\". happy_hour: Aloha Hour Mon-Fri 3-6 PM (food menu + specials page). full_bar: tiki cocktails, rum flights, draft/can beer, wine; Instagram bio \"restaurant and full bar\". patio: \"lush island garden patio\" (home page), gallery photo \"Outdoor dining area\", Bay Area Telegraph: patio with heaters and tiki torches. live_music: specials page \"Every Friday Live Music 6:00 PM-10:00 PM\"; home page \"soulful live Hawaiian music... ukulele serenades\". reservations: Resy (\"We now accept reservations on RESY!\"; Fri & Sat 6-8 PM tables held for walk-ins). kids_menu: \"Keiki Lunch Menu\" and \"Keiki Dinner Menu\", all items $11, cone Dole Whip included. dog_friendly: Yelp amenity \"Pets welcome\" as shown on the Apple Maps listing (not confirmed on the official site). industry_specials: no evidence found.",
+ "signature_dishes": [
+  {
+   "name": "Spam Musubi",
+   "course": "First Waves (appetizer)",
+   "price": "$14",
+   "description": "Seared Spam, rice, nori, teriyaki glaze, furikake, lemon-sriracha aioli dipping sauce"
+  },
+  {
+   "name": "Poke Crisp",
+   "course": "First Waves (appetizer)",
+   "price": "$19",
+   "description": "Ahi poke, crispy taro chips, seaweed salad, fried rice noodles, lilikoi-chili water"
+  },
+  {
+   "name": "Kalua Pork Nachos",
+   "course": "First Waves (appetizer)",
+   "price": "$16",
+   "description": "Kalua pork, crispy taro chips, cheese, lomi tomatoes, guacamole, pickled jalapeno, cilantro cream drizzle"
+  },
+  {
+   "name": "Loco Moco",
+   "course": "Second Wave (dinner entree)",
+   "price": "$23",
+   "description": "Schmitz Ranch beef patty on rice, homemade brown gravy, two fried eggs, scallions, fried leeks"
+  },
+  {
+   "name": "Chicken Katsu",
+   "course": "Second Wave (dinner entree)",
+   "price": "$22",
+   "description": "Panko-breaded chicken breast, steamed rice, Hawaiian potato salad, pickled ginger, katsu sauce"
+  },
+  {
+   "name": "Kalbi Beef",
+   "course": "Second Wave (dinner entree)",
+   "price": "$31",
+   "description": "Boneless marinated short rib with teriyaki sauce, furikake and scallions, steamed rice, stir-fry veggies"
+  },
+  {
+   "name": "Macadamia Nut Crusted Catch",
+   "course": "Second Wave (dinner entree)",
+   "price": "AQ (market price)",
+   "description": "Fish of the day crusted in macadamia nuts, steamed rice, stir-fry veggies, coconut-ginger glaze"
+  },
+  {
+   "name": "Miso Salmon",
+   "course": "Second Wave (dinner entree)",
+   "price": "$27",
+   "description": "Seared salmon with miso glaze over veggie-garlic black fried rice, lemon-sriracha aioli"
+  },
+  {
+   "name": "Fresh Catch Tacos",
+   "course": "Hand-Helds",
+   "price": "$19",
+   "description": "Sauteed marinated mahi mahi, shredded cabbage, pineapple pico de gallo, avocado cream, lime; served with fries or Hawaiian potato salad"
+  },
+  {
+   "name": "Poke Bowl",
+   "course": "Salads & Bowls",
+   "price": "$24 dinner ($20/$24 lunch)",
+   "description": "Ahi poke, steamed rice, avocado, edamame, pineapple salsa, pickled cucumber, carrot and onion, furikake"
+  }
+ ],
+ "signature_drinks": [
+  {
+   "name": "'44 Mai Tai",
+   "price": "$17",
+   "description": "The 'classic' mai tai: Appleton rum, lime juice, orgeat, orange curacao — the About page calls it 'the most loved'"
+  },
+  {
+   "name": "Ohanapod Mai Tai",
+   "price": "$18",
+   "description": "Koloa coconut rum, Coruba rum, orange curacao, lime and pineapple juice, topped with honey/lilikoi/egg-white foam"
+  },
+  {
+   "name": "Chi Chi",
+   "price": "$16",
+   "description": "Pau Maui vodka, coconut syrup, pineapple juice, Trader Vic's macadamia nut liqueur — the house 'silky-smooth' signature"
+  },
+  {
+   "name": "Zombie",
+   "price": "$16",
+   "description": "Flor de Cana aged rum, Avua aged cachaca, Planteray OFTD, lime, passion fruit syrup, cinnamon syrup, Falernum"
+  },
+  {
+   "name": "Three Hour Tour",
+   "price": "$16",
+   "description": "Flor de Cana light and aged rums, lime juice, pineapple juice, Trader Vic's macadamia nut liqueur"
+  },
+  {
+   "name": "Navy Grog",
+   "price": "$18",
+   "description": "Pusser's rum, Flor de Cana aged rum, Planteray OFTD, lime, grapefruit, honey syrup, soda"
+  }
+ ],
+ "desserts": [
+  "Hula Pie to Share ($14) — chocolate cookie crust, macadamia nut gelato, whipped cream, toasted coconut, toasted macadamia nuts, chocolate fudge sauce",
+  "Chocolate Lava Cake ($11) — warm chocolate cake, vanilla bean gelato, chocolate shavings, fudge sauce, powdered sugar",
+  "Kaia's Paradise ($12) — fried pineapple ring coated in cookie crumbles, vanilla bean gelato, caramel sauce, sea salt",
+  "Dole Whip Soft Serve ($8 big bowl / $3 small cone) — pineapple, strawberry, or swirl"
+ ],
+ "menu_url": "https://kaiasdanville.com/food-menu",
+ "order_online_url": "https://order.toasttab.com/online/kaiasdanville",
+ "reservation_platform": "Resy",
+ "reservation_url": "https://resy.com/cities/danville-ca/venues/kaias-island-kitchen-and-tiki-bar",
+ "private_dining_url": "https://kaiasdanville.com/party",
+ "catering_url": "https://kaiasdanville.com/party",
+ "delivery_links": [
+  {
+   "platform": "Toast (direct pickup/delivery)",
+   "url": "https://order.toasttab.com/online/kaiasdanville"
+  },
+  {
+   "platform": "DoorDash",
+   "url": "https://www.doordash.com/store/kaias-island-kitchen-&-tiki-bar-danville-36555069/"
+  },
+  {
+   "platform": "Uber Eats",
+   "url": "https://www.ubereats.com/store/kaias/l5XlTy3RSFiCVSWJGESUFw"
+  }
+ ],
+ "instagram": "https://www.instagram.com/kaiasdanville/",
+ "facebook": "https://www.facebook.com/574146842444621",
+ "yelp_url": "https://www.yelp.com/biz/kaia-s-danville",
+ "yelp_rating": "3.9 (approx. 235-237 reviews; Yelp page title Sept 2026 says 235 reviews, Apple Maps' Yelp feed says 3.9/237)",
+ "brand_colors_or_style": "Logo is a bold, all-caps, slightly distressed serif wordmark \"KAIA'S\" in dark olive (logo.png, ~#494714). The SpotHopper-built site uses a warm cream ground (#f3efe5) with dark-olive text (#494714 / #46430f) and bright tropical accents: palm green #66b95f (dominant), sunny yellow #ffde59, teal #52acaf, sunset orange #e58747, orchid purple #cb6ce6, with a rust-brown #a4664c nav hover. Type is Jost and Lexend Deca (clean geometric sans) with Agdasima/Poppins accents; all-caps headline copy (\"SIP THE TROPICS, WALK THE DREAM\", \"MEET US UNDER THE PALMS\"). Photography and decor: thatched-roof bar, a \"fiery sunset\" beach-and-palms wall mural, bamboo trim, carved tiki statues, blown-glass orbs, colorful lighting, tiki mugs, a fire-pit table, palm-lined garden patio with tiki torches. Mood: playful, saturated, family-friendly tropical escape rather than a dark dive-tiki look.",
+ "sources": [
+  "https://kaiasdanville.com/",
+  "https://kaiasdanville.com/danville-downtown-danville-kaia-s-island-kitchen-and-tiki-bar-about",
+  "https://kaiasdanville.com/food-menu",
+  "https://kaiasdanville.com/drink-menu",
+  "https://kaiasdanville.com/happy-hours-specials",
+  "https://kaiasdanville.com/party",
+  "https://kaiasdanville.com/gallery",
+  "https://kaiasdanville.com/css/custom.css",
+  "https://static.spotapps.co/website_images/ab_websites/185099_website_v4/logo.png",
+  "https://order.toasttab.com/online/kaiasdanville",
+  "https://nominatim.openstreetmap.org/search?q=480%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json",
+  "https://maps.apple.com/place?place-id=I60703D19645509D8",
+  "https://www.yelp.com/biz/kaia-s-danville",
+  "https://www.diablomag.com/blog/diablo-dish/diablo-dish-an-island-breeze-blows-into-danville/article_b193eef0-0453-11f0-bf79-a32dd5842507.html",
+  "https://bayareatelegraph.com/2025/07/01/review-danvilles-new-tiki-bar-is-incredibly-fun-and-genuinely-delicious/",
+  "https://ultimatemaitai.com/2025/05/14/kaias-brings-tiki-to-the-east-bay-suburbs/",
+  "https://mytiki.life/tiki-bars/kaias-island-kitchen-tiki-bar",
+  "https://www.beyondthecreek.com/kaias-island-kitchen-tiki-bar-opens-in-danville/",
+  "https://www.yourtownmonthly.com/2026/08/taste-of-your-town-kaias-island-kitchen-tiki-bar/",
+  "https://www.instagram.com/p/DLbHAsesuP0/",
+  "https://www.instagram.com/kaiasdanville/",
+  "https://business.danvilleareachamber.com/list/member/kaia-s-island-kitchen-tiki-bar-4876",
+  "https://www.tripadvisor.com/Restaurant_Review-g60802-d33132686-Reviews-Kaia_s_Island_Kitchen_And_Tiki_Bar-Danville_Tri_Valley_California.html",
+  "https://www.doordash.com/store/kaias-island-kitchen-&-tiki-bar-danville-36555069/",
+  "https://www.ubereats.com/store/kaias/l5XlTy3RSFiCVSWJGESUFw",
+  "https://resy.com/cities/danville-ca/venues/kaias-island-kitchen-and-tiki-bar"
+ ],
+ "notes": "Not found / could not verify: Google star rating (Google Maps place page returned only the generic shell; place_id ChIJfxrE3quMj4ARVZRm43itrZc comes from the site's own Get Directions link). Yelp's own page returned a bot-block, so the 3.9 rating comes from Yelp's page title in search results plus the Yelp-sourced Apple Maps listing. Tripadvisor page was blocked; a search snippet shows it \"rated 5.0 of 5, #69 of 106 restaurants in Danville\" but review count is unknown. Resy page is a JS shell (no hours/notes readable). DoorDash and Uber Eats store pages returned 403/Cloudflare; the links are from search results (titles confirm Kaia's, Danville). Instagram bio (from search snippet, ~2,572 followers): \"an island-inspired escape with the spirit of Aloha... Restaurant and full bar. Family friendly. Open daily.\" Price range \"$$$$\" is what Yelp lists; actual menu runs $9-$19 starters, $16-$31 entrees, $16-$18 cocktails, which reads more like $$-$$$. The Toast gift card link still uses the old Vine slug: https://www.toasttab.com/the-vine-new-480-hartz-avenue/giftcards. Toast online-ordering closes at 8 PM (delivery/takeout 11:30 AM-8 PM on the day checked), earlier than dine-in hours. Diablo Magazine (3/18/2025) says the space is the former annex to Bridges; owner Negi is of Japanese descent and describes Kaia's as \"a restaurant first.\" The Bay Area Telegraph reviewer noted only recorded ukulele music on their visit, but the official specials page lists live music every Friday 6-10 PM. Dog-friendly is based solely on Yelp's \"Pets welcome\" amenity. Catering is marked true but note the site says to-go catering trays are \"coming soon.\" No TikTok found. No chef named anywhere; the cocktail list credit (Matt Sager) is from Diablo Magazine.",
+ "confidence": 0.85
+}

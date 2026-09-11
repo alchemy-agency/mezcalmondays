@@ -1,0 +1,224 @@
+{
+ "official_name": "Rancho Cantina Danville",
+ "website": "https://www.ranchocantina.com/danville",
+ "tagline": "Ranch-To-Table Cuisine Has Arrived to Danville",
+ "cuisine": "Mexican / Californio \"rancho cuisine\" — wood-fired grill, tequila & mezcal bar",
+ "description": "Rancho Cantina Danville is the second location of the family-owned Lafayette original, opened by longtime Danville residents Nico and Alice Tzikas in the former Cocina Hermanas building on the corner of Hartz Avenue and Church Street. The kitchen, led by Executive Chef Carlos Navarro, cooks over a wood-fired (almond wood) grill and describes its food as inspired by the Spanish-Mexican Californios of California's ranching era: Vaquero Platters, carne asada, brick chicken, a 32 oz Cowboy Cut ribeye, and whole fried branzino alongside tacos, enchiladas, burritos and sizzling fajita skillets. The larger Danville building allowed a more substantial bar built around tequila and mezcal cocktails and a five-margarita lineup, with outdoor seating on the Hartz Avenue corner. It soft-opened Monday, August 24, 2026, with full online reservations from September 1.",
+ "address": "501 Hartz Ave",
+ "city": "Danville",
+ "state": "CA",
+ "zip": "94526",
+ "phone": "(925) 718-5153",
+ "email": "",
+ "lat": 37.8203575,
+ "lng": -121.9982374,
+ "geo_source": "https://nominatim.openstreetmap.org/search?q=501%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json (OSM way 743545145; the OSM object at 501 Hartz Avenue is still named for the previous tenant \"Cocina Hermanas\")",
+ "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rancho+Cantina+501+Hartz+Ave+Danville+CA+94526",
+ "hours": [
+  {
+   "day": "Sunday",
+   "open": "11:00 AM",
+   "close": "10:00 PM"
+  },
+  {
+   "day": "Monday",
+   "open": "11:00 AM",
+   "close": "10:00 PM"
+  },
+  {
+   "day": "Tuesday",
+   "open": "11:00 AM",
+   "close": "10:00 PM"
+  },
+  {
+   "day": "Wednesday",
+   "open": "11:00 AM",
+   "close": "10:00 PM"
+  },
+  {
+   "day": "Thursday",
+   "open": "11:00 AM",
+   "close": "10:00 PM"
+  },
+  {
+   "day": "Friday",
+   "open": "11:00 AM",
+   "close": "11:00 PM"
+  },
+  {
+   "day": "Saturday",
+   "open": "11:00 AM",
+   "close": "11:00 PM"
+  }
+ ],
+ "hours_source": "https://www.ranchocantina.com/danville (site-wide footer \"Rancho Cantina Danville — Now Open: Sun - Thurs 11am - 10pm, Fri - Sat 11am - 11pm\"; same block on /menu-danville, /contact-us-danville, /reservations-danville)",
+ "latest_close_time": "11:00 PM Fri-Sat",
+ "happy_hour": "No time-bounded happy hour published. Weekly deals: \"Margarita Mondays\" — $5 off top-shelf margaritas (site announcement bar, ranchocantina.com); \"Taco Tuesday Menu\" — $5 tacos (chicken tinga, carnitas, carne asada or vegetables; flour or corn), $10 Rancho Margarita (tequila blanco, lime, agave), plus Guacamole $14, Rancho Nachos $17, BBQ Corn Elotes $16, Ranchero Bean Dip $14 (Taco Tuesday card on /menu-danville).",
+ "late_night": "None found. Posted hours run to 10 PM Sun-Thu and 11 PM Fri-Sat with no separate bar or kitchen hours published; the Danville printed menu (6.11.26) has no dessert, nightcap or late-night section.",
+ "industry_night": "None found on the official site or in press coverage.",
+ "services": {
+  "brunch": false,
+  "lunch": true,
+  "dinner": true,
+  "late_night": false,
+  "private_dining": false,
+  "catering": true,
+  "takeout": true,
+  "delivery": false,
+  "secret_menu": false,
+  "industry_specials": false,
+  "happy_hour": false,
+  "full_bar": true,
+  "patio": true,
+  "live_music": false,
+  "reservations": true,
+  "kids_menu": true,
+  "dog_friendly": false
+ },
+ "services_notes": "lunch: opens 11am daily per site footer; Hoodline/Bay Area Telegraph report the Danville menu added salad options \"to appeal to the lunch crowd\". dinner: open until 10pm/11pm nightly per site footer. catering: /catering-danville — \"wood-fired shrimp, carne asada, chicken breast, guacamole and more for only $55 per person\", inquiry form + (925) 718-5153. takeout: /order-online-danville — \"Online Ordering Coming Soon... For takeout, you can place an order over the phone at (925) 718-5153\". full_bar: Type 47 (beer, wine, distilled spirits) license reported by Bay Area Telegraph 5/29/2026; printed menu lists whiskey, vodka, rum and mezcal cocktails. patio: Bay Area Telegraph 8/26/2026 says the remodeled space \"includes outdoor seating\"; 5/29/2026 article cites renderings with \"outdoor tables, umbrellas and landscaping\". reservations: /reservations-danville — \"now accepting online reservations for parties of up to 8 Guests. Walk-ins are warmly welcome... For large parties of 9 or more, please call (925) 718-5153\"; OpenTable restref 1504117. kids_menu: \"NIÑOS / KIDS\" section on printed menu (three $9 items with seasonal fruit). happy_hour set false because only day-of-week specials (Margarita Mondays, Taco Tuesday) were found, no timed happy hour. brunch false: legacy /menu-old page has a BRUNCH tab but the Danville printed menu has no brunch and no brunch hours are posted. delivery false: no DoorDash/Uber Eats/Grubhub listing found for the Danville address (only Lafayette on DoorDash). private_dining, live_music, dog_friendly: no evidence either way.",
+ "signature_dishes": [
+  {
+   "name": "Vaquero Platter",
+   "price": "$38",
+   "course": "Wood Fired",
+   "description": "Carne asada, chicken, shrimp, fresh herb chimichurri, fennel slaw, rice, pink beans, corn or flour tortillas"
+  },
+  {
+   "name": "Prime Cowboy Cut Bone-in Ribeye",
+   "price": "$120",
+   "course": "Wood Fired",
+   "description": "Serves two. 32 oz. frenched rib chop, dry-rubbed with Californio spices, served with marbled potatoes, grilled asparagus, side of fresh herb chimichurri"
+  },
+  {
+   "name": "Double Cut Pork Chop",
+   "price": "$42",
+   "course": "Wood Fired",
+   "description": "14oz pork chop, ranch rice, sautéed vegetables, tatemada sauce"
+  },
+  {
+   "name": "Carne Asada",
+   "price": "$32",
+   "course": "Wood Fired",
+   "description": "Steak, fresh herb chimichurri, Californio spices, fennel slaw, rice, pink beans, corn or flour tortillas"
+  },
+  {
+   "name": "Brick Chicken",
+   "price": "$29",
+   "course": "Wood Fired",
+   "description": "Chicken, Californio spices, fresh herb chimichurri, rice, pink beans, fennel slaw, corn or flour tortillas"
+  },
+  {
+   "name": "Wood-Fired Fresh Atlantic Salmon",
+   "price": "$36",
+   "course": "Wood Fired",
+   "description": "Grilled asparagus, marbled potatoes, fresh herb chimichurri"
+  },
+  {
+   "name": "Whole Fish",
+   "price": "$40",
+   "course": "Entree",
+   "description": "One pound deep-fried branzino bone-in European sea bass, served with rice, pink beans + choice of tortillas"
+  },
+  {
+   "name": "Bone Marrow Brûlée",
+   "price": "$29",
+   "course": "Antojitos / Small Plates",
+   "description": "Served with BBQ shrimp, onions, cilantro, sea salt"
+  },
+  {
+   "name": "Fajitas Skillet Trio",
+   "price": "$38",
+   "course": "Sizzling Skillets",
+   "description": "Wood-fired carne asada, chicken, shrimp, sautéed vegetables, fresh herb chimichurri, corn or flour tortillas"
+  },
+  {
+   "name": "BBQ Oysters",
+   "price": "3 for $15",
+   "course": "Antojitos / Small Plates",
+   "description": "Local oysters, mezcal, mozzarella + Tatemada salsa"
+  }
+ ],
+ "signature_drinks": [
+  {
+   "name": "Top Shelf Margarita",
+   "price": "$18",
+   "description": "Tequila reposado, lime, agave, topped with Grand Marnier ($5 off on Margarita Mondays)"
+  },
+  {
+   "name": "Mezcal Margarita",
+   "price": "$17",
+   "description": "Smokey mezcal, lime, agave"
+  },
+  {
+   "name": "Alicia's Spicy Sunset",
+   "price": "$17",
+   "description": "Reposado tequila, muddled jalapeño, blood orange, agave, lime"
+  },
+  {
+   "name": "Mango Brasa",
+   "price": "$19",
+   "description": "BNAAA Mezcal, mango, lemon, pineapple, agave, tajin rim"
+  },
+  {
+   "name": "Hibiscus Paloma",
+   "price": "$15",
+   "description": "Tequila blanco, hibiscus, lime, Fever Tree grapefruit soda"
+  },
+  {
+   "name": "Old Fashioned",
+   "price": "$16",
+   "description": "Mezcal, reposado, agave, bitters, fresh orange"
+  }
+ ],
+ "desserts": [
+  "Flourless Chocolate Cake ($10) — legacy ranchocantina.com/menu-old page only",
+  "House-made Flan ($10) — legacy ranchocantina.com/menu-old page only",
+  "Churros ($8) — legacy ranchocantina.com/menu-old page only"
+ ],
+ "menu_url": "https://www.ranchocantina.com/menu-danville",
+ "order_online_url": "https://www.ranchocantina.com/order-online-danville",
+ "reservation_platform": "OpenTable",
+ "reservation_url": "https://www.opentable.com/r/rancho-cantina-danville-reservations-danville?restref=1504117&lang=en-US&ot_source=Restaurant%20website",
+ "catering_url": "https://www.ranchocantina.com/catering-danville",
+ "private_dining_url": "",
+ "delivery_links": [],
+ "instagram": "https://www.instagram.com/rancho_cantina/",
+ "facebook": "https://www.facebook.com/p/Rancho-Cantina-100046665289596/",
+ "tiktok": "",
+ "yelp_url": "",
+ "yelp_rating": "",
+ "google_rating": "",
+ "price_range": "$$",
+ "owner_chef": "Owners: Nico and Alice Tzikas (Danville residents; took over the Lafayette original in April 2024). Executive Chef: Carlos Navarro (credited on the Danville printed menu).",
+ "opened": "Soft opened Monday, August 24, 2026; full online reservations from September 1, 2026 (Bay Area Telegraph). Diablo Dish dates the soft opening as August 26, 2026.",
+ "brand_colors_or_style": "Squarespace site with a restrained, heritage-serif look: headings in Orpheus Pro (a high-contrast display serif) and body/meta text in Adobe Garamond Pro; palette is black and white with a dark espresso-brown accent (hsl 42° 42% 13%, approx #2E2613) used for buttons/links and a pale warm gray (hsl 210° 3% 88%) secondary; page sections alternate white and black backgrounds. The printed menu is set on khaki/beige stock with a thin bracket-framed \"RANCHO CANTINA\" serif wordmark in black, gold-tan section headings (ANTOJITOS, WOOD FIRED, MARGARITA TIME), small crown ornaments, and vintage line-art illustrations of a vaquero on horseback, a covered wagon, a whole fish, a cowboy hat and a skillet. The Danville storefront was repainted in a medium tan body with a burnt-orange secondary and off-white trim (Bay Area Telegraph). Overall mood: rustic old-California ranch / Californio heritage rather than bright cantina kitsch.",
+ "sources": [
+  "https://www.ranchocantina.com/danville",
+  "https://www.ranchocantina.com/menu-danville",
+  "https://images.squarespace-cdn.com/content/v1/6601b7fc7a4fe3078e59a1f0/1ccd6793-56de-442c-9c4c-1ff63c69bdf0/AS+PRINTED+Rancho+Cantina+Danville+Main+Menu+%2B+Drinks+6.11.26+with+Bleed+beige+DMArtboard+1.jpg",
+  "https://images.squarespace-cdn.com/content/v1/6601b7fc7a4fe3078e59a1f0/15b16b63-27aa-47ab-be7d-8280302da91c/AS+PRINTED+Rancho+Cantina+Danville+Main+Menu+%2B+Drinks+6.11.26+with+Bleed+beige+DMArtboard+2.jpg",
+  "https://images.squarespace-cdn.com/content/v1/6601b7fc7a4fe3078e59a1f0/80ca3ada-7736-4bf0-bf53-2137c9df8b61/5x7+Taco+Tuesday+Menu+2026+June+V4_Part2.png",
+  "https://www.ranchocantina.com/order-online-danville",
+  "https://www.ranchocantina.com/reservations-danville",
+  "https://www.ranchocantina.com/catering-danville",
+  "https://www.ranchocantina.com/contact-us-danville",
+  "https://www.ranchocantina.com/our-story",
+  "https://www.ranchocantina.com/menu-old",
+  "https://www.ranchocantina.com/ (announcement bar: Margarita Mondays)",
+  "https://static1.squarespace.com/static/versioned-site-css/6601b7fc7a4fe3078e59a1f0/35/5c5a519771c10ba3470d8101/6601b7fc7a4fe3078e59a1f8/1824/site.css?nocustom=true",
+  "https://nominatim.openstreetmap.org/search?q=501%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json",
+  "https://bayareatelegraph.com/2026/08/26/a-long-awaited-mexican-restaurant-has-finally-soft-opened-in-danville/",
+  "https://bayareatelegraph.com/2026/05/29/new-rancho-cantina-in-danville-clears-a-major-hurdle-as-it-prepares-to-open/",
+  "https://www.danvillesanramon.com/food/2026/05/04/rancho-cantina-owners-eye-early-summer-opening-for-new-danville-restaurant/",
+  "https://www.diablomag.com/blog/diablo-dish/diablo-dish-rancho-cantina-opens-in-danville/article_8ec1a80b-b459-4c99-b980-634925556001.html",
+  "https://hoodline.com/2026/03/lafayette-s-rancho-cantina-saddles-up-for-downtown-danville-takeover/",
+  "https://whatnow.com/san-francisco/restaurants/rancho-cantina-expanding-to-downtown-danville/",
+  "https://patch.com/california/lamorinda/popular-lafayette-restaurant-opening-second-location-danville",
+  "https://www.beyondthecreek.com/rancho-cantina-coming-to-danville/",
+  "https://www.instagram.com/rancho_cantina/ (search-result snippet only)",
+  "https://www.facebook.com/p/Rancho-Cantina-100046665289596/",
+  "https://www.opentable.com/r/rancho-cantina-danville (link only; page unreachable)"
+ ],
+ "notes": "Gaps and caveats: (1) OpenTable listing body could not be read — opentable.com timed out / refused from every tool tried (WebFetch, curl, browser pane); the reservation URL is the one embedded on the restaurant's own /reservations-danville page (restref 1504117). (2) No Yelp listing for the Danville location surfaced in search (only the Lafayette page https://www.yelp.com/biz/rancho-cantina-lafayette, and the closed Cocina Hermanas page at 501 Hartz); yelp.com returned 403 to direct fetches, so yelp_url/yelp_rating are empty. (3) Google rating not obtained (Maps page returns JS payload without rating); google_maps_url is a constructed search link, not a read Place URL. (4) Instagram @rancho_cantina is the brand account (bio per search snippet: \"the spirit of the Spanish Californios with wood-fired fare & fresh cocktails\", ~919 followers); no Danville-specific handle found; the Facebook page is the brand/Lafayette page. (5) No email address published — contact is via phone or the site's form. (6) All dish/drink names and prices are transcribed from the printed Danville \"Main Menu + Drinks 6.11.26\" images on /menu-danville; that menu has no dessert section, so desserts are taken from the legacy /menu-old page (older, lower-priced menu) and may not be offered in Danville. (7) price_range \"$$\" is derived from posted menu prices (small plates $13-29, mains $18-42, one $120 ribeye for two), not from a platform tier. (8) Nominatim geocode resolves to the OSM restaurant object at 501 Hartz Avenue, still labeled \"Cocina Hermanas\" (previous tenant). (9) Announcement bar text says Margarita Mondays \"starting this Monday\" with no date; Taco Tuesday card is dated June 2026 and is shared with Lafayette. (10) Other drink/beer notables from the menu: Danville Brewing Rotator on draft ($8), Modelo Especial draft ($8), Michelada $12, housemade lemonade $5.50.",
+ "confidence": 0.8
+}

@@ -1,0 +1,1463 @@
+[
+  {
+    "slug": "rancho-cantina",
+    "name": "Rancho Cantina",
+    "short": "Rancho",
+    "initial": "R",
+    "cuisine": "Wood-fired Californio Mexican, tequila and mezcal bar",
+    "tagline": "Ranch-to-table cuisine has arrived in Danville",
+    "description": "Rancho Cantina opened on the corner of Hartz and Church in August 2026, the second location of the family-owned Lafayette original run by Danville residents Nico and Alice Tzikas. Executive Chef Carlos Navarro cooks over an almond-wood grill: Vaquero platters, carne asada, brick chicken, a 32 oz Cowboy Cut ribeye for two and whole fried branzino next to tacos, enchiladas and sizzling fajita skillets. The bigger Danville room made space for a real bar built on tequila and mezcal, with corner patio seating on Hartz.",
+    "price": "$$",
+    "address": "501 Hartz Ave",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94526",
+    "phone": "(925) 718-5153",
+    "phone_href": "tel:+19257185153",
+    "website": "https://www.ranchocantina.com/danville",
+    "menu_url": "https://www.ranchocantina.com/menu-danville",
+    "reservation_url": "https://www.opentable.com/r/rancho-cantina-danville-reservations-danville?restref=1504117&lang=en-US&ot_source=Restaurant%20website",
+    "reservation_platform": "OpenTable",
+    "order_url": "https://www.ranchocantina.com/order-online-danville",
+    "private_dining_url": "",
+    "catering_url": "https://www.ranchocantina.com/catering-danville",
+    "delivery": [],
+    "instagram": "rancho_cantina",
+    "facebook": "https://www.facebook.com/p/Rancho-Cantina-100046665289596/",
+    "yelp": "https://www.yelp.com/biz/rancho-cantina-danville-2",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=Rancho+Cantina+501+Hartz+Ave+Danville+CA+94526",
+    "lat": 37.82036,
+    "lng": -121.998255,
+    "hours": {
+      "mon": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    "bar_hours": null,
+    "hours_note": "Walk-ins welcome. Parties of 9 or more, call the restaurant.",
+    "happy_hour": {
+      "text": "No posted happy hour window. Day-of-week specials instead: Taco Tuesday with $5 tacos and a $10 Rancho Margarita, and Margarita Monday deals when announced.",
+      "days": [
+        "mon",
+        "tue"
+      ],
+      "start": "",
+      "end": ""
+    },
+    "late_night": {
+      "text": "Kitchen and bar run together until 10 PM Sunday to Thursday and 11 PM Friday and Saturday, the latest close on the corner most nights. The mezcal list is the natural last stop."
+    },
+    "services": {
+      "brunch": false,
+      "lunch": true,
+      "dinner": true,
+      "late_night": true,
+      "private_dining": false,
+      "catering": true,
+      "takeout": true,
+      "delivery": false,
+      "secret_menu": false,
+      "industry_specials": false,
+      "happy_hour": false,
+      "full_bar": true,
+      "patio": true,
+      "live_music": false,
+      "reservations": true,
+      "kids_menu": true,
+      "dog_friendly": false
+    },
+    "service_notes": {
+      "lunch": "Opens 11 AM daily",
+      "dinner": "Until 10 PM, 11 PM Friday and Saturday",
+      "late_night": "Kitchen and bar until close, 10 PM most nights and 11 PM Friday and Saturday",
+      "catering": "Wood-fired shrimp, carne asada, chicken and guacamole from $55 per person",
+      "takeout": "Order by phone at (925) 718-5153 while online ordering launches",
+      "patio": "Outdoor seating on the Hartz Avenue corner",
+      "reservations": "OpenTable for parties up to 8",
+      "kids_menu": "Ninos menu, three $9 plates"
+    },
+    "dishes": [
+      {
+        "name": "Vaquero Platter",
+        "desc": "Carne asada, chicken, shrimp, herb chimichurri, fennel slaw, rice, pink beans, tortillas",
+        "price": "$38",
+        "course": "main"
+      },
+      {
+        "name": "Prime Cowboy Cut Ribeye",
+        "desc": "32 oz bone-in rib chop for two, Californio spices, marbled potatoes, grilled asparagus",
+        "price": "$120",
+        "course": "main"
+      },
+      {
+        "name": "Double Cut Pork Chop",
+        "desc": "14 oz chop, ranch rice, sauteed vegetables, tatemada sauce",
+        "price": "$42",
+        "course": "main"
+      },
+      {
+        "name": "Carne Asada",
+        "desc": "Wood-fired steak, herb chimichurri, fennel slaw, rice, pink beans, tortillas",
+        "price": "$32",
+        "course": "main"
+      },
+      {
+        "name": "Brick Chicken",
+        "desc": "Californio spices, herb chimichurri, rice, pink beans, fennel slaw",
+        "price": "$29",
+        "course": "main"
+      },
+      {
+        "name": "Wood-Fired Atlantic Salmon",
+        "desc": "Grilled asparagus, marbled potatoes, herb chimichurri",
+        "price": "$36",
+        "course": "main"
+      },
+      {
+        "name": "Whole Fish",
+        "desc": "One-pound fried branzino, rice, pink beans, choice of tortillas",
+        "price": "$40",
+        "course": "main"
+      },
+      {
+        "name": "Fajitas Skillet Trio",
+        "desc": "Wood-fired carne asada, chicken and shrimp, sauteed vegetables, tortillas",
+        "price": "$38",
+        "course": "main"
+      },
+      {
+        "name": "Carnitas",
+        "desc": "Cantina menu",
+        "price": "$27",
+        "course": "main"
+      },
+      {
+        "name": "Rancho Enchiladas",
+        "desc": "Choice of three: chicken tinga, cheese or grilled vegetables, red chile, verde or mole",
+        "price": "$20",
+        "course": "main"
+      },
+      {
+        "name": "Taco Trio",
+        "desc": "Cantina menu",
+        "price": "$22",
+        "course": "lunch"
+      },
+      {
+        "name": "Ranchero Burrito or Bowl",
+        "desc": "Cantina menu, wet for $2 more",
+        "price": "$18",
+        "course": "lunch"
+      },
+      {
+        "name": "Cantina Burger",
+        "desc": "Half-pound angus or chicken breast on a Boudin bun",
+        "price": "$22",
+        "course": "lunch"
+      },
+      {
+        "name": "Bone Marrow Brulee",
+        "desc": "BBQ shrimp, onions, cilantro, sea salt",
+        "price": "$29",
+        "course": "starter"
+      },
+      {
+        "name": "BBQ Oysters",
+        "desc": "Local oysters, mezcal, mozzarella, tatemada salsa",
+        "price": "3 for $15",
+        "course": "starter"
+      },
+      {
+        "name": "Housemade Ceviche",
+        "desc": "Antojitos",
+        "price": "$16",
+        "course": "starter"
+      },
+      {
+        "name": "BBQ Corn Elotes",
+        "desc": "Antojitos",
+        "price": "$16",
+        "course": "starter"
+      },
+      {
+        "name": "Guacamole",
+        "desc": "Antojitos",
+        "price": "$14",
+        "course": "starter"
+      },
+      {
+        "name": "Taco Tuesday tacos",
+        "desc": "Chicken tinga, carnitas, carne asada or vegetables, flour or corn, Tuesdays",
+        "price": "$5",
+        "course": "lunch"
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Top Shelf Margarita",
+        "desc": "Reposado, lime, agave, Grand Marnier float",
+        "price": "$18"
+      },
+      {
+        "name": "Mezcal Margarita",
+        "desc": "Smoky mezcal, lime, agave",
+        "price": "$17"
+      },
+      {
+        "name": "Jalapeno Margarita",
+        "desc": "One of five house margaritas",
+        "price": "$16"
+      },
+      {
+        "name": "Alicia's Spicy Sunset",
+        "desc": "Reposado, muddled jalapeno, blood orange, agave, lime",
+        "price": "$17"
+      },
+      {
+        "name": "Mango Brasa",
+        "desc": "Mezcal, mango, lemon, pineapple, agave, tajin rim",
+        "price": "$19"
+      },
+      {
+        "name": "Hibiscus Paloma",
+        "desc": "Blanco, hibiscus, lime, grapefruit soda",
+        "price": "$15"
+      },
+      {
+        "name": "Old Fashioned",
+        "desc": "Mezcal, reposado, agave, bitters, orange",
+        "price": "$16"
+      },
+      {
+        "name": "Mexican Manhattan",
+        "desc": "Cocktail list",
+        "price": "$18"
+      },
+      {
+        "name": "Danville Brewing Rotator",
+        "desc": "Local draft",
+        "price": "$8"
+      }
+    ],
+    "desserts": [],
+    "nightcap": {
+      "text": "Last stop for a mezcal Old Fashioned or a Hibiscus Paloma at the bar. Kitchen runs until close.",
+      "items": [
+        "Old Fashioned, mezcal and reposado",
+        "Hibiscus Paloma",
+        "Mezcal Margarita",
+        "Mexican Manhattan"
+      ]
+    },
+    "industry": {
+      "text": ""
+    },
+    "tags": [
+      "mexican",
+      "tacos",
+      "tequila",
+      "mezcal",
+      "margaritas",
+      "wood-fired",
+      "steak",
+      "ribeye",
+      "fajitas",
+      "oysters",
+      "californio",
+      "cantina",
+      "patio",
+      "kids",
+      "carnitas",
+      "enchiladas",
+      "burger",
+      "ceviche",
+      "elotes"
+    ],
+    "images": {
+      "hero": "assets/img/rancho-cantina/hero.jpg",
+      "card": "assets/img/rancho-cantina/card.jpg",
+      "gallery": [
+        "assets/img/rancho-cantina/g1.jpg",
+        "assets/img/rancho-cantina/g2.jpg",
+        "assets/img/rancho-cantina/g3.jpg",
+        "assets/img/rancho-cantina/g4.jpg",
+        "assets/img/rancho-cantina/g5.jpg",
+        "assets/img/rancho-cantina/g6.jpg",
+        "assets/img/rancho-cantina/g7.jpg"
+      ],
+      "logo": ""
+    },
+    "sources": [
+      "https://www.ranchocantina.com/danville",
+      "https://www.ranchocantina.com/menu-danville",
+      "https://bayareatelegraph.com/2026/08/26/a-long-awaited-mexican-restaurant-has-finally-soft-opened-in-danville/"
+    ]
+  },
+  {
+    "slug": "incontro",
+    "name": "Incontro Ristorante",
+    "short": "Incontro",
+    "initial": "I",
+    "cuisine": "Regional Italian in the historic Hartz House",
+    "tagline": "Timeless Italian taste in Danville",
+    "description": "Incontro has served regional Italian cooking in the c. 1910 Hartz House since 2011, across stone-walled dining rooms, a covered veranda strung with lights and a garden patio with fire pits. Bread, pasta and desserts are made in house: the fontina-cream gnocchi is the dish people come back for, next to lobster ravioli, lasagne, a four-pasta Chef's Taste of Italy and secondi like skirt steak on saffron risotto. There is a full bar inside and out, live music on the patio in the warm months, a Sunday brunch buffet, a 16-seat Wine Room for private dinners and tray catering.",
+    "price": "$$$",
+    "address": "455 Hartz Ave",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94526",
+    "phone": "(925) 820-2349",
+    "phone_href": "tel:+19258202349",
+    "website": "https://www.incontrodanville.com/",
+    "menu_url": "https://order.boons.io/site/incontro-ristorante/327/y",
+    "reservation_url": "https://www.opentable.com/restaurant/profile/67189?ref=1068",
+    "reservation_platform": "OpenTable",
+    "order_url": "https://order.boons.io/site/incontro-ristorante/327/y",
+    "private_dining_url": "https://www.incontrodanville.com/",
+    "catering_url": "https://www.incontrodanville.com/catering/",
+    "delivery": [
+      {
+        "platform": "Boons",
+        "url": "https://order.boons.io/site/incontro-ristorante/327/y"
+      }
+    ],
+    "instagram": "incontro_ristorante",
+    "facebook": "https://www.facebook.com/INCONTRODANVILLE",
+    "yelp": "https://www.yelp.com/biz/incontro-ristorante-danville-2",
+    "google_maps": "https://www.google.com/maps?q=455+Hartz+Ave,Danville,+Ca",
+    "lat": 37.8207233,
+    "lng": -121.9988503,
+    "hours": {
+      "mon": [],
+      "tue": [
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "wed": [
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "thu": [
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "fri": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "sat": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "sun": [
+        [
+          "10:00",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ]
+    },
+    "bar_hours": null,
+    "hours_note": "Closed Mondays. Brunch buffet Saturday 12 to 3 and Sunday 10 to 2.",
+    "happy_hour": {
+      "text": "No posted happy hour. Summer Fridays bring the Spritz Series on the patio bar, 5 to 10 PM: one spritz paired with an appetizer for $20.",
+      "days": [
+        "fri"
+      ],
+      "start": "",
+      "end": ""
+    },
+    "late_night": {
+      "text": "Dinner until 10 PM Friday and Saturday, 9 PM other nights. The digestivi list (Averna, Fernet, grappa, limoncello, vin santo, ports) and seven house-made desserts make it the corner's classic last course."
+    },
+    "services": {
+      "brunch": true,
+      "lunch": false,
+      "dinner": true,
+      "late_night": true,
+      "private_dining": true,
+      "catering": true,
+      "takeout": true,
+      "delivery": true,
+      "secret_menu": false,
+      "industry_specials": false,
+      "happy_hour": false,
+      "full_bar": true,
+      "patio": true,
+      "live_music": true,
+      "reservations": true,
+      "kids_menu": true,
+      "dog_friendly": true
+    },
+    "service_notes": {
+      "brunch": "All-you-can-eat buffet Saturday 12 to 3 and Sunday 10 to 2",
+      "dinner": "Tuesday to Sunday from 5 PM",
+      "late_night": "Until 10 PM Friday and Saturday, then dessert and digestivi",
+      "private_dining": "16-seat Wine Room, the covered veranda, the patio, and full buyouts up to 100",
+      "catering": "Tray catering menu from antipasti to dolci, pickup or delivery",
+      "takeout": "Order direct through Boons, including family meal trays",
+      "delivery": "Direct delivery through Boons, about 35 to 40 minutes",
+      "patio": "Garden patio with fire pits and a string-lit veranda",
+      "live_music": "Live music on the patio in the warm months and on Spritz Series Fridays",
+      "reservations": "OpenTable",
+      "kids_menu": "Kids menu on the ordering site",
+      "dog_friendly": "Dogs welcome on the patio per Tripadvisor"
+    },
+    "dishes": [
+      {
+        "name": "Arancini",
+        "desc": "Fried Arborio rice balls, smoked mozzarella, marinara and pesto",
+        "price": "$17",
+        "course": "starter"
+      },
+      {
+        "name": "Burrata",
+        "desc": "Prosciutto, cherry tomato, basil, arugula, crostini",
+        "price": "$23",
+        "course": "starter"
+      },
+      {
+        "name": "Gnocchi",
+        "desc": "House-made gnocchi, fontina cream, truffle oil",
+        "price": "$29",
+        "course": "main"
+      },
+      {
+        "name": "Lasagne",
+        "desc": "House-made, beef ragu, bechamel, mozzarella",
+        "price": "$29",
+        "course": "main"
+      },
+      {
+        "name": "Ravioli Aragosta",
+        "desc": "Lobster ravioli, zucchini, shrimp bisque sauce",
+        "price": "$34",
+        "course": "main"
+      },
+      {
+        "name": "Chef's Taste of Italy",
+        "desc": "Four pastas on one plate: cacio e pepe, pappardelle al pesto with shrimp, paccheri al salmone, gnocchi",
+        "price": "$38",
+        "course": "main"
+      },
+      {
+        "name": "Mostaccioli",
+        "desc": "Rigatoni, sweet Italian sausage, peas, roasted pepper, tomato cream",
+        "price": "$30",
+        "course": "main"
+      },
+      {
+        "name": "Linguine Vongole",
+        "desc": "Clams, fresh tomato, garlic white wine sauce",
+        "price": "$30",
+        "course": "main"
+      },
+      {
+        "name": "Chicken Marsala",
+        "desc": "Mushrooms, Marsala cream, mashed potatoes, garlic spinach, gluten free",
+        "price": "$35",
+        "course": "main"
+      },
+      {
+        "name": "Cioppino",
+        "desc": "Shrimp, salmon, clams and mussels in spicy tomato broth",
+        "price": "$38",
+        "course": "main"
+      },
+      {
+        "name": "Skirt Steak",
+        "desc": "Grilled, saffron risotto, chimichurri",
+        "price": "$48",
+        "course": "main"
+      },
+      {
+        "name": "Halibut",
+        "desc": "Seared Alaskan halibut, lemon olive oil, baby carrots, cauliflower puree",
+        "price": "$48",
+        "course": "main"
+      },
+      {
+        "name": "Sunday Brunch Buffet",
+        "desc": "All you can eat, 10 AM to 2 PM, except holidays",
+        "price": "",
+        "course": "brunch"
+      },
+      {
+        "name": "Tiramisu",
+        "desc": "Espresso-dipped ladyfingers, mascarpone, coffee and orange liqueur",
+        "price": "$13",
+        "course": "dessert"
+      },
+      {
+        "name": "Cannoli",
+        "desc": "Lemon mascarpone, pistachio, chocolate sauce",
+        "price": "$12",
+        "course": "dessert"
+      },
+      {
+        "name": "Panna Cotta",
+        "desc": "Madagascar vanilla custard, mango and berry sauce, gluten free",
+        "price": "$12",
+        "course": "dessert"
+      },
+      {
+        "name": "Bourbon Panettone",
+        "desc": "Italian bread pudding, bourbon-glazed bananas, vanilla gelato",
+        "price": "$14",
+        "course": "dessert"
+      },
+      {
+        "name": "Torta di Cioccolato",
+        "desc": "Gooey chocolate cake, creme anglaise, gluten free",
+        "price": "$12",
+        "course": "dessert"
+      },
+      {
+        "name": "Gelato or Sorbetto",
+        "desc": "Vanilla, chocolate or seasonal fruit",
+        "price": "$9",
+        "course": "dessert"
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Aperol Spritz",
+        "desc": "Aperol, prosecco, soda. Summer Friday pairing with caprese crostini",
+        "price": "$20 paired"
+      },
+      {
+        "name": "Negroni Sbagliato",
+        "desc": "Campari, sweet vermouth, prosecco",
+        "price": "$20 paired"
+      },
+      {
+        "name": "Hugo Spritz",
+        "desc": "Elderflower, prosecco, soda, mint",
+        "price": "$20 paired"
+      },
+      {
+        "name": "Prosecco Conegliano Valdobbiadene",
+        "desc": "House sparkling pour",
+        "price": "$13 glass"
+      },
+      {
+        "name": "Barolo Costa di Bussia",
+        "desc": "Flagship Piemontese red",
+        "price": "$88 bottle"
+      },
+      {
+        "name": "Brunello di Montalcino Il Poggione",
+        "desc": "Top Italian bottle on the list",
+        "price": "$130 bottle"
+      },
+      {
+        "name": "Amaro Averna",
+        "desc": "Digestivi list with Fernet Branca, Sambuca, grappa and limoncello",
+        "price": "$12"
+      },
+      {
+        "name": "Limoncello Caravella",
+        "desc": "House digestivo",
+        "price": "$12"
+      }
+    ],
+    "desserts": [
+      "Tiramisu",
+      "Cannoli",
+      "Panna Cotta",
+      "Creme Brulee",
+      "Bourbon Panettone",
+      "Torta di Cioccolato",
+      "Gelato or Sorbetto"
+    ],
+    "nightcap": {
+      "text": "Tiramisu or panna cotta with an Amaro Averna, a grappa or a tawny port, in the stone rooms of the Hartz House.",
+      "items": [
+        "Tiramisu",
+        "Amaro Averna",
+        "Grappa Malvolti",
+        "Sandeman 10 Year Tawny"
+      ]
+    },
+    "industry": {
+      "text": ""
+    },
+    "tags": [
+      "italian",
+      "pasta",
+      "gnocchi",
+      "lasagne",
+      "ravioli",
+      "wine",
+      "barolo",
+      "brunch buffet",
+      "historic",
+      "hartz house",
+      "patio",
+      "date night",
+      "amaro",
+      "espresso",
+      "tiramisu",
+      "spritz",
+      "live music",
+      "catering",
+      "private dining",
+      "wine room"
+    ],
+    "images": {
+      "hero": "assets/img/incontro/hero.jpg",
+      "card": "assets/img/incontro/card.jpg",
+      "gallery": [
+        "assets/img/incontro/g1.jpg",
+        "assets/img/incontro/g2.jpg",
+        "assets/img/incontro/g3.jpg",
+        "assets/img/incontro/g4.jpg",
+        "assets/img/incontro/g5.jpg",
+        "assets/img/incontro/g6.jpg",
+        "assets/img/incontro/g7.jpg"
+      ],
+      "logo": ""
+    },
+    "sources": [
+      "https://www.incontrodanville.com/",
+      "https://order.boons.io/site/incontro-ristorante/327/y",
+      "https://www.incontrodanville.com/wp-content/uploads/2026/04/Wine-list-March-2026.pdf"
+    ]
+  },
+  {
+    "slug": "kaias",
+    "name": "Kaia's Island Kitchen & Tiki Bar",
+    "short": "Kaia's",
+    "initial": "K",
+    "cuisine": "Hawaiian comfort food and a classic tiki bar",
+    "tagline": "Come for the food, stay for the vibe, return for the magic",
+    "description": "Kaia's opened in spring 2025 in the old Vine and Spirits space, built by longtime Danville restaurateur Randy Negi around family trips to Hawaii and named for his granddaughter. The kitchen does Spam musubi, poke crisps and bowls, loco moco, chicken katsu, kalbi beef and a shareable Hula Pie. The tiki program runs from a '44 Mai Tai to Zombies, Jungle Birds, Navy Grog and rum flights under thatch, carved tikis and a sunset mural, with a garden patio, live Hawaiian music on Fridays and a bar that stays open an hour after the kitchen.",
+    "price": "$$",
+    "address": "480 Hartz Ave",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94526",
+    "phone": "(925) 820-7210",
+    "phone_href": "tel:+19258207210",
+    "website": "https://kaiasdanville.com/",
+    "menu_url": "https://kaiasdanville.com/food-menu",
+    "reservation_url": "https://resy.com/cities/danville-ca/venues/kaias-island-kitchen-and-tiki-bar",
+    "reservation_platform": "Resy",
+    "order_url": "https://order.toasttab.com/online/kaiasdanville",
+    "private_dining_url": "https://kaiasdanville.com/party",
+    "catering_url": "https://kaiasdanville.com/party",
+    "delivery": [
+      {
+        "platform": "Toast",
+        "url": "https://order.toasttab.com/online/kaiasdanville"
+      },
+      {
+        "platform": "DoorDash",
+        "url": "https://www.doordash.com/store/kaias-island-kitchen-&-tiki-bar-danville-36555069/"
+      },
+      {
+        "platform": "Uber Eats",
+        "url": "https://www.ubereats.com/store/kaias/l5XlTy3RSFiCVSWJGESUFw"
+      }
+    ],
+    "instagram": "kaiasdanville",
+    "facebook": "https://www.facebook.com/574146842444621",
+    "yelp": "https://www.yelp.com/biz/kaia-s-danville",
+    "google_maps": "https://www.google.com/maps/place/?q=place_id:ChIJfxrE3quMj4ARVZRm43itrZc",
+    "lat": 37.820875,
+    "lng": -121.998384,
+    "hours": {
+      "mon": [
+        [
+          "11:30",
+          "20:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:30",
+          "20:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:30",
+          "20:00"
+        ]
+      ]
+    },
+    "bar_hours": {
+      "mon": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:30",
+          "22:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:30",
+          "23:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:30",
+          "23:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ]
+    },
+    "hours_note": "Kitchen closes one hour before the bar. Tables held for walk-ins Friday and Saturday 6 to 8 PM.",
+    "happy_hour": {
+      "text": "Aloha Hour Monday to Friday 3 to 6 PM: $6 drafts, $3 off wine and select tiki cocktails, $8 to $12 bites. Mai Tai Mondays all day.",
+      "days": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "start": "15:00",
+      "end": "18:00"
+    },
+    "late_night": {
+      "text": "The bar pours an hour past the kitchen: until 11 PM Friday and Saturday, 10 PM Wednesday and Thursday. Hula Pie and Dole Whip close the night."
+    },
+    "services": {
+      "brunch": true,
+      "lunch": true,
+      "dinner": true,
+      "late_night": true,
+      "private_dining": true,
+      "catering": true,
+      "takeout": true,
+      "delivery": true,
+      "secret_menu": true,
+      "industry_specials": false,
+      "happy_hour": true,
+      "full_bar": true,
+      "patio": true,
+      "live_music": true,
+      "reservations": true,
+      "kids_menu": true,
+      "dog_friendly": true
+    },
+    "service_notes": {
+      "brunch": "Island brunch and lunch combo every day 11:30 AM to 3 PM, mimosas by the flavor",
+      "lunch": "Lunch plates, bowls and salads until 3 PM",
+      "dinner": "Second Wave entrees nightly, Pupu Platter to share",
+      "late_night": "Bar open one hour after the kitchen, until 11 PM Friday and Saturday",
+      "private_dining": "Group reservations, party menus from $35 per person, and Celi's Beach Hut on the patio",
+      "catering": "Per-person party platters on site now; to-go catering trays are coming soon",
+      "takeout": "Order direct through Toast for pickup",
+      "delivery": "Toast, DoorDash and Uber Eats",
+      "secret_menu": "Secret menu items announced on Instagram",
+      "happy_hour": "Aloha Hour weekdays 3 to 6 PM",
+      "patio": "Island garden patio with heaters and tiki torches",
+      "live_music": "Live Hawaiian music Fridays 6 to 10 PM",
+      "reservations": "Resy",
+      "kids_menu": "Keiki lunch and dinner menus, $11 with a Dole Whip cone",
+      "dog_friendly": "Pets welcome per Yelp"
+    },
+    "dishes": [
+      {
+        "name": "Spam Musubi",
+        "desc": "Seared Spam, rice, nori, teriyaki glaze, furikake, lemon-sriracha aioli",
+        "price": "$14",
+        "course": "starter"
+      },
+      {
+        "name": "Poke Crisp",
+        "desc": "Ahi poke, crispy taro chips, seaweed salad, fried rice noodles, lilikoi-chili water",
+        "price": "$19",
+        "course": "starter"
+      },
+      {
+        "name": "Pupu Platter",
+        "desc": "Spam musubi, veggie spring rolls, coconut shrimp, teriyaki beef skewer, pickled veggies",
+        "price": "$28",
+        "course": "starter"
+      },
+      {
+        "name": "Kalua Pork Nachos",
+        "desc": "Kalua pork, taro chips, cheese, lomi tomatoes, guacamole, pickled jalapeno",
+        "price": "$16",
+        "course": "starter"
+      },
+      {
+        "name": "Loco Moco",
+        "desc": "Schmitz Ranch beef patty on rice, brown gravy, two fried eggs, scallions, fried leeks",
+        "price": "$23",
+        "course": "main"
+      },
+      {
+        "name": "Chicken Katsu",
+        "desc": "Panko chicken breast, rice, Hawaiian potato salad, pickled ginger, katsu sauce",
+        "price": "$22",
+        "course": "main"
+      },
+      {
+        "name": "Kalbi Beef",
+        "desc": "Marinated boneless short rib, teriyaki, furikake, rice, stir-fry vegetables",
+        "price": "$31",
+        "course": "main"
+      },
+      {
+        "name": "Macadamia Nut Crusted Catch",
+        "desc": "Fish of the day, rice, stir-fry vegetables, coconut-ginger glaze",
+        "price": "Market",
+        "course": "main"
+      },
+      {
+        "name": "Miso Salmon",
+        "desc": "Miso glaze, veggie-garlic black fried rice, lemon-sriracha aioli",
+        "price": "$27",
+        "course": "main"
+      },
+      {
+        "name": "Kalua Pork and Cabbage",
+        "desc": "Second Wave",
+        "price": "$24",
+        "course": "main"
+      },
+      {
+        "name": "Fresh Catch Tacos",
+        "desc": "Mahi mahi, cabbage, pineapple pico, avocado cream, fries or potato salad",
+        "price": "$19",
+        "course": "lunch"
+      },
+      {
+        "name": "Poke Bowl",
+        "desc": "Ahi poke, rice, avocado, edamame, pineapple salsa, pickled vegetables, furikake",
+        "price": "$24",
+        "course": "lunch"
+      },
+      {
+        "name": "Maui Burger",
+        "desc": "Hand-helds",
+        "price": "$21",
+        "course": "lunch"
+      },
+      {
+        "name": "Lilikoi Pancakes",
+        "desc": "Sun Rise Plates, brunch and lunch combo until 3 PM",
+        "price": "$15",
+        "course": "brunch"
+      },
+      {
+        "name": "Ube Waffle",
+        "desc": "Sun Rise Plates, brunch and lunch combo until 3 PM",
+        "price": "$15",
+        "course": "brunch"
+      },
+      {
+        "name": "Da Kine Breakfast",
+        "desc": "Sun Rise Plates, brunch and lunch combo until 3 PM",
+        "price": "$18",
+        "course": "brunch"
+      },
+      {
+        "name": "Hula Pie to Share",
+        "desc": "Chocolate cookie crust, macadamia gelato, toasted coconut, fudge",
+        "price": "$14",
+        "course": "dessert"
+      },
+      {
+        "name": "Chocolate Lava Cake",
+        "desc": "Warm chocolate cake, vanilla bean gelato, fudge",
+        "price": "$11",
+        "course": "dessert"
+      },
+      {
+        "name": "Kaia's Paradise",
+        "desc": "Fried pineapple ring in cookie crumbles, vanilla gelato, caramel, sea salt",
+        "price": "$12",
+        "course": "dessert"
+      },
+      {
+        "name": "Dole Whip Soft Serve",
+        "desc": "Pineapple, strawberry or swirl",
+        "price": "$8 bowl, $3 cone",
+        "course": "dessert"
+      }
+    ],
+    "drinks": [
+      {
+        "name": "'44 Mai Tai",
+        "desc": "Appleton rum, lime, orgeat, orange curacao",
+        "price": "$17"
+      },
+      {
+        "name": "Ohanapod Mai Tai",
+        "desc": "Koloa coconut rum, Coruba, curacao, lime, pineapple, lilikoi foam",
+        "price": "$18"
+      },
+      {
+        "name": "Jungle Bird",
+        "desc": "Tiki Favorites",
+        "price": "$18"
+      },
+      {
+        "name": "Chi Chi",
+        "desc": "Pau Maui vodka, coconut, pineapple, macadamia liqueur",
+        "price": "$16"
+      },
+      {
+        "name": "Zombie",
+        "desc": "Aged rum, cachaca, OFTD, lime, passion fruit, cinnamon, falernum",
+        "price": "$16"
+      },
+      {
+        "name": "Three Hour Tour",
+        "desc": "Light and aged rum, lime, pineapple, macadamia liqueur",
+        "price": "$16"
+      },
+      {
+        "name": "Navy Grog",
+        "desc": "Pusser's, aged rum, OFTD, lime, grapefruit, honey, soda",
+        "price": "$18"
+      },
+      {
+        "name": "Buzz Free Breeze mocktails",
+        "desc": "Painless, Beach Front, The Perfect Wave, Coconut Breeze, zero proof",
+        "price": "$10"
+      },
+      {
+        "name": "Rum flights",
+        "desc": "A Diplomatico vertical and a Rum World Tour",
+        "price": ""
+      }
+    ],
+    "desserts": [
+      "Hula Pie to Share",
+      "Chocolate Lava Cake",
+      "Kaia's Paradise",
+      "Dole Whip Soft Serve"
+    ],
+    "nightcap": {
+      "text": "The bar stays open an hour after the kitchen. Split a Hula Pie and finish with a Navy Grog or a Dole Whip cone.",
+      "items": [
+        "Hula Pie to Share",
+        "Navy Grog",
+        "'44 Mai Tai",
+        "Dole Whip cone"
+      ]
+    },
+    "industry": {
+      "text": ""
+    },
+    "tags": [
+      "hawaiian",
+      "tiki",
+      "mai tai",
+      "rum",
+      "poke",
+      "musubi",
+      "loco moco",
+      "katsu",
+      "hula pie",
+      "dole whip",
+      "live music",
+      "patio",
+      "brunch",
+      "kids",
+      "dog friendly",
+      "happy hour",
+      "mocktails",
+      "zero proof",
+      "pupu platter",
+      "jungle bird"
+    ],
+    "images": {
+      "hero": "assets/img/kaias/hero.jpg",
+      "card": "assets/img/kaias/card.jpg",
+      "gallery": [
+        "assets/img/kaias/g1.jpg",
+        "assets/img/kaias/g2.jpg",
+        "assets/img/kaias/g3.jpg",
+        "assets/img/kaias/g4.jpg",
+        "assets/img/kaias/g5.jpg",
+        "assets/img/kaias/g6.jpg",
+        "assets/img/kaias/g7.jpg"
+      ],
+      "logo": ""
+    },
+    "sources": [
+      "https://kaiasdanville.com/",
+      "https://kaiasdanville.com/food-menu",
+      "https://kaiasdanville.com/drink-menu",
+      "https://kaiasdanville.com/happy-hours-specials",
+      "https://kaiasdanville.com/party"
+    ]
+  },
+  {
+    "slug": "harvest",
+    "name": "Danville Harvest",
+    "short": "Harvest",
+    "initial": "H",
+    "cuisine": "Farm-to-table New American with a serious whiskey bar",
+    "tagline": "Danville's farm-to-table restaurant",
+    "description": "Danville Harvest, family owned, has cooked seasonal Bay Area produce in the c. 1903 Eddy House since 2016, directly across Hartz from Rancho Cantina. Executive Chef Noe Briseno runs weekday lunch, weekend brunch, a daily happy hour and dinner built on shared plates, short ribs and the Danville Burger. The bar claims the largest whiskey selection in the Tri-Valley, with whiskey flights, a build-your-own Manhattan program, wines poured in two sizes and a zero-proof cocktail list.",
+    "price": "$$",
+    "address": "500 Hartz Ave",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94526",
+    "phone": "(925) 362-3665",
+    "phone_href": "tel:+19253623665",
+    "website": "https://www.danvilleharvest.com/",
+    "menu_url": "https://www.danvilleharvest.com/menu",
+    "reservation_url": "https://www.opentable.com/r/danville-harvest",
+    "reservation_platform": "OpenTable",
+    "order_url": "https://www.toasttab.com/danville-harvest/v3",
+    "private_dining_url": "https://www.danvilleharvest.com/events",
+    "catering_url": "mailto:info@danvilleharvest.com",
+    "delivery": [
+      {
+        "platform": "Toast",
+        "url": "https://www.toasttab.com/danville-harvest/v3"
+      },
+      {
+        "platform": "DoorDash",
+        "url": "https://www.doordash.com/store/danville-harvest-danville-27776160/"
+      },
+      {
+        "platform": "Uber Eats",
+        "url": "https://www.ubereats.com/store/danville-harvest/23oxT6TIRy2umIerbLXtqA"
+      }
+    ],
+    "instagram": "danvilleharvest",
+    "facebook": "https://www.facebook.com/danvilleharvest/",
+    "yelp": "https://www.yelp.com/biz/danville-harvest-danville",
+    "google_maps": "https://www.google.com/maps/place/Danville+Harvest/@37.820691,-122.0000877,17z/data=!3m1!4b1!4m6!3m5!1s0x808f8cabe7bbc871:0x3c8989011120060e!8m2!3d37.820691!4d-121.997899!16s%2Fg%2F11c0vldnz0",
+    "lat": 37.820623,
+    "lng": -121.997985,
+    "hours": {
+      "mon": [
+        [
+          "11:30",
+          "20:30"
+        ]
+      ],
+      "tue": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:30",
+          "21:30"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "21:30"
+        ]
+      ],
+      "sun": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    "bar_hours": null,
+    "hours_note": "Lunch weekdays 11:30 to 3, brunch weekends 10 to 3, happy hour daily 3 to 5, dinner from 4. Weekend closing times vary by source (9:30 or 10 PM), so call for a late table.",
+    "happy_hour": {
+      "text": "Daily 3 to 5 PM: $5 bites, $10 cocktails, $5 drafts, $9 wines, $20 whiskey flight.",
+      "days": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat",
+        "sun"
+      ],
+      "start": "15:00",
+      "end": "17:00"
+    },
+    "late_night": {
+      "text": "Dinner ends 8:30 most nights and about 9:30 Friday and Saturday. Start here early and cross the street for the nightcap."
+    },
+    "services": {
+      "brunch": true,
+      "lunch": true,
+      "dinner": true,
+      "late_night": false,
+      "private_dining": true,
+      "catering": true,
+      "takeout": true,
+      "delivery": true,
+      "secret_menu": false,
+      "industry_specials": false,
+      "happy_hour": true,
+      "full_bar": true,
+      "patio": true,
+      "live_music": false,
+      "reservations": true,
+      "kids_menu": true,
+      "dog_friendly": true
+    },
+    "service_notes": {
+      "brunch": "Saturday and Sunday 10 AM to 3 PM with a mimosa bar",
+      "lunch": "Weekdays 11:30 AM to 3 PM",
+      "dinner": "Daily from 4 PM, Sunday Fried Chicken Supper from 5 PM",
+      "private_dining": "Front bar to 24, main room 48 seated, curtained back room to 20, side patio 26, full buyouts",
+      "catering": "Email info@danvilleharvest.com",
+      "takeout": "Order online through Toast",
+      "delivery": "DoorDash and Uber Eats",
+      "happy_hour": "Every day 3 to 5 PM",
+      "patio": "Side patio, 26 seated, and a fireplace inside",
+      "reservations": "OpenTable",
+      "kids_menu": "Kids eat free Monday to Thursday 4 to 6 PM with an adult entree",
+      "dog_friendly": "Dogs allowed outside"
+    },
+    "dishes": [
+      {
+        "name": "Hushpuppies",
+        "desc": "Corn, cheddar, scallions, maple sriracha butter, hot honey, cilantro aioli",
+        "price": "$13",
+        "course": "starter"
+      },
+      {
+        "name": "Millionaire Bacon",
+        "desc": "Thick cut: classic, maple or BBQ",
+        "price": "$16",
+        "course": "starter"
+      },
+      {
+        "name": "Short Rib Bites",
+        "desc": "Honey glaze, crispy shallots, sesame, spicy aioli",
+        "price": "$17",
+        "course": "starter"
+      },
+      {
+        "name": "Burrata Toast",
+        "desc": "Starters",
+        "price": "$14",
+        "course": "starter"
+      },
+      {
+        "name": "Ahi Tuna Poke",
+        "desc": "Starters",
+        "price": "$21",
+        "course": "starter"
+      },
+      {
+        "name": "Braised Short Ribs",
+        "desc": "Tamarind-chipotle glaze, fettuccine, sauteed greens, gremolata",
+        "price": "$31",
+        "course": "main"
+      },
+      {
+        "name": "Danville Burger",
+        "desc": "Filet mignon and prime rib patty, smoked cheddar, pickled onion, secret sauce, fries",
+        "price": "$26",
+        "course": "main"
+      },
+      {
+        "name": "Filet Mignon",
+        "desc": "Two 3 oz medallions, three-cheese potato gratin, brandy-mushroom sauce",
+        "price": "$42",
+        "course": "main"
+      },
+      {
+        "name": "Horseradish Crusted Salmon",
+        "desc": "Basil potato puree, collard greens, red wine butter",
+        "price": "$30",
+        "course": "main"
+      },
+      {
+        "name": "Gnocchi Ragu",
+        "desc": "Mains",
+        "price": "$24",
+        "course": "main"
+      },
+      {
+        "name": "Roasted Chicken",
+        "desc": "Mains",
+        "price": "$29",
+        "course": "main"
+      },
+      {
+        "name": "Sunday Fried Chicken Supper",
+        "desc": "Every Sunday from 5 PM, $25 per person or $80 for a family of four",
+        "price": "$25",
+        "course": "main"
+      },
+      {
+        "name": "Fried Chicken Sandwich",
+        "desc": "Cabbage slaw, swiss, jalapeno, dutch crunch",
+        "price": "$17",
+        "course": "lunch"
+      },
+      {
+        "name": "Smashburger",
+        "desc": "Happy hour only: two patties, secret sauce, fries",
+        "price": "$16",
+        "course": "lunch"
+      },
+      {
+        "name": "Short Rib Hash",
+        "desc": "Sunny eggs, peppers, kale, Brussels sprouts, sweet potatoes, harissa hollandaise",
+        "price": "$23",
+        "course": "brunch"
+      },
+      {
+        "name": "Fried Chicken and Waffles",
+        "desc": "Brunch",
+        "price": "$23",
+        "course": "brunch"
+      },
+      {
+        "name": "Cinnamon Roll",
+        "desc": "Old Towne Bakery roll, walnuts, caramel, berries",
+        "price": "$9",
+        "course": "brunch"
+      },
+      {
+        "name": "Mini Donuts",
+        "desc": "Cinnamon sugar, chocolate and caramel dips",
+        "price": "$14",
+        "course": "brunch"
+      },
+      {
+        "name": "Bread Pudding",
+        "desc": "Dessert, ask for tonight's list",
+        "price": "",
+        "course": "dessert"
+      },
+      {
+        "name": "Beignets",
+        "desc": "Dessert, ask for tonight's list",
+        "price": "",
+        "course": "dessert"
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Harvest Old-Fashioned",
+        "desc": "Elijah Craig bourbon, rye, barrel proof and toasted barrel, demerara, bitters",
+        "price": "$18"
+      },
+      {
+        "name": "Hi-Tide",
+        "desc": "Blood orange tequila, Ramazzotti rosato, lime, hibiscus rim",
+        "price": "$16"
+      },
+      {
+        "name": "Smoke on the Water",
+        "desc": "Rye, fernet, maple-chai, orange and Creole bitters",
+        "price": "$18"
+      },
+      {
+        "name": "Cal Salida",
+        "desc": "Grapefruit-habanero mezcal, Pamplemousse, honey, lemon",
+        "price": "$16"
+      },
+      {
+        "name": "Sombra Diablo",
+        "desc": "Mezcal, banana, guava, elderflower, lime, rosemary",
+        "price": "$16"
+      },
+      {
+        "name": "Violet Hour",
+        "desc": "Gin, aloe, plum, sichuan peppercorn, butterfly pea flower",
+        "price": "$16"
+      },
+      {
+        "name": "Three Horseman whiskey flight",
+        "desc": "Elijah Craig flight, $20 at happy hour",
+        "price": "$20"
+      },
+      {
+        "name": "Blueberry Crush",
+        "desc": "Zero proof: blueberry, lime, rosemary, ginger ale",
+        "price": "$13"
+      },
+      {
+        "name": "Mimosa Bar",
+        "desc": "Brunch carafe of juice with bubbles, make your own",
+        "price": "$28"
+      }
+    ],
+    "desserts": [
+      "Bread Pudding",
+      "Beignets",
+      "Jumbo Chocolate Cookies"
+    ],
+    "nightcap": {
+      "text": "Whiskey is the play: a Harvest Old-Fashioned or a flight from the biggest whiskey list in the Tri-Valley, before the kitchen closes.",
+      "items": [
+        "Harvest Old-Fashioned",
+        "Whiskey flight",
+        "Smoke on the Water",
+        "Bread Pudding"
+      ]
+    },
+    "industry": {
+      "text": ""
+    },
+    "tags": [
+      "farm to table",
+      "american",
+      "whiskey",
+      "bourbon",
+      "manhattan",
+      "burger",
+      "short rib",
+      "brunch",
+      "mimosa",
+      "happy hour",
+      "fried chicken",
+      "private dining",
+      "patio",
+      "kids",
+      "dog friendly",
+      "fireplace",
+      "zero proof",
+      "mocktails",
+      "wine",
+      "salmon"
+    ],
+    "images": {
+      "hero": "assets/img/harvest/hero.jpg",
+      "card": "assets/img/harvest/card.jpg",
+      "gallery": [
+        "assets/img/harvest/g1.jpg",
+        "assets/img/harvest/g2.jpg",
+        "assets/img/harvest/g3.jpg",
+        "assets/img/harvest/g4.jpg",
+        "assets/img/harvest/g5.jpg",
+        "assets/img/harvest/g6.jpg",
+        "assets/img/harvest/g7.jpg"
+      ],
+      "logo": ""
+    },
+    "sources": [
+      "https://www.danvilleharvest.com/",
+      "https://www.danvilleharvest.com/menu",
+      "https://www.danvilleharvest.com/events",
+      "https://www.danvilleharvest.com/contact"
+    ]
+  }
+]

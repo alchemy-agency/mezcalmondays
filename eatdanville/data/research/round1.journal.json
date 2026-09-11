@@ -1,0 +1,1306 @@
+[
+ {
+  "type": "result",
+  "key": "v2:13d560a21c19f7e38f9ae993ea6ec3bcae7cc0434560503da4fa3fea7928aa6c",
+  "agentId": "a802f6609a30c2ab3",
+  "result": {
+   "official_name": "Kaia's Island Kitchen & Tiki Bar",
+   "tagline": "Come for the food, stay for the vibe, return for the magic",
+   "address": "480 Hartz Ave",
+   "city": "Danville",
+   "state": "CA",
+   "zip": "94526",
+   "phone": "(925) 820-7210",
+   "email": "info@kaiasdanville.com",
+   "website": "https://kaiasdanville.com/",
+   "lat": 37.8209385,
+   "lng": -121.9983871,
+   "geo_source": "https://nominatim.openstreetmap.org/search?q=480%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json (returned OSM way 982722700, still labeled with the predecessor business \"The Vine and Spirits\", 480 Hartz Avenue, Danville 94526 — same building)",
+   "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxrE3quMj4ARVZRm43itrZc",
+   "cuisine": "Hawaiian / island-inspired comfort food with a classic tiki cocktail bar",
+   "price_range": "$$$$",
+   "description": "Kaia's Island Kitchen & Tiki Bar opened in April 2025 at 480 Hartz Ave in downtown Danville, in the space that was formerly The Vine and Spirits wine bar. Veteran Danville restaurateur Randy Negi (longtime owner of Bridges and a partner at Danville Brewing Company) built the concept around family trips to Hawaii and named it for his granddaughter Kaia, whose painted portrait greets guests near the entrance. The menu is food-first Hawaiian comfort fare — Spam musubi, poke crisps and bowls, loco moco, chicken katsu, kalbi beef, macadamia-crusted catch and a shareable Hula Pie — paired with a serious tiki program (a '44 Mai Tai, Ohanapod Mai Tai, Chi Chi, Zombie, Navy Grog, rum flights) assembled with help from Danville Brewing head brewer Matt Sager. The room mixes bamboo, thatch, carved tiki statues, blown-glass orbs, a sunset beach mural and colorful lighting, with an island garden patio (heaters and tiki torches), a reservable \"Celi's Beach Hut,\" daily brunch and lunch, a keiki menu, and live Hawaiian music on Fridays.",
+   "owner_chef": "Owner: Randy Negi (local restaurateur; former longtime owner of Bridges Restaurant, partner at Danville Brewing Company). Cocktail menu led by Matt Sager, head brewer at Danville Brewing Company. No named executive chef found.",
+   "opened": "April 2025 (Diablo Magazine, 3/18/2025: planned launch \"second week of April\" 2025, dinner first then lunch and weekend brunch; mytiki.life and Yelp: reopened April 2025 after remodel of The Vine and Spirits; Town of Danville mayor welcome visit posted 6/27/2025)",
+   "hours": [
+    {
+     "day": "Sunday",
+     "open": "11:30 AM",
+     "close": "9:00 PM",
+     "notes": "Kitchen closes one hour before the bar; brunch & lunch combo 11:30 AM-3:00 PM"
+    },
+    {
+     "day": "Monday",
+     "open": "11:30 AM",
+     "close": "9:00 PM",
+     "notes": "Mai Tai Mondays all day; Aloha Hour 3-6 PM; kitchen closes one hour before the bar"
+    },
+    {
+     "day": "Tuesday",
+     "open": "11:30 AM",
+     "close": "9:00 PM",
+     "notes": "Aloha Hour 3-6 PM; kitchen closes one hour before the bar"
+    },
+    {
+     "day": "Wednesday",
+     "open": "11:30 AM",
+     "close": "10:00 PM",
+     "notes": "Aloha Hour 3-6 PM; kitchen closes one hour before the bar"
+    },
+    {
+     "day": "Thursday",
+     "open": "11:30 AM",
+     "close": "10:00 PM",
+     "notes": "Aloha Hour 3-6 PM; kitchen closes one hour before the bar"
+    },
+    {
+     "day": "Friday",
+     "open": "11:30 AM",
+     "close": "11:00 PM",
+     "notes": "Aloha Hour 3-6 PM; live music 6-10 PM; tables held for walk-ins 6-8 PM; kitchen closes one hour before the bar"
+    },
+    {
+     "day": "Saturday",
+     "open": "11:30 AM",
+     "close": "11:00 PM",
+     "notes": "Tables held for walk-ins 6-8 PM; kitchen closes one hour before the bar"
+    }
+   ],
+   "hours_source": "https://kaiasdanville.com/ footer (\"Sunday - Tuesday 11:30 AM - 9:00 PM; Wed - Thursday 11:30 AM - 10:00 PM; Friday - Saturday 11:30 AM - 11:00 PM; Island Brunch & Lunch Combo every day 11:30 AM - 3:00 PM; kitchen closes one hour before the bar\"). Matches Yelp-sourced hours shown on Apple Maps and the Tripadvisor search snippet. Toast online ordering hours differ (delivery/takeout 11:30 AM-8:00 PM on Thu 9/10/2026 per order.toasttab.com).",
+   "latest_close_time": "11:00 PM Fri-Sat (bar; kitchen closes about 10:00 PM)",
+   "happy_hour": "\"Aloha Hour\" Monday-Friday 3:00-6:00 PM: all draft beer $6/glass, $3 off all wine/sparkling by the glass, $3 off select cocktails ('44 Mai Tai, Chi Chi, Painkiller, Blue Hawaii, Zombie, Jet Pilot, Saturn, Kaia's Crown, Cranberry Punch, Seb's Signature Sling, Three Hour Tour, Ipanema Breeze). Food: Fried Fish Tacos (2) $8, Kalua Pork Tacos (2) $8, Tiki Chicken Bites $11, Green Waves (guac + ahi poke, taro chips) $12, Tiki Torch Satay $12, Huli Huli Sliders (3) $12, plus lunch-size small plates (Island Fries $6, Spam Musubi $10, Veggie Spring Rolls $10, Maui Salad $12, Kalua Pork Nachos $13, Coconut Shrimp $15, Poke Crisp $15, Poke Bowl $19, Garlic Shrimp Bowl $18, Kimo's Bowl $21, Early Bird Mix Plate $15). Also \"Mai Tai Mondays\" all day Monday (11:30 AM-9 PM): $5 off the '44 Mai Tai and Ohanapod Mai Tai, $3 off any call/custom Mai Tai.",
+   "late_night": "Bar stays open one hour after the kitchen closes (site: \"our kitchen closes one hour before the bar\"), so drinks run until 11 PM Fri-Sat (kitchen ~10 PM) and until 10 PM Wed-Thu. Dessert menu \"Sweets & Treats\": Hula Pie to Share $14, Chocolate Lava Cake $11, Kaia's Paradise $12, Dole Whip Soft Serve $8 bowl / $3 cone. No dedicated late-night or nightcap menu found.",
+   "industry_night": "None found on the website, specials page, or in searches.",
+   "services": {
+    "brunch": true,
+    "lunch": true,
+    "dinner": true,
+    "late_night": true,
+    "private_dining": true,
+    "catering": true,
+    "takeout": true,
+    "delivery": true,
+    "secret_menu": true,
+    "industry_specials": false,
+    "happy_hour": true,
+    "full_bar": true,
+    "patio": true,
+    "live_music": true,
+    "reservations": true,
+    "kids_menu": true,
+    "dog_friendly": true
+   },
+   "services_notes": "brunch: \"Island Brunch & Lunch Combo Every Day 11:30 AM-3:00 PM\" (home footer); Brunch/Lunch menu has \"Sun Rise Plates\" (Da Kine Breakfast $18, Lilikoi Pancakes $15, Ube Waffle $15) and \"Golden Mornings\" mimosas/Bloody Mary (drink menu). lunch: Lunch Mixed Plate, lunch-size salads/bowls on Brunch/Lunch menu. dinner: Dinner Menu \"Second Wave\" entrees (food-menu page). late_night: bar open one hour past kitchen close, until 11 PM Fri-Sat (home footer). private_dining: Parties page \"Group Reservations and Private Parties\" with Party Menu (Aloha Lunch $35pp, Aloha Feast $48pp, Kaia's Deluxe $59pp, Ohana Buffet $75pp) and \"Reserve Celi's Beach Hut\" on the patio (home page). catering: Yelp amenities (via Apple Maps) list \"Catering services\"; party inquiry form includes \"To get a special event catered\"; per-person \"Escape & Celebrate Platters\" ($8-$12pp) on the party menu; food page says \"To-go catering tray options coming soon! from family of 4 packs, up to 20 people\". takeout/delivery: \"Order online directly with us for pickup or delivery\" via Toast (order.toasttab.com/online/kaiasdanville); DoorDash and Uber Eats store pages exist. secret_menu: footer \"Follow us on social media for specials and secret menu items!\". happy_hour: Aloha Hour Mon-Fri 3-6 PM (food menu + specials page). full_bar: tiki cocktails, rum flights, draft/can beer, wine; Instagram bio \"restaurant and full bar\". patio: \"lush island garden patio\" (home page), gallery photo \"Outdoor dining area\", Bay Area Telegraph: patio with heaters and tiki torches. live_music: specials page \"Every Friday Live Music 6:00 PM-10:00 PM\"; home page \"soulful live Hawaiian music... ukulele serenades\". reservations: Resy (\"We now accept reservations on RESY!\"; Fri & Sat 6-8 PM tables held for walk-ins). kids_menu: \"Keiki Lunch Menu\" and \"Keiki Dinner Menu\", all items $11, cone Dole Whip included. dog_friendly: Yelp amenity \"Pets welcome\" as shown on the Apple Maps listing (not confirmed on the official site). industry_specials: no evidence found.",
+   "signature_dishes": [
+    {
+     "name": "Spam Musubi",
+     "course": "First Waves (appetizer)",
+     "price": "$14",
+     "description": "Seared Spam, rice, nori, teriyaki glaze, furikake, lemon-sriracha aioli dipping sauce"
+    },
+    {
+     "name": "Poke Crisp",
+     "course": "First Waves (appetizer)",
+     "price": "$19",
+     "description": "Ahi poke, crispy taro chips, seaweed salad, fried rice noodles, lilikoi-chili water"
+    },
+    {
+     "name": "Kalua Pork Nachos",
+     "course": "First Waves (appetizer)",
+     "price": "$16",
+     "description": "Kalua pork, crispy taro chips, cheese, lomi tomatoes, guacamole, pickled jalapeno, cilantro cream drizzle"
+    },
+    {
+     "name": "Loco Moco",
+     "course": "Second Wave (dinner entree)",
+     "price": "$23",
+     "description": "Schmitz Ranch beef patty on rice, homemade brown gravy, two fried eggs, scallions, fried leeks"
+    },
+    {
+     "name": "Chicken Katsu",
+     "course": "Second Wave (dinner entree)",
+     "price": "$22",
+     "description": "Panko-breaded chicken breast, steamed rice, Hawaiian potato salad, pickled ginger, katsu sauce"
+    },
+    {
+     "name": "Kalbi Beef",
+     "course": "Second Wave (dinner entree)",
+     "price": "$31",
+     "description": "Boneless marinated short rib with teriyaki sauce, furikake and scallions, steamed rice, stir-fry veggies"
+    },
+    {
+     "name": "Macadamia Nut Crusted Catch",
+     "course": "Second Wave (dinner entree)",
+     "price": "AQ (market price)",
+     "description": "Fish of the day crusted in macadamia nuts, steamed rice, stir-fry veggies, coconut-ginger glaze"
+    },
+    {
+     "name": "Miso Salmon",
+     "course": "Second Wave (dinner entree)",
+     "price": "$27",
+     "description": "Seared salmon with miso glaze over veggie-garlic black fried rice, lemon-sriracha aioli"
+    },
+    {
+     "name": "Fresh Catch Tacos",
+     "course": "Hand-Helds",
+     "price": "$19",
+     "description": "Sauteed marinated mahi mahi, shredded cabbage, pineapple pico de gallo, avocado cream, lime; served with fries or Hawaiian potato salad"
+    },
+    {
+     "name": "Poke Bowl",
+     "course": "Salads & Bowls",
+     "price": "$24 dinner ($20/$24 lunch)",
+     "description": "Ahi poke, steamed rice, avocado, edamame, pineapple salsa, pickled cucumber, carrot and onion, furikake"
+    }
+   ],
+   "signature_drinks": [
+    {
+     "name": "'44 Mai Tai",
+     "price": "$17",
+     "description": "The 'classic' mai tai: Appleton rum, lime juice, orgeat, orange curacao — the About page calls it 'the most loved'"
+    },
+    {
+     "name": "Ohanapod Mai Tai",
+     "price": "$18",
+     "description": "Koloa coconut rum, Coruba rum, orange curacao, lime and pineapple juice, topped with honey/lilikoi/egg-white foam"
+    },
+    {
+     "name": "Chi Chi",
+     "price": "$16",
+     "description": "Pau Maui vodka, coconut syrup, pineapple juice, Trader Vic's macadamia nut liqueur — the house 'silky-smooth' signature"
+    },
+    {
+     "name": "Zombie",
+     "price": "$16",
+     "description": "Flor de Cana aged rum, Avua aged cachaca, Planteray OFTD, lime, passion fruit syrup, cinnamon syrup, Falernum"
+    },
+    {
+     "name": "Three Hour Tour",
+     "price": "$16",
+     "description": "Flor de Cana light and aged rums, lime juice, pineapple juice, Trader Vic's macadamia nut liqueur"
+    },
+    {
+     "name": "Navy Grog",
+     "price": "$18",
+     "description": "Pusser's rum, Flor de Cana aged rum, Planteray OFTD, lime, grapefruit, honey syrup, soda"
+    }
+   ],
+   "desserts": [
+    "Hula Pie to Share ($14) — chocolate cookie crust, macadamia nut gelato, whipped cream, toasted coconut, toasted macadamia nuts, chocolate fudge sauce",
+    "Chocolate Lava Cake ($11) — warm chocolate cake, vanilla bean gelato, chocolate shavings, fudge sauce, powdered sugar",
+    "Kaia's Paradise ($12) — fried pineapple ring coated in cookie crumbles, vanilla bean gelato, caramel sauce, sea salt",
+    "Dole Whip Soft Serve ($8 big bowl / $3 small cone) — pineapple, strawberry, or swirl"
+   ],
+   "menu_url": "https://kaiasdanville.com/food-menu",
+   "order_online_url": "https://order.toasttab.com/online/kaiasdanville",
+   "reservation_platform": "Resy",
+   "reservation_url": "https://resy.com/cities/danville-ca/venues/kaias-island-kitchen-and-tiki-bar",
+   "private_dining_url": "https://kaiasdanville.com/party",
+   "catering_url": "https://kaiasdanville.com/party",
+   "delivery_links": [
+    {
+     "platform": "Toast (direct pickup/delivery)",
+     "url": "https://order.toasttab.com/online/kaiasdanville"
+    },
+    {
+     "platform": "DoorDash",
+     "url": "https://www.doordash.com/store/kaias-island-kitchen-&-tiki-bar-danville-36555069/"
+    },
+    {
+     "platform": "Uber Eats",
+     "url": "https://www.ubereats.com/store/kaias/l5XlTy3RSFiCVSWJGESUFw"
+    }
+   ],
+   "instagram": "https://www.instagram.com/kaiasdanville/",
+   "facebook": "https://www.facebook.com/574146842444621",
+   "yelp_url": "https://www.yelp.com/biz/kaia-s-danville",
+   "yelp_rating": "3.9 (approx. 235-237 reviews; Yelp page title Sept 2026 says 235 reviews, Apple Maps' Yelp feed says 3.9/237)",
+   "brand_colors_or_style": "Logo is a bold, all-caps, slightly distressed serif wordmark \"KAIA'S\" in dark olive (logo.png, ~#494714). The SpotHopper-built site uses a warm cream ground (#f3efe5) with dark-olive text (#494714 / #46430f) and bright tropical accents: palm green #66b95f (dominant), sunny yellow #ffde59, teal #52acaf, sunset orange #e58747, orchid purple #cb6ce6, with a rust-brown #a4664c nav hover. Type is Jost and Lexend Deca (clean geometric sans) with Agdasima/Poppins accents; all-caps headline copy (\"SIP THE TROPICS, WALK THE DREAM\", \"MEET US UNDER THE PALMS\"). Photography and decor: thatched-roof bar, a \"fiery sunset\" beach-and-palms wall mural, bamboo trim, carved tiki statues, blown-glass orbs, colorful lighting, tiki mugs, a fire-pit table, palm-lined garden patio with tiki torches. Mood: playful, saturated, family-friendly tropical escape rather than a dark dive-tiki look.",
+   "sources": [
+    "https://kaiasdanville.com/",
+    "https://kaiasdanville.com/danville-downtown-danville-kaia-s-island-kitchen-and-tiki-bar-about",
+    "https://kaiasdanville.com/food-menu",
+    "https://kaiasdanville.com/drink-menu",
+    "https://kaiasdanville.com/happy-hours-specials",
+    "https://kaiasdanville.com/party",
+    "https://kaiasdanville.com/gallery",
+    "https://kaiasdanville.com/css/custom.css",
+    "https://static.spotapps.co/website_images/ab_websites/185099_website_v4/logo.png",
+    "https://order.toasttab.com/online/kaiasdanville",
+    "https://nominatim.openstreetmap.org/search?q=480%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json",
+    "https://maps.apple.com/place?place-id=I60703D19645509D8",
+    "https://www.yelp.com/biz/kaia-s-danville",
+    "https://www.diablomag.com/blog/diablo-dish/diablo-dish-an-island-breeze-blows-into-danville/article_b193eef0-0453-11f0-bf79-a32dd5842507.html",
+    "https://bayareatelegraph.com/2025/07/01/review-danvilles-new-tiki-bar-is-incredibly-fun-and-genuinely-delicious/",
+    "https://ultimatemaitai.com/2025/05/14/kaias-brings-tiki-to-the-east-bay-suburbs/",
+    "https://mytiki.life/tiki-bars/kaias-island-kitchen-tiki-bar",
+    "https://www.beyondthecreek.com/kaias-island-kitchen-tiki-bar-opens-in-danville/",
+    "https://www.yourtownmonthly.com/2026/08/taste-of-your-town-kaias-island-kitchen-tiki-bar/",
+    "https://www.instagram.com/p/DLbHAsesuP0/",
+    "https://www.instagram.com/kaiasdanville/",
+    "https://business.danvilleareachamber.com/list/member/kaia-s-island-kitchen-tiki-bar-4876",
+    "https://www.tripadvisor.com/Restaurant_Review-g60802-d33132686-Reviews-Kaia_s_Island_Kitchen_And_Tiki_Bar-Danville_Tri_Valley_California.html",
+    "https://www.doordash.com/store/kaias-island-kitchen-&-tiki-bar-danville-36555069/",
+    "https://www.ubereats.com/store/kaias/l5XlTy3RSFiCVSWJGESUFw",
+    "https://resy.com/cities/danville-ca/venues/kaias-island-kitchen-and-tiki-bar"
+   ],
+   "notes": "Not found / could not verify: Google star rating (Google Maps place page returned only the generic shell; place_id ChIJfxrE3quMj4ARVZRm43itrZc comes from the site's own Get Directions link). Yelp's own page returned a bot-block, so the 3.9 rating comes from Yelp's page title in search results plus the Yelp-sourced Apple Maps listing. Tripadvisor page was blocked; a search snippet shows it \"rated 5.0 of 5, #69 of 106 restaurants in Danville\" but review count is unknown. Resy page is a JS shell (no hours/notes readable). DoorDash and Uber Eats store pages returned 403/Cloudflare; the links are from search results (titles confirm Kaia's, Danville). Instagram bio (from search snippet, ~2,572 followers): \"an island-inspired escape with the spirit of Aloha... Restaurant and full bar. Family friendly. Open daily.\" Price range \"$$$$\" is what Yelp lists; actual menu runs $9-$19 starters, $16-$31 entrees, $16-$18 cocktails, which reads more like $$-$$$. The Toast gift card link still uses the old Vine slug: https://www.toasttab.com/the-vine-new-480-hartz-avenue/giftcards. Toast online-ordering closes at 8 PM (delivery/takeout 11:30 AM-8 PM on the day checked), earlier than dine-in hours. Diablo Magazine (3/18/2025) says the space is the former annex to Bridges; owner Negi is of Japanese descent and describes Kaia's as \"a restaurant first.\" The Bay Area Telegraph reviewer noted only recorded ukulele music on their visit, but the official specials page lists live music every Friday 6-10 PM. Dog-friendly is based solely on Yelp's \"Pets welcome\" amenity. Catering is marked true but note the site says to-go catering trays are \"coming soon.\" No TikTok found. No chef named anywhere; the cocktail list credit (Matt Sager) is from Diablo Magazine.",
+   "confidence": 0.85
+  }
+ },
+ {
+  "type": "result",
+  "key": "v2:fbcf2c4a2ecc3728941eca0a678b6a3de9122993e8ea44e71ea8e420fdcded20",
+  "agentId": "a0ddc829e2331bda2",
+  "result": {
+   "official_name": "Rancho Cantina Danville",
+   "website": "https://www.ranchocantina.com/danville",
+   "tagline": "Ranch-To-Table Cuisine Has Arrived to Danville",
+   "cuisine": "Mexican / Californio \"rancho cuisine\" — wood-fired grill, tequila & mezcal bar",
+   "description": "Rancho Cantina Danville is the second location of the family-owned Lafayette original, opened by longtime Danville residents Nico and Alice Tzikas in the former Cocina Hermanas building on the corner of Hartz Avenue and Church Street. The kitchen, led by Executive Chef Carlos Navarro, cooks over a wood-fired (almond wood) grill and describes its food as inspired by the Spanish-Mexican Californios of California's ranching era: Vaquero Platters, carne asada, brick chicken, a 32 oz Cowboy Cut ribeye, and whole fried branzino alongside tacos, enchiladas, burritos and sizzling fajita skillets. The larger Danville building allowed a more substantial bar built around tequila and mezcal cocktails and a five-margarita lineup, with outdoor seating on the Hartz Avenue corner. It soft-opened Monday, August 24, 2026, with full online reservations from September 1.",
+   "address": "501 Hartz Ave",
+   "city": "Danville",
+   "state": "CA",
+   "zip": "94526",
+   "phone": "(925) 718-5153",
+   "email": "",
+   "lat": 37.8203575,
+   "lng": -121.9982374,
+   "geo_source": "https://nominatim.openstreetmap.org/search?q=501%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json (OSM way 743545145; the OSM object at 501 Hartz Avenue is still named for the previous tenant \"Cocina Hermanas\")",
+   "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rancho+Cantina+501+Hartz+Ave+Danville+CA+94526",
+   "hours": [
+    {
+     "day": "Sunday",
+     "open": "11:00 AM",
+     "close": "10:00 PM"
+    },
+    {
+     "day": "Monday",
+     "open": "11:00 AM",
+     "close": "10:00 PM"
+    },
+    {
+     "day": "Tuesday",
+     "open": "11:00 AM",
+     "close": "10:00 PM"
+    },
+    {
+     "day": "Wednesday",
+     "open": "11:00 AM",
+     "close": "10:00 PM"
+    },
+    {
+     "day": "Thursday",
+     "open": "11:00 AM",
+     "close": "10:00 PM"
+    },
+    {
+     "day": "Friday",
+     "open": "11:00 AM",
+     "close": "11:00 PM"
+    },
+    {
+     "day": "Saturday",
+     "open": "11:00 AM",
+     "close": "11:00 PM"
+    }
+   ],
+   "hours_source": "https://www.ranchocantina.com/danville (site-wide footer \"Rancho Cantina Danville — Now Open: Sun - Thurs 11am - 10pm, Fri - Sat 11am - 11pm\"; same block on /menu-danville, /contact-us-danville, /reservations-danville)",
+   "latest_close_time": "11:00 PM Fri-Sat",
+   "happy_hour": "No time-bounded happy hour published. Weekly deals: \"Margarita Mondays\" — $5 off top-shelf margaritas (site announcement bar, ranchocantina.com); \"Taco Tuesday Menu\" — $5 tacos (chicken tinga, carnitas, carne asada or vegetables; flour or corn), $10 Rancho Margarita (tequila blanco, lime, agave), plus Guacamole $14, Rancho Nachos $17, BBQ Corn Elotes $16, Ranchero Bean Dip $14 (Taco Tuesday card on /menu-danville).",
+   "late_night": "None found. Posted hours run to 10 PM Sun-Thu and 11 PM Fri-Sat with no separate bar or kitchen hours published; the Danville printed menu (6.11.26) has no dessert, nightcap or late-night section.",
+   "industry_night": "None found on the official site or in press coverage.",
+   "services": {
+    "brunch": false,
+    "lunch": true,
+    "dinner": true,
+    "late_night": false,
+    "private_dining": false,
+    "catering": true,
+    "takeout": true,
+    "delivery": false,
+    "secret_menu": false,
+    "industry_specials": false,
+    "happy_hour": false,
+    "full_bar": true,
+    "patio": true,
+    "live_music": false,
+    "reservations": true,
+    "kids_menu": true,
+    "dog_friendly": false
+   },
+   "services_notes": "lunch: opens 11am daily per site footer; Hoodline/Bay Area Telegraph report the Danville menu added salad options \"to appeal to the lunch crowd\". dinner: open until 10pm/11pm nightly per site footer. catering: /catering-danville — \"wood-fired shrimp, carne asada, chicken breast, guacamole and more for only $55 per person\", inquiry form + (925) 718-5153. takeout: /order-online-danville — \"Online Ordering Coming Soon... For takeout, you can place an order over the phone at (925) 718-5153\". full_bar: Type 47 (beer, wine, distilled spirits) license reported by Bay Area Telegraph 5/29/2026; printed menu lists whiskey, vodka, rum and mezcal cocktails. patio: Bay Area Telegraph 8/26/2026 says the remodeled space \"includes outdoor seating\"; 5/29/2026 article cites renderings with \"outdoor tables, umbrellas and landscaping\". reservations: /reservations-danville — \"now accepting online reservations for parties of up to 8 Guests. Walk-ins are warmly welcome... For large parties of 9 or more, please call (925) 718-5153\"; OpenTable restref 1504117. kids_menu: \"NIÑOS / KIDS\" section on printed menu (three $9 items with seasonal fruit). happy_hour set false because only day-of-week specials (Margarita Mondays, Taco Tuesday) were found, no timed happy hour. brunch false: legacy /menu-old page has a BRUNCH tab but the Danville printed menu has no brunch and no brunch hours are posted. delivery false: no DoorDash/Uber Eats/Grubhub listing found for the Danville address (only Lafayette on DoorDash). private_dining, live_music, dog_friendly: no evidence either way.",
+   "signature_dishes": [
+    {
+     "name": "Vaquero Platter",
+     "price": "$38",
+     "course": "Wood Fired",
+     "description": "Carne asada, chicken, shrimp, fresh herb chimichurri, fennel slaw, rice, pink beans, corn or flour tortillas"
+    },
+    {
+     "name": "Prime Cowboy Cut Bone-in Ribeye",
+     "price": "$120",
+     "course": "Wood Fired",
+     "description": "Serves two. 32 oz. frenched rib chop, dry-rubbed with Californio spices, served with marbled potatoes, grilled asparagus, side of fresh herb chimichurri"
+    },
+    {
+     "name": "Double Cut Pork Chop",
+     "price": "$42",
+     "course": "Wood Fired",
+     "description": "14oz pork chop, ranch rice, sautéed vegetables, tatemada sauce"
+    },
+    {
+     "name": "Carne Asada",
+     "price": "$32",
+     "course": "Wood Fired",
+     "description": "Steak, fresh herb chimichurri, Californio spices, fennel slaw, rice, pink beans, corn or flour tortillas"
+    },
+    {
+     "name": "Brick Chicken",
+     "price": "$29",
+     "course": "Wood Fired",
+     "description": "Chicken, Californio spices, fresh herb chimichurri, rice, pink beans, fennel slaw, corn or flour tortillas"
+    },
+    {
+     "name": "Wood-Fired Fresh Atlantic Salmon",
+     "price": "$36",
+     "course": "Wood Fired",
+     "description": "Grilled asparagus, marbled potatoes, fresh herb chimichurri"
+    },
+    {
+     "name": "Whole Fish",
+     "price": "$40",
+     "course": "Entree",
+     "description": "One pound deep-fried branzino bone-in European sea bass, served with rice, pink beans + choice of tortillas"
+    },
+    {
+     "name": "Bone Marrow Brûlée",
+     "price": "$29",
+     "course": "Antojitos / Small Plates",
+     "description": "Served with BBQ shrimp, onions, cilantro, sea salt"
+    },
+    {
+     "name": "Fajitas Skillet Trio",
+     "price": "$38",
+     "course": "Sizzling Skillets",
+     "description": "Wood-fired carne asada, chicken, shrimp, sautéed vegetables, fresh herb chimichurri, corn or flour tortillas"
+    },
+    {
+     "name": "BBQ Oysters",
+     "price": "3 for $15",
+     "course": "Antojitos / Small Plates",
+     "description": "Local oysters, mezcal, mozzarella + Tatemada salsa"
+    }
+   ],
+   "signature_drinks": [
+    {
+     "name": "Top Shelf Margarita",
+     "price": "$18",
+     "description": "Tequila reposado, lime, agave, topped with Grand Marnier ($5 off on Margarita Mondays)"
+    },
+    {
+     "name": "Mezcal Margarita",
+     "price": "$17",
+     "description": "Smokey mezcal, lime, agave"
+    },
+    {
+     "name": "Alicia's Spicy Sunset",
+     "price": "$17",
+     "description": "Reposado tequila, muddled jalapeño, blood orange, agave, lime"
+    },
+    {
+     "name": "Mango Brasa",
+     "price": "$19",
+     "description": "BNAAA Mezcal, mango, lemon, pineapple, agave, tajin rim"
+    },
+    {
+     "name": "Hibiscus Paloma",
+     "price": "$15",
+     "description": "Tequila blanco, hibiscus, lime, Fever Tree grapefruit soda"
+    },
+    {
+     "name": "Old Fashioned",
+     "price": "$16",
+     "description": "Mezcal, reposado, agave, bitters, fresh orange"
+    }
+   ],
+   "desserts": [
+    "Flourless Chocolate Cake ($10) — legacy ranchocantina.com/menu-old page only",
+    "House-made Flan ($10) — legacy ranchocantina.com/menu-old page only",
+    "Churros ($8) — legacy ranchocantina.com/menu-old page only"
+   ],
+   "menu_url": "https://www.ranchocantina.com/menu-danville",
+   "order_online_url": "https://www.ranchocantina.com/order-online-danville",
+   "reservation_platform": "OpenTable",
+   "reservation_url": "https://www.opentable.com/r/rancho-cantina-danville-reservations-danville?restref=1504117&lang=en-US&ot_source=Restaurant%20website",
+   "catering_url": "https://www.ranchocantina.com/catering-danville",
+   "private_dining_url": "",
+   "delivery_links": [],
+   "instagram": "https://www.instagram.com/rancho_cantina/",
+   "facebook": "https://www.facebook.com/p/Rancho-Cantina-100046665289596/",
+   "tiktok": "",
+   "yelp_url": "",
+   "yelp_rating": "",
+   "google_rating": "",
+   "price_range": "$$",
+   "owner_chef": "Owners: Nico and Alice Tzikas (Danville residents; took over the Lafayette original in April 2024). Executive Chef: Carlos Navarro (credited on the Danville printed menu).",
+   "opened": "Soft opened Monday, August 24, 2026; full online reservations from September 1, 2026 (Bay Area Telegraph). Diablo Dish dates the soft opening as August 26, 2026.",
+   "brand_colors_or_style": "Squarespace site with a restrained, heritage-serif look: headings in Orpheus Pro (a high-contrast display serif) and body/meta text in Adobe Garamond Pro; palette is black and white with a dark espresso-brown accent (hsl 42° 42% 13%, approx #2E2613) used for buttons/links and a pale warm gray (hsl 210° 3% 88%) secondary; page sections alternate white and black backgrounds. The printed menu is set on khaki/beige stock with a thin bracket-framed \"RANCHO CANTINA\" serif wordmark in black, gold-tan section headings (ANTOJITOS, WOOD FIRED, MARGARITA TIME), small crown ornaments, and vintage line-art illustrations of a vaquero on horseback, a covered wagon, a whole fish, a cowboy hat and a skillet. The Danville storefront was repainted in a medium tan body with a burnt-orange secondary and off-white trim (Bay Area Telegraph). Overall mood: rustic old-California ranch / Californio heritage rather than bright cantina kitsch.",
+   "sources": [
+    "https://www.ranchocantina.com/danville",
+    "https://www.ranchocantina.com/menu-danville",
+    "https://images.squarespace-cdn.com/content/v1/6601b7fc7a4fe3078e59a1f0/1ccd6793-56de-442c-9c4c-1ff63c69bdf0/AS+PRINTED+Rancho+Cantina+Danville+Main+Menu+%2B+Drinks+6.11.26+with+Bleed+beige+DMArtboard+1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6601b7fc7a4fe3078e59a1f0/15b16b63-27aa-47ab-be7d-8280302da91c/AS+PRINTED+Rancho+Cantina+Danville+Main+Menu+%2B+Drinks+6.11.26+with+Bleed+beige+DMArtboard+2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6601b7fc7a4fe3078e59a1f0/80ca3ada-7736-4bf0-bf53-2137c9df8b61/5x7+Taco+Tuesday+Menu+2026+June+V4_Part2.png",
+    "https://www.ranchocantina.com/order-online-danville",
+    "https://www.ranchocantina.com/reservations-danville",
+    "https://www.ranchocantina.com/catering-danville",
+    "https://www.ranchocantina.com/contact-us-danville",
+    "https://www.ranchocantina.com/our-story",
+    "https://www.ranchocantina.com/menu-old",
+    "https://www.ranchocantina.com/ (announcement bar: Margarita Mondays)",
+    "https://static1.squarespace.com/static/versioned-site-css/6601b7fc7a4fe3078e59a1f0/35/5c5a519771c10ba3470d8101/6601b7fc7a4fe3078e59a1f8/1824/site.css?nocustom=true",
+    "https://nominatim.openstreetmap.org/search?q=501%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json",
+    "https://bayareatelegraph.com/2026/08/26/a-long-awaited-mexican-restaurant-has-finally-soft-opened-in-danville/",
+    "https://bayareatelegraph.com/2026/05/29/new-rancho-cantina-in-danville-clears-a-major-hurdle-as-it-prepares-to-open/",
+    "https://www.danvillesanramon.com/food/2026/05/04/rancho-cantina-owners-eye-early-summer-opening-for-new-danville-restaurant/",
+    "https://www.diablomag.com/blog/diablo-dish/diablo-dish-rancho-cantina-opens-in-danville/article_8ec1a80b-b459-4c99-b980-634925556001.html",
+    "https://hoodline.com/2026/03/lafayette-s-rancho-cantina-saddles-up-for-downtown-danville-takeover/",
+    "https://whatnow.com/san-francisco/restaurants/rancho-cantina-expanding-to-downtown-danville/",
+    "https://patch.com/california/lamorinda/popular-lafayette-restaurant-opening-second-location-danville",
+    "https://www.beyondthecreek.com/rancho-cantina-coming-to-danville/",
+    "https://www.instagram.com/rancho_cantina/ (search-result snippet only)",
+    "https://www.facebook.com/p/Rancho-Cantina-100046665289596/",
+    "https://www.opentable.com/r/rancho-cantina-danville (link only; page unreachable)"
+   ],
+   "notes": "Gaps and caveats: (1) OpenTable listing body could not be read — opentable.com timed out / refused from every tool tried (WebFetch, curl, browser pane); the reservation URL is the one embedded on the restaurant's own /reservations-danville page (restref 1504117). (2) No Yelp listing for the Danville location surfaced in search (only the Lafayette page https://www.yelp.com/biz/rancho-cantina-lafayette, and the closed Cocina Hermanas page at 501 Hartz); yelp.com returned 403 to direct fetches, so yelp_url/yelp_rating are empty. (3) Google rating not obtained (Maps page returns JS payload without rating); google_maps_url is a constructed search link, not a read Place URL. (4) Instagram @rancho_cantina is the brand account (bio per search snippet: \"the spirit of the Spanish Californios with wood-fired fare & fresh cocktails\", ~919 followers); no Danville-specific handle found; the Facebook page is the brand/Lafayette page. (5) No email address published — contact is via phone or the site's form. (6) All dish/drink names and prices are transcribed from the printed Danville \"Main Menu + Drinks 6.11.26\" images on /menu-danville; that menu has no dessert section, so desserts are taken from the legacy /menu-old page (older, lower-priced menu) and may not be offered in Danville. (7) price_range \"$$\" is derived from posted menu prices (small plates $13-29, mains $18-42, one $120 ribeye for two), not from a platform tier. (8) Nominatim geocode resolves to the OSM restaurant object at 501 Hartz Avenue, still labeled \"Cocina Hermanas\" (previous tenant). (9) Announcement bar text says Margarita Mondays \"starting this Monday\" with no date; Taco Tuesday card is dated June 2026 and is shared with Lafayette. (10) Other drink/beer notables from the menu: Danville Brewing Rotator on draft ($8), Modelo Especial draft ($8), Michelada $12, housemade lemonade $5.50.",
+   "confidence": 0.8
+  }
+ },
+ {
+  "type": "result",
+  "key": "v2:1e703df6133de568be6f952471dc4c9f664d68d5122696d86049fc1adebdc21f",
+  "agentId": "a5d95b706665eba1a",
+  "result": {
+   "official_name": "Danville Harvest",
+   "tagline": "Danville's Farm to Table Restaurant",
+   "cuisine": "New American / Californian farm-to-table",
+   "description": "Danville Harvest is a farm-to-table restaurant in downtown Danville led by Executive Chef Noe Briseno, built around sustainably sourced, seasonal Bay Area ingredients with an approachable menu of shared small plates, salads and mains. It describes itself as \"a pillar of the downtown community,\" serving weekday lunch, weekend brunch, daily dinner and a daily happy hour. Its bar program bills itself as award-winning, with seasonal craft cocktails, a \"Build your own Manhattan\" project and what it calls the largest whiskey selection in the Tri-Valley. The restaurant is part of restaurateur Darren Matte's group, which also runs Cocina Hermanas (Danville), Parkside Los Gatos and Per Diem (San Francisco).",
+   "owner_chef": "Owner: Darren Matte (restaurateur; group \"Restaurants by Darren Matte\"). Executive Chef: Noe Briseno.",
+   "opened": "2016 (reported as \"Established in 2016\" in Yelp-derived search snippets; the Yelp page itself could not be loaded to verify)",
+   "address": "500 Hartz Avenue",
+   "city": "Danville",
+   "state": "CA",
+   "zip": "94526",
+   "lat": 37.8206233,
+   "lng": -121.9979845,
+   "geo_source": "Nominatim node \"Danville Harvest, 500, Hartz Avenue, Danville\" from https://nominatim.openstreetmap.org/search?q=500%20Hartz%20Avenue%2C%20Danville%2C%20CA%2094526&format=json (the site's own Google Maps link agrees: 37.820691,-121.997899)",
+   "phone": "(925) 362-3665",
+   "email": "info@danvilleharvest.com (private events: events@danvilleharvest.com)",
+   "website": "https://www.danvilleharvest.com/",
+   "menu_url": "https://www.danvilleharvest.com/menu",
+   "reservation_platform": "OpenTable (Squarespace OpenTable widget on the site's /reservations page)",
+   "reservation_url": "https://www.opentable.com/r/danville-harvest",
+   "order_online_url": "https://www.toasttab.com/danville-harvest/v3",
+   "private_dining_url": "https://www.danvilleharvest.com/events",
+   "catering_url": "",
+   "delivery_links": [
+    {
+     "platform": "DoorDash",
+     "url": "https://www.doordash.com/store/danville-harvest-danville-27776160/"
+    },
+    {
+     "platform": "Uber Eats",
+     "url": "https://www.ubereats.com/store/danville-harvest/23oxT6TIRy2umIerbLXtqA"
+    },
+    {
+     "platform": "order.online (DoorDash storefront)",
+     "url": "https://order.online/store/danville-harvest-danville-27776160/"
+    },
+    {
+     "platform": "Toast (pickup)",
+     "url": "https://www.toasttab.com/danville-harvest/v3"
+    }
+   ],
+   "google_maps_url": "https://www.google.com/maps/place/Danville+Harvest/@37.820691,-122.0000877,17z/data=!3m1!4b1!4m6!3m5!1s0x808f8cabe7bbc871:0x3c8989011120060e!8m2!3d37.820691!4d-121.997899!16s%2Fg%2F11c0vldnz0",
+   "google_rating": "4.3 (826 reviews) per Wanderlog's Google data",
+   "yelp_rating": "3.9 (approx. 1,471 reviews) per Yelp search snippet; Yelp page returned 403",
+   "yelp_url": "https://www.yelp.com/biz/danville-harvest-danville",
+   "instagram": "https://www.instagram.com/danvilleharvest/ (@danvilleharvest; bio per search snippet: \"Seasonal dining inspired by local ingredients Brunch • Lunch • Happy Hour • Dinner 📍 Downtown Danville\"; ~2,750 followers)",
+   "facebook": "https://www.facebook.com/danvilleharvest/ (92% recommend, 682 reviews, 1.5K followers, $$)",
+   "tiktok": "",
+   "price_range": "$$",
+   "hours": [
+    {
+     "day": "Monday",
+     "open": "11:30 AM",
+     "close": "8:30 PM",
+     "notes": "Lunch 11:30-3, happy hour 3-5, dinner 4-8:30"
+    },
+    {
+     "day": "Tuesday",
+     "open": "11:30 AM",
+     "close": "9:00 PM",
+     "notes": "Lunch 11:30-3, happy hour 3-5, dinner from 4"
+    },
+    {
+     "day": "Wednesday",
+     "open": "11:30 AM",
+     "close": "9:00 PM",
+     "notes": "Lunch 11:30-3, happy hour 3-5, dinner from 4"
+    },
+    {
+     "day": "Thursday",
+     "open": "11:30 AM",
+     "close": "9:00 PM",
+     "notes": "Lunch 11:30-3, happy hour 3-5, dinner from 4"
+    },
+    {
+     "day": "Friday",
+     "open": "11:30 AM",
+     "close": "9:30 PM",
+     "notes": "Lunch 11:30-3, happy hour 3-5, dinner from 4 (site: 'later on weekends')"
+    },
+    {
+     "day": "Saturday",
+     "open": "10:00 AM",
+     "close": "9:30 PM",
+     "notes": "Brunch 10-3, happy hour 3-5, dinner from 4"
+    },
+    {
+     "day": "Sunday",
+     "open": "10:00 AM",
+     "close": "8:00 PM",
+     "notes": "Brunch 10-3, happy hour 3-5, Sunday Fried Chicken Supper from 5 PM"
+    }
+   ],
+   "hours_source": "Official site (danvilleharvest.com home/contact) gives service windows only: Lunch weekdays 11:30am-3pm, Brunch weekends 10am-3pm, Dinner daily 4pm-8:30pm \"(later on weekends)\", Happy Hour daily 3pm-5pm. Day-by-day open/close times are Google-derived listings that agree with each other (wanderlog.com/place/details/440764, restaurantji.com, danville-harvest.res-discover.com).",
+   "latest_close_time": "9:30 PM Fri-Sat (Google-derived listings; official site only says dinner ends 8:30 PM, \"later on weekends\")",
+   "happy_hour": "Daily 3-5 PM (official site). Happy hour menu: $5 bites (fried chicken slider, shrimp lettuce wrap, short rib taco, Italian meatballs 2 pcs, short rib empanada, ahi tuna tostada, fries; sweet potato fries +$3, truffle +$5); $10 cocktails (Solstice, Old-Fashioned, Southpaw, Hi-Tide; A Pimm's Style $11), $5 off all other signature cocktails; $5 draft beers (Bo Pils, Fieldwork Hazy IPA, Mother Earth Cream Ale, Coronado Salty Crew Blonde); $9 wines (Argiolas Vermentino, EOS Cabernet), Chateau de Bligny Brut $18, $3 off all other wines by the glass; Three Horseman Elijah Craig whiskey flight $20.",
+   "late_night": "None found. Dinner runs to 8:30 PM (9:30 PM Fri-Sat per Google-derived hours); no late-night or nightcap menu published and no evidence the bar stays open past the kitchen. Desserts are offered (DoorDash \"Sweets\": Jumbo Choc Cookies, Bread Pudding, Beignets) but no dessert menu is posted on the website.",
+   "industry_night": "None found on the official site, menus, or listings.",
+   "services": {
+    "brunch": true,
+    "lunch": true,
+    "dinner": true,
+    "late_night": false,
+    "private_dining": true,
+    "catering": true,
+    "takeout": true,
+    "delivery": true,
+    "secret_menu": false,
+    "industry_specials": false,
+    "happy_hour": true,
+    "full_bar": true,
+    "patio": true,
+    "live_music": false,
+    "reservations": true,
+    "kids_menu": true,
+    "dog_friendly": true
+   },
+   "services_notes": "brunch: weekends 10am-3pm with a dedicated Brunch PDF (June 2026) on danvilleharvest.com/menu. lunch: weekdays 11:30am-3pm, Lunch PDF. dinner: daily 4pm-8:30pm, Dinner PDF. private_dining: /events page lists Front Bar Dining (up to 24), Main Dining Room (48 seated/70 standing, curtained back section up to 20), Side Patio (26 seated/36 standing), full-restaurant buyout; contact events@danvilleharvest.com. catering: contact page lists \"General & Catering Inquiries info@danvilleharvest.com\" (no catering menu published). takeout: \"Order Online\" Toast link on the site; Facebook lists \"In-store pickup\"; DoorDash shows ordering windows 11:30am-2:25pm and 5-8:10pm. delivery: DoorDash store live with delivery (4.6, 100+); Uber Eats listing exists (page blocked, not read); Grubhub now says \"Not available on Grubhub anymore\". happy_hour: daily 3-5pm per site + Happy Hour PDF. full_bar: cocktails, whiskey flights, wine, draft/canned beer on every menu; site claims largest whiskey selection in the Tri-Valley. patio: \"Side Patio\" on events page; Facebook \"Outdoor seating\". reservations: OpenTable widget on /reservations and OpenTable listing. kids_menu: site advertises \"Kids Eat Free Mon-Thu 4-6 PM, free kids meal (up to $11) per adult entree\", implying kids meals, though no kids menu PDF is posted. dog_friendly: third-party only - Restaurantji lists \"Pet Friendly\" and BringFido has a listing titled \"Danville Harvest is pet friendly!\" (page blocked); not stated on the official site. live_music/secret_menu/industry_specials/late_night: no evidence found.",
+   "signature_dishes": [
+    {
+     "name": "Hushpuppies (VG)",
+     "price": "$13",
+     "course": "Starter",
+     "description": "Corn, cheddar, scallions, bell pepper, maple sriracha butter, hot honey, cilantro aioli (dinner/lunch/brunch menus; Wanderlog calls them 'locally-famous')"
+    },
+    {
+     "name": "Millionaire Bacon (GF)",
+     "price": "$16",
+     "course": "Starter",
+     "description": "Thick cut - classic, maple, BBQ (dinner & brunch)"
+    },
+    {
+     "name": "Short Rib Bites",
+     "price": "$17",
+     "course": "Starter",
+     "description": "Honey glaze, crispy shallots, sesame seeds, spicy aioli (dinner & lunch)"
+    },
+    {
+     "name": "Braised Short Ribs",
+     "price": "$31",
+     "course": "Main",
+     "description": "Tamarind-chipotle glaze, fettuccine, sauteed greens, gremolata (dinner)"
+    },
+    {
+     "name": "Danville Burger",
+     "price": "$26",
+     "course": "Main",
+     "description": "Filet mignon-prime rib patty, smoked cheddar, lettuce, pickled onion, tomato, pickle, secret sauce, fries (dinner)"
+    },
+    {
+     "name": "Filet Mignon (GF)",
+     "price": "$42",
+     "course": "Main",
+     "description": "Two 3oz medallions, green beans, carrots, 3-cheese potato gratin, brandy-mushroom sauce (dinner)"
+    },
+    {
+     "name": "Horseradish Crusted Salmon",
+     "price": "$30",
+     "course": "Main",
+     "description": "Basil infused potato puree, collard greens, red wine butter sauce (dinner)"
+    },
+    {
+     "name": "Fried Chicken Sandwich",
+     "price": "$17",
+     "course": "Lunch",
+     "description": "Cabbage slaw, swiss cheese, jalapeno, mayonnaise, dutch crunch (lunch; $21 with fried egg at brunch)"
+    },
+    {
+     "name": "Short Rib Hash (GF)",
+     "price": "$23",
+     "course": "Brunch",
+     "description": "Sunny-side eggs, peppers, kale, Brussels sprouts, sweet potatoes, harissa hollandaise"
+    },
+    {
+     "name": "Sunday Evening Fried Chicken Supper",
+     "price": "$25 per person / $80 family of 4",
+     "course": "Weekly special",
+     "description": "Every Sunday from 5 PM - 'Crispy, golden, and made with love... just like grandma used to make' (home page Weekly Offerings; also printed on dinner and lunch menus)"
+    }
+   ],
+   "signature_drinks": [
+    {
+     "name": "Harvest Old-Fashioned",
+     "price": "$18",
+     "description": "Elijah Craig bourbon, rye, barrel proof & toasted barrel, demerara, bitters"
+    },
+    {
+     "name": "Hi-Tide",
+     "price": "$16",
+     "description": "House-infused blood orange tequila, Ramazzotti rosato, lime, hibiscus rim"
+    },
+    {
+     "name": "Smoke on the Water",
+     "price": "$18",
+     "description": "Rye whiskey, Jelinek fernet, maple-chai, orange/Creole bitters"
+    },
+    {
+     "name": "Cal Salida",
+     "price": "$16",
+     "description": "Grapefruit & habanero infused mezcal, Pamplemousse, honey, lemon"
+    },
+    {
+     "name": "Sombra Diablo",
+     "price": "$16",
+     "description": "Mezcal, banana, guava, elderflower, lime, rosemary"
+    },
+    {
+     "name": "Mimosa Bar - Bottle Service, Make Your Own",
+     "price": "$28 (single mimosa $12)",
+     "description": "Brunch: carafe of juice - orange, hibiscus or pineapple - with bubbles; Bloody Mary/Maria $13 (vodka or mezcal, housemade mix; Fully Loaded +$4)"
+    }
+   ],
+   "desserts": [
+    "Bread Pudding (DoorDash 'Sweets' category, $14.70 DoorDash price)",
+    "Beignets (DoorDash 'Sweets', $14.70 DoorDash price)",
+    "Jumbo Choc Cookies (DoorDash 'Sweets', $12.60 DoorDash price)",
+    "Brunch 'shared' sweets from official Brunch PDF: Cinnamon Roll $9 (Old Towne Bakery roll, walnuts, caramel, berries), Mini Donuts $14 (cinnamon sugar, chocolate & caramel dip), Banana Bread $10 (chocolate chips, honey butter)"
+   ],
+   "brand_colors_or_style": "Squarespace site with Adobe Fonts (Typekit): headings and buttons in \"Granville\" (bold 700, a serif display face), body/navigation in \"Degular\" (sans), meta text in \"Brandon Grotesque\". Palette from site.css: warm cream page background #F8F5DF (hsl 52.8, 64%, 92%), deep forest green #212E21 used as the site's \"black\"/dark sections, beige-tan light accent #E6DCC8, and sage green dark accent #AEC0AB - an earthy cream/green farmhouse scheme. Imagery is large photography of produce, plated dishes (glazed short ribs, a Manhattan cocktail, seasonal salad and fried chicken), the back dining room and the exterior; logo file is \"Danville_Harvest_conceptlogo.png\". Overall mood: warm, rustic-modern farm-to-table.",
+   "notes": "NAME DISAMBIGUATION: the full-service \"Harvest\" in downtown Danville is officially \"Danville Harvest\" (500 Hartz Ave). \"Harvest Kitchen\" at 190 Hartz Ave (DoorDash/Grubhub/Seamless listings) is a delivery-only virtual brand operated out of Vitality Bowls' store at 190 Hartz Ave Ste 150 (per NRN: \"Vitality Bowls launches Harvest Kitchen hybrid virtual brand nationally\" and vitalitybowls.com order pages) - not a standalone restaurant. A separate \"Harvest Prep Kitchen\" at 202 Sycamore Valley Rd W is marked CLOSED on Yelp. MENUS: all dishes/prices come from the June 2026 Dinner, Lunch and Brunch PDFs and the Happy Hour PDF linked from danvilleharvest.com/menu (extracted with pdftotext). Menu footnotes: bread service $4; 20% service charge for parties of 6 or more; VG/v/GF labeling. WEEKLY OFFERINGS on the home page: Sunday Fried Chicken Supper $25/person or $80 family of 4 from 5 PM; Kids Eat Free Mon-Thu 4-6 PM (free kids meal up to $11 per adult entree); Happy Hour every day 3-5 PM. GAPS/CAVEATS: Yelp, OpenTable, Tripadvisor, Toast, Uber Eats, order.online and BringFido pages returned 403/CAPTCHA to WebFetch, curl and a text proxy, so Yelp (3.9, ~1.4k) and OpenTable (4.7, 1,743 diners) ratings and the Instagram bio/follower count come from search-result snippets only; Tripadvisor 4.0 (61) and Google 4.3 (826) come from Wanderlog. The \"established 2016\" date is snippet-only. The OpenTable restaurant ID could not be extracted from the site's widget (loaded by JS). No dessert menu is published on the site; dessert names come from DoorDash's Sweets category (DoorDash prices are marked up). Dog-friendly status rests on Restaurantji and a BringFido listing title only. No TikTok account, live music, industry night or secret menu was found. The Happy Hour PDF was uploaded earlier (March 2026) than the June 2026 food menus. danvillesocial.com shows older hours (to 10 PM Thu-Sat) that conflict with current Google-derived hours; the current listings were used.",
+   "sources": [
+    "https://www.danvilleharvest.com/",
+    "https://www.danvilleharvest.com/menu",
+    "https://www.danvilleharvest.com/contact",
+    "https://www.danvilleharvest.com/reservations",
+    "https://www.danvilleharvest.com/events",
+    "https://static1.squarespace.com/static/63c99b384e950111606a8e1a/t/6a3b467cc8baad5d50ff1fd3/1782269564401/Harvest+-+Dinner+JUNE+2026.pdf",
+    "https://static1.squarespace.com/static/63c99b384e950111606a8e1a/t/6a3b4639c0096f6c148edce7/1782269503944/LUNCH+JUNE+2026.pdf",
+    "https://static1.squarespace.com/static/63c99b384e950111606a8e1a/t/6a2c5a139cbb0b0830493794/1781291552891/Brunch+JUNE+2026.pdf",
+    "https://static1.squarespace.com/static/63c99b384e950111606a8e1a/t/69aa2d02ba9915096c5e02d5/1772760322924/Happy+Hour+For+Website.pdf",
+    "https://static1.squarespace.com/static/versioned-site-css/63c99b384e950111606a8e1a/52/5c5a519771c10ba3470d8101/63c99b384e950111606a8e36/1824/site.css",
+    "https://nominatim.openstreetmap.org/search?q=500%20Hartz%20Avenue%2C%20Danville%2C%20CA%2094526&format=json",
+    "https://wanderlog.com/place/details/440764/danville-harvest",
+    "https://www.restaurantji.com/ca/danville/danville-harvest-/",
+    "https://danville-harvest.res-discover.com/",
+    "https://www.danvillesocial.com/directory/danville-harvest/",
+    "https://culinaryagents.com/groups/2248-Restaurants-by-Darren-Matte",
+    "https://www.doordash.com/store/danville-harvest-danville-27776160/ (read via r.jina.ai)",
+    "https://www.facebook.com/danvilleharvest/about (read via r.jina.ai)",
+    "https://www.grubhub.com/restaurant/danville-harvest-500-hartz-ave-danville/8734736 (read via r.jina.ai)",
+    "https://www.yelp.com/biz/danville-harvest-danville (search snippet only; page blocked)",
+    "https://www.opentable.com/r/danville-harvest (search snippet only; page blocked)",
+    "https://www.instagram.com/danvilleharvest/ (search snippet only; login wall)",
+    "https://www.nrn.com/marketing-branding/vitality-bowls-launches-harvest-kitchen-hybrid-virtual-brand-nationally (search result headline re: Harvest Kitchen virtual brand)",
+    "https://www.bringfido.com/restaurant/89265 (search result title only; page blocked)"
+   ],
+   "confidence": 0.85
+  }
+ },
+ {
+  "type": "result",
+  "key": "v2:85c0990fe1e37253ec0d29e192f386cf22e5b3962e5c2ec8561064945cd76b53",
+  "agentId": "aefcaa10f4706cb98",
+  "result": {
+   "shared_corner": "Hartz Avenue & Church Street, downtown Danville, CA 94526 (south end of the Hartz Ave strip, one block north of School St / San Ramon Valley Blvd)",
+   "corner_lat": 37.820604,
+   "corner_lng": -121.998233,
+   "restaurant_addresses": [
+    {
+     "name": "Rancho Cantina (Danville)",
+     "address": "501 Hartz Ave, Danville, CA 94526 — southeast corner of Hartz Ave & Church St (former Cocina Hermanas space, 2019–2026); phone on site (925) 718-5153",
+     "lat": 37.82036,
+     "lng": -121.998255
+    },
+    {
+     "name": "Incontro Ristorante",
+     "address": "455 Hartz Ave, Danville, CA 94526 — in the historic Hartz House (neoclassic rowhouse c.1910, John & Catharina Hartz's retirement home); garden patio; phone (925) 820-2349",
+     "lat": 37.820772,
+     "lng": -121.998798
+    },
+    {
+     "name": "Kaia's Island Kitchen & Tiki Bar",
+     "address": "480 Hartz Avenue, Danville, CA 94526 — former The Vine & Spirits space; opened June 18, 2025; phone (925) 820-7210",
+     "lat": 37.820875,
+     "lng": -121.998384
+    },
+    {
+     "name": "Danville Harvest",
+     "address": "500 Hartz Avenue, Danville, CA 94526 — in the Eddy House (Queen Anne cottage c.1903); directly across Hartz from Rancho Cantina; phone (925) 362-3665",
+     "lat": 37.820623,
+     "lng": -121.997985
+    }
+   ],
+   "walking_notes": "All four sit within about 250 ft of each other around the Hartz Ave & Church St intersection (OSM intersection node 37.820604, -121.998233). Hartz Ave runs NW–SE through downtown; odd numbers (Incontro 455, Rancho 501) are on the southwest side, even numbers (Kaia's 480, Harvest 500) on the northeast side. Church St crosses Hartz here (running SW to Railroad Ave and NE toward Front St / Bridges). Layout by quadrant: Rancho Cantina occupies the corner building south of Church on the SW side (DanvilleSanRamon: 'southeast corner of Hartz Avenue and Church Street'); Danville Harvest is directly across Hartz from Rancho, south of Church on the NE side (about 120 ft / one crosswalk apart); Kaia's is on Harvest's side of Hartz, roughly 110 ft northwest of the intersection (across Church St from Harvest, ~160 ft door to door); Incontro is on Rancho's side, about 170 ft northwest of the intersection (across Church St from Rancho, ~220 ft; 485 Hartz/New Moon Massage sits between Incontro and the corner). Pairwise distances (building centroids): Rancho–Harvest ~120 ft, Kaia's–Harvest ~160 ft, Incontro–Kaia's ~155 ft, Rancho–Kaia's ~215 ft, Rancho–Incontro ~220 ft, Incontro–Harvest ~250 ft — every pairing is under a one-minute walk with at most one street crossing. The Hartz/Church intersection was the first phase (April 2024) of the Town's $4.9M Downtown Master Plan Catalyst Project, which added enhanced pedestrian crossings, traffic-calming bulb-outs and new lighting at five Hartz intersections from School St to Linda Mesa Ave, so the crossing between Rancho and Harvest is a rebuilt pedestrian crossing. Church St and School St are 2-hour street parking; Hartz Ave is mostly 2-hour with loading zones (Town parking map). Nearest lots: Village Theatre Municipal Lot ~340 ft NE via Church St; Front Street Municipal Lot ~420 ft; Railroad Ave Municipal Lot ~440 ft SW via Church St (backs onto the Iron Horse Trail, which passes ~40 ft from Railroad & Church). Upscale neighbors inside the same pocket: Bridges Restaurant & Bar at 44 Church St (~230 ft NE of the corner) and Crush'd Wine Bar + Kitchen at 312 Railroad Ave (~210 ft SW).",
+   "neighborhood_description": "The four restaurants anchor the quieter southern end of Danville's historic Hartz Avenue, one block north of where Hartz meets San Ramon Valley Blvd/Hartz Way and a two-to-three-minute walk south of the busier Prospect Ave/Danville Hotel/Prospect Park Plaza core. This stretch is where Danville's late-1800s/early-1900s residences were converted into restaurants: Incontro occupies the c.1910 Hartz House (home of John Hartz, the subdivider who created Hartz Avenue), Harvest the c.1903 Eddy House, and further south sit the Cabral House (551), Bret Read House (571) and Shuey/Podva House (100 School St) from the Town's Historic Downtown Walking Tour. Bay Area Telegraph calls the Hartz/Church corner 'one of downtown Danville's busiest restaurant stretches'; the Town's Catalyst Project (2024–25) rebuilt the intersection with bulb-outs, enhanced crossings and new light poles/lit bollards. Within ~250 ft are Bridges Restaurant & Bar (44 Church St, the Mrs. Doubtfire restaurant) and Crush'd Wine Bar + Kitchen (312 Railroad Ave, 24 wines on tap); the Village Theatre & Art Gallery (233 Front St, the 1874 Grange Hall) is ~315 ft NE; the Iron Horse Trail and the Railroad Ave lot (Saturday Farmers' Market) are one short block SW via Church St. The Town's official 'Live Locally' branding, the oak-tree logo and the 350-year-old Old Oak Tree (Diablo Rd, ~980 ft NE) frame the local identity. Compared with the north-Hartz/Prospect block (dive bar, music club, piano bar, brewery), this pocket is dinner-and-patio oriented: wood-fired Californio Mexican (Rancho, opened Aug 24, 2026), regional Italian in a historic house (Incontro, closed Mondays), farm-to-table (Harvest, dinner ends 8:30 pm daily) and Hawaiian/tiki cocktails with live Hawaiian music (Kaia's, bar to 11 pm Fri–Sat). Hours as read Sept 10, 2026 — Rancho Sun–Thu 11–10, Fri–Sat 11–11; Incontro dinner Tue–Thu & Sun 5–9, Fri–Sat 5–10, brunch buffet Sat 12–3 / Sun 10–2; Kaia's Sun–Tue 11:30–9, Wed–Thu 11:30–10, Fri–Sat 11:30–11 (kitchen closes an hour before the bar); Harvest lunch weekdays 11:30–3, brunch weekends 10–3, dinner daily 4–8:30, happy hour 3–5.",
+   "landmarks": [
+    {
+     "name": "Village Theatre & Art Gallery",
+     "type": "arts venue",
+     "lat": 37.821167,
+     "lng": -121.997506,
+     "note": "233 Front St, Danville, CA 94526; (925) 314-3418. Built 1874 as the Grange Hall (Colonial Revival), raised in 1913 to become the second floor of a fraternal/social club; the Grange started Danville's first public library and high school. Town-owned theater + art gallery (gallery hours Wed–Fri 12–5, Sat 11–3 per Town page; offices M–Th 8–5, F 8–1). ~315 ft / 1–2 min NE of the corner via Church St. Adjacent Village Theatre Municipal Lot has 2-hr and 4-hr sections with EV charging."
+    },
+    {
+     "name": "Iron Horse Regional Trail — W Prospect Ave crossing",
+     "type": "trail access",
+     "lat": 37.82084,
+     "lng": -122.000878,
+     "note": "Paved multi-use trail on the 1891 Southern Pacific right-of-way (Wikipedia: 10-ft-wide path, Livermore to Concord; Love Tri-Valley: ~30-mile regional trail; EBRPD hours 5 am–10 pm). Crosses W Prospect Ave beside the Railroad Ave Municipal Lot and the Museum depot. ~770 ft / 3 min from the corner."
+    },
+    {
+     "name": "Iron Horse Regional Trail — behind Railroad Ave lot at Church St",
+     "type": "trail access",
+     "lat": 37.819921,
+     "lng": -121.998746,
+     "note": "Trail passes ~40 ft from the Railroad Ave & Church St intersection (37.820020,-121.998790), directly behind the Railroad Ave Municipal Lot — the closest trail access to the four restaurants, ~290 ft / 1–2 min SW down Church St. Trail also crosses San Ramon Valley Blvd at 37.817981,-121.996671 and W Linda Mesa Ave at 37.822375,-122.003421."
+    },
+    {
+     "name": "Danville Hotel / McCauley House (411 Hartz Ave)",
+     "type": "historic building / mixed-use",
+     "lat": 37.821174,
+     "lng": -121.999511,
+     "note": "1892 hotel ('Danville can at last boast of a restaurant' — Contra Costa Gazette, Nov 3, 1892); originally faced Railroad Ave, turned and moved to face Hartz in 1927. Castle Companies' 2015–16 redevelopment preserved the hotel and McCauley House (dedicated town heritage resources 2016) and added ~35,000–37,500 sq ft of retail/restaurant space plus 16 second-floor residences at Hartz & W Prospect. ~380 ft / 1–2 min NW of the corner."
+    },
+    {
+     "name": "Prospect Park Plaza (396 Hartz Ave, Hartz & Prospect)",
+     "type": "plaza",
+     "lat": 37.821624,
+     "lng": -121.999907,
+     "note": "Brick plaza with raised stage, seating and metal oak-tree sculptures; renovated July 2025 as part of the Catalyst Project. Hosts the free 'At the Plaza'/'Music at the Plaza' series (Sept 2026: Sep 5 live music, Sep 8 crafts, Sep 12 games, Sep 19; mostly 4–6 pm). This intersection is also the traditional Hot Summer Sundays / Fallfest hub. ~610 ft / 2–3 min NW of the corner."
+    },
+    {
+     "name": "Town Green & Town Green Pavilion",
+     "type": "park / outdoor stage",
+     "lat": 37.82074,
+     "lng": -121.99577,
+     "note": "420 Front St; 1-acre tree-lined lawn between the Danville Library (400 Front) and Danville Community Center (420 Front) with a band stand; capacity ~500; venue for Music in the Park (select Saturdays 6 pm) and Moonlight Movies (select Fridays, 6:30 pre-show). Construction of an all-new pavilion is scheduled to begin Aug 2026, completion Spring 2027. ~800 ft / 3 min E of the corner. (Coordinate is the midpoint between the library and community center buildings.)"
+    },
+    {
+     "name": "Danville Library (Contra Costa County Library)",
+     "type": "library",
+     "lat": 37.820863,
+     "lng": -121.995594,
+     "note": "400 Front St, Danville, CA 94526. Library/Community Center Municipal Lot (4-hour, EV charging; OSM lists 82 spaces) is at 37.820304,-121.995663."
+    },
+    {
+     "name": "Eugene O'Neill Commemorative Park",
+     "type": "pocket park",
+     "lat": 37.820938,
+     "lng": -121.996563,
+     "note": "Small park on Front St between the Village Theatre lot and the Library (OSM). O'Neill's Tao House (National Historic Site) is outside downtown; NPS tours (925) 838-0249."
+    },
+    {
+     "name": "Museum of the San Ramon Valley",
+     "type": "museum",
+     "lat": 37.820811,
+     "lng": -122.000507,
+     "note": "205 Railroad Ave (at W Prospect Ave); restored 1891 Southern Pacific depot (first train June 7, 1891); (925) 837-3750; hours Tue–Fri 1–4, Sat 10–1, Sun 12–3. ~600 ft / 2–3 min W of the corner."
+    },
+    {
+     "name": "Danville Farmers' Market (Railroad Ave Municipal Lot)",
+     "type": "farmers market",
+     "lat": 37.820027,
+     "lng": -121.999572,
+     "note": "Saturdays year-round 9 am–1 pm, rain or shine, in the Railroad Avenue Municipal Parking Lot 'at the corner of Railroad and Prospect Avenues' (PCFMA lists 205 Railroad Ave). Operated by Pacific Coast Farmers' Market Association for ~20 years; no dogs. The lot polygon runs along Railroad Ave from W Prospect down to Church St (lat 37.8195–37.8208, lon -122.0008 to -121.9989), so the market is a 1–2 min walk SW of the corner via Church St."
+    },
+    {
+     "name": "The Old Oak Tree (Danville Oak)",
+     "type": "landmark",
+     "lat": 37.822947,
+     "lng": -121.996571,
+     "note": "Valley oak c.1600s, est. 350+ years old, on Diablo Rd between W El Pintado and I-680; braced with a metal support structure; the Town's symbol and logo, home of mascot Auggie the Acorn; site of the annual Lighting of the Old Oak Tree the Friday after Thanksgiving. ~980 ft / 4 min NE of the corner."
+    },
+    {
+     "name": "Bridges Restaurant & Bar",
+     "type": "restaurant (upscale neighbor)",
+     "lat": 37.821165,
+     "lng": -121.997868,
+     "note": "44 Church St; Italian/Asian fusion; Mrs. Doubtfire filmed here; dinner Sun–Thu 5–8, Fri–Sat 5–9. ~230 ft NE of the corner — a natural ally for the 'South of Hartz' pocket."
+    },
+    {
+     "name": "Crush'd Wine Bar + Kitchen",
+     "type": "wine bar (neighbor)",
+     "lat": 37.820037,
+     "lng": -121.998328,
+     "note": "312 Railroad Ave (OSM; some listings say 'Railroad Way'); 24 wines on tap, craft cocktails, aperitivo hour 3–6, open to 10 pm Thu–Sat. ~210 ft SW of the corner."
+    },
+    {
+     "name": "Hartz Avenue shopping strip / Prospector Square",
+     "type": "shopping",
+     "lat": 37.821955,
+     "lng": -121.999107,
+     "note": "Hartz Ave from Church St north to Linda Mesa Ave is the boutique/retail spine (Prospector Square, Danville Chocolates, Elisa Wen, Ella J, jewelers, salons per OSM/Visit Tri-Valley). Town 'Discover Danville' web walking-tour app (danville.ca.gov/DiscoverDanville) covers shops, restaurants and 170 years of landmarks. Oktoberfest and Fallfest use this strip."
+    },
+    {
+     "name": "Veterans Memorial Building",
+     "type": "historic / events venue",
+     "lat": 37.821691,
+     "lng": -121.999468,
+     "note": "400 Hartz Ave; Neoclassical Revival 1925, built for $18,000 to honor WWI veterans; VFW/American Legion events; serves hot dogs at Hot Summer Sundays."
+    },
+    {
+     "name": "Town Meeting Hall",
+     "type": "historic / civic",
+     "lat": 37.82139,
+     "lng": -121.99794,
+     "note": "201 Front St; 1932 Mission Revival former Presbyterian church (original 1876), restored by the Town in 1989. Between the corner and the Village Theatre."
+    },
+    {
+     "name": "Danville Brewing Company",
+     "type": "brewery",
+     "lat": 37.821006,
+     "lng": -122.000134,
+     "note": "200A Railroad Ave at W Prospect; Maita family; bar closes 9 pm (Mon–Thu, Sun) / 9:30 (Fri–Sat); 10-year anniversary tap takeover Sep 18–19, 2026. ~525 ft NW."
+    },
+    {
+     "name": "Oak Hill Park",
+     "type": "park (not downtown)",
+     "lat": 37.841424,
+     "lng": -121.98555,
+     "note": "3005 Stone Valley Rd; 43 acres, small lake with waterfowl, trails, All Wars Memorial, group picnic area, Mt. Diablo backdrop. Roughly 1.6 mi north of downtown — not walkable from the corner; include only as a town amenity."
+    }
+   ],
+   "parking": [
+    {
+     "name": "Village Theatre Municipal Lot",
+     "address": "Front St at Church St (233 Front St), Danville, CA 94526",
+     "lat": 37.821142,
+     "lng": -121.99726,
+     "note": "Closest public lot to the four restaurants (~340 ft / 1–2 min via Church St). Town parking map shows a 2-hour section and a 4-hour section plus EV charging. Free. Front St between this lot and the Library lot closes for Music in the Park (e.g., Sat Jul 11, 2026, 4:30–10 pm)."
+    },
+    {
+     "name": "Front Street Municipal Lot",
+     "address": "Front St between E Prospect Ave and Church St (behind Town Meeting Hall / Veterans Bldg), Danville, CA 94526",
+     "lat": 37.821719,
+     "lng": -121.998547,
+     "note": "3-hour parking (orange on Town map). Employee permits NOT valid here. ~420 ft / 2 min from the corner. Free."
+    },
+    {
+     "name": "Railroad Avenue Municipal Lot",
+     "address": "Railroad Ave between W Prospect Ave and Church St (next to Museum of the SRV, 205 Railroad Ave), Danville, CA 94526",
+     "lat": 37.820027,
+     "lng": -121.999572,
+     "note": "Long lot along Railroad Ave backing onto the Iron Horse Trail; Town map shows 4-hour and 2-hour sections and EV charging. Hosts the Saturday Farmers' Market 9–1 (expect partial closure Saturday mornings). Town of Danville operated, free. ~440 ft / 2 min SW of the corner via Church St."
+    },
+    {
+     "name": "Library / Community Center Municipal Lot",
+     "address": "400–420 Front St, Danville, CA 94526",
+     "lat": 37.820304,
+     "lng": -121.995663,
+     "note": "4-hour parking with EV charging; OSM lists 82 spaces. ~750 ft / 3 min E of the corner. Free."
+    },
+    {
+     "name": "Clock Tower Municipal Lot",
+     "address": "Railroad Ave at E Linda Mesa Ave / Danville Square (west of Hartz), Danville, CA 94526",
+     "lat": 37.822119,
+     "lng": -122.001609,
+     "note": "3-hour parking (orange on Town map). Employee permits NOT valid here. Serves the north-Hartz/Prospect nightlife block; ~1,120 ft / 4–5 min from the corner. Free. Prospect Ave closes from this lot's entrance to Front St during Fallfest."
+    },
+    {
+     "name": "Rose Street Municipal Lot",
+     "address": "Rose St at E Linda Mesa Ave, Danville, CA 94526",
+     "lat": 37.823829,
+     "lng": -122.001349,
+     "note": "3-hour parking (orange on Town map); listed by the Town for employee permit parking. ~1,480 ft / 6 min from the corner. Free."
+    },
+    {
+     "name": "Sycamore Valley Park and Ride Lot",
+     "address": "Sycamore Valley Rd at I-680 (off Laurel Dr / Iron Horse Trail), Danville, CA 94526",
+     "note": "72-hour parking per Town map; not downtown (no coordinates verified). Connects to downtown via the Iron Horse Trail."
+    },
+    {
+     "name": "On-street parking summary (Town map)",
+     "address": "Hartz Ave, Church St, School St, Railroad Ave, Front St",
+     "note": "Downtown has 1,400+ free public spaces in six municipal lots plus time-limited street parking. Hartz Ave is mostly 2-hour with loading zones; Church St and School St are 2-hour; Railroad Ave (museum side) 4-hour; 20-minute spots near Hartz/Diablo, 30-minute near Hartz Way/Library, 1-hour near Railroad/Linda Mesa. Employee permit program: Zone 1 $25/yr, Zones 2–3 $50/yr, valid only where signed 'All Day Parking by Permit Only'. New red curbs added for AB 413 daylighting. Transportation Division (925) 314-3310, transportation@danville.ca.gov."
+    }
+   ],
+   "competitor_nightlife_zone": {
+    "where": "North end of the Hartz Ave strip — Hartz Ave between Prospect Ave and Diablo Rd/Linda Mesa Ave (the 300 block), plus E Prospect Ave and Railroad Ave at W Prospect (Danville Brewing). Roughly 600–900 ft (2–4 min walk) northwest of the Hartz/Church corner, centered near 37.8221, -122.0006.",
+    "description": "This is where Danville's late-night, music and bar energy concentrates: a 1907 dive bar, a live-music/DJ/karaoke club, a cocktail lounge open to midnight, a neighborhood sports bar with 25 taps and patio people-watching, the town's brewery, and (until recently) a dueling-piano bar and a DJ sports bar that ran until 1 am. Danville Social's 'Weekend Music Scene' lists DJs on Thursdays, bands Friday/Saturday and karaoke Sundays on this block. Two of the loudest venues have closed since early 2026 (Kick N Mule at 340 Hartz; Stilettos Piano Bar, ex-McGah's, at 148 E Prospect per Yelp listings and a dead website), so the block is in flux. South of Hartz, by contrast, is dinner-led: no DJs, live Hawaiian music at Kaia's, and most kitchens closing 8:30–10 pm.",
+    "example_venues": [
+     "Elliott's Bar — 369 Hartz Ave (est. 1907, at this site since 1912; NBC Bay Area's #3 Bay Area dive bar in 2010; shuffleboard, cheap drinks)",
+     "Meenar Music Club — 349 Hartz Ave (DJ Thursdays, bands Fri/Sat, karaoke Sundays; $5 shows; (925) 208-1257)",
+     "Auburn Lounge — 321 Hartz Ave ('Danville's premier cocktail lounge', speakeasy, tufted leather; Mon–Wed 4 pm–12 am, Thu–Sun 2 pm–12 am; live music Sundays 2–5)",
+     "Revel Kitchen & Bar — 331 Hartz Ave (upscale-casual tavern from the Esin owners; to 10 pm Sun–Thu, 11 pm Fri–Sat)",
+     "Norm's Place — 356 Hartz Ave (neighborhood bar & grill since 2004, 25 taps, live music, patio; to 11 pm Fri–Sat, closed Mon)",
+     "Danville Brewing Co. — 200A Railroad Ave at W Prospect (brewery; bar closes 9–9:30 pm; 10-year anniversary Sep 18–19, 2026)",
+     "Stilettos Piano Bar & Restaurant — 148 E Prospect Ave (former McGah's Pub & Pianos; dueling pianos Fri/Sat to 1 am; Yelp listing shows CLOSED as of Aug 2026 and stilettosdanville.com no longer resolves)",
+     "Kick N Mule Bar & Kitchen — 340 Hartz Ave (25 Moscow mules, DJ until 1 am Fri/Sat; Yelp lists CLOSED as of Feb 2026; previously Danville Station Firehouse / Sweetwater Tavern)",
+     "Also on the block: Corner of Brazil (370 Hartz), Vally Medlyn's (330 Hartz), Locanda Ravello (172 E Prospect), Taru Japanese (120 E Prospect), Pizza Antica (111 W Prospect)"
+    ]
+   },
+   "town_facts": "Town of Danville, Contra Costa County (East Bay), 'Heart of the San Ramon Valley'; ~30 miles east of San Francisco. Population 43,582 (2020 Census, Wikipedia) / 'approximately 43,146' (Town Community Profile); 18 sq mi; incorporated July 1, 1982 and one of the few California municipalities styled 'Town'. Founded 1854 by brothers Daniel and Andrew Inman on 400 acres bought with Gold Rush earnings; named Danville by 1858; post office 1860. The Southern Pacific branch line arrived June 7, 1891; John Hartz gave/sold 8.65 acres for the depot and subdivided 74 lots east of it, shifting commerce from Front St to the new Hartz Avenue; the Danville Hotel was turned to face Hartz in 1927. Wealthy, family-oriented suburb: Wikipedia cites ZIP 94506 as the 14th-wealthiest in America and the town as 2nd-highest-income U.S. place with 40,000+ residents. SafeWise named Danville California's safest city for 2026 (No. 1 six of the past nine years; violent crime 0.6 and property crime 5.9 per 1,000) — Town news release Feb 12, 2026. Town copy describes 'the perfect blend of upscale amenities and small-town charm', a 'quaint character', highly rated schools, year-round farmers' markets and street fairs, and a historic downtown of shops, restaurants and galleries 'from upscale eateries to family-friendly pizzerias'. Official brand since 2017: 'Live Locally' with an oak-tree logo (#LiveLocallyDanville); the 350-year-old Old Oak Tree on Diablo Rd is the town symbol and mascot Auggie the Acorn's home. Downtown investment: $4.9M Downtown Master Plan Catalyst Project (begun April 2024 at Hartz & Church) rebuilt five Hartz intersections from School St to Linda Mesa with raised/bulb-out crossings, lit bollards and new light poles; Prospect Park Plaza reopened July 2025 with a stage and oak sculptures; a new Town Green Pavilion starts construction Aug 2026 (done Spring 2027). What closes early (as read Sept 10, 2026): Museum of the SRV by 4 pm; Danville Harvest dinner ends 8:30 pm daily; Bridges dinner ends 8 pm Sun–Thu / 9 pm Fri–Sat; Danville Brewing bar 9 pm (9:30 Fri–Sat); Incontro 9 pm Tue–Thu & Sun, 10 pm Fri–Sat (closed Mondays); Crush'd 9 pm (10 Thu–Sat); Kaia's 9 pm Sun–Tue, 10 Wed–Thu, 11 Fri–Sat; Rancho Cantina 10 pm (11 Fri–Sat); Revel and Norm's 10–11 pm; Auburn Lounge is the late option at midnight nightly. The two 1-am venues (Kick N Mule, Stilettos) are listed closed. Farmers' Market Saturdays 9–1; Town offices M–Th 8–5, F 8–1. Downtown parking is free (1,400+ public spaces, six municipal lots), which the Town and press consistently highlight.",
+   "events": [
+    {
+     "name": "Danville Farmers' Market",
+     "when": "Every Saturday, 9 am–1 pm, year-round (rain or shine)",
+     "note": "Railroad Avenue Municipal Parking Lot at Railroad & Prospect Aves (PCFMA lists 205 Railroad Ave), one short block SW of the corner via Church St; run by Pacific Coast Farmers' Market Association; no dogs.",
+     "url": "https://www.danville.ca.gov/463/Danville-Farmers-Market"
+    },
+    {
+     "name": "Hot Summer Sundays Car Show",
+     "when": "Sunday, August 30, 2026, 11 am–4 pm (32nd year; one Sunday show)",
+     "note": "Hundreds of hot rods/classics along Hartz Ave & Prospect Ave, live DJs, vendors, café specials; staging at San Ramon Valley High School from 8 am; free for spectators; contact ezasugo@yahoo.com. Hartz Ave is closed to traffic — the four restaurants are on the show route's southern end.",
+     "url": "https://www.contracostalive.com/event/5137"
+    },
+    {
+     "name": "Kiwanis-Danville 4th of July Parade",
+     "when": "Saturday, July 4, 2026, 9 am–noon (annual)",
+     "note": "Route from San Ramon Valley High School near Railroad Ave along Hartz Ave and San Ramon Valley Blvd to Town & Country Dr; 100+ groups, thousands of spectators; 2026 coincided with America's 250th. Kiwanis Club of the SRV with the Town.",
+     "url": "https://www.danville.ca.gov/CivicAlerts.aspx?AID=1162"
+    },
+    {
+     "name": "Music in the Park (Town Green)",
+     "when": "Select Saturdays in summer, 6 pm (e.g., Sat July 11, 2026 — Mercy and the Heartbeats)",
+     "note": "Free concerts on the Town Green, 420 Front St; Front St closes between the Village Theatre lot and the Library lot 4:30–10 pm; Town suggests Railroad Ave as the detour and all downtown municipal lots for parking. Contact John Dunn, jdunn@danville.ca.gov, (925) 314-3418; danville.ca.gov/summer.",
+     "url": "https://www.danville.ca.gov/m/newsflash/home/detail/1167"
+    },
+    {
+     "name": "Moonlight Movies (Town Green)",
+     "when": "Select Fridays in summer; pre-movie activities 6:30 pm",
+     "note": "Outdoor film screenings at the Town Green Pavilion; a new pavilion is under construction Aug 2026–Spring 2027.",
+     "url": "https://www.danville.ca.gov/1111/Town-Green-Pavilion"
+    },
+    {
+     "name": "At the Plaza / Music at the Plaza (Prospect Park Plaza)",
+     "when": "Recurring; Sept 2026 dates Sep 5 (live music), Sep 8 (crafts), Sep 12 (games), Sep 19 (themed); mostly 4–6 pm",
+     "note": "Free family programming at the renovated Prospect Park Plaza, 396 Hartz Ave (Hartz & Prospect), ~610 ft NW of the corner; no registration.",
+     "url": "https://www.danville.ca.gov/1110/Prospect-Park-Plaza"
+    },
+    {
+     "name": "Lighting of the Old Oak Tree",
+     "when": "Annually the Friday after Thanksgiving (last confirmed: Fri Nov 29, 2024, 5:15 pm; lighting 6:30 pm). 2026 date not yet published as of Sept 10, 2026.",
+     "note": "On Diablo Rd between W El Pintado and I-680 at the Old Oak Tree; choirs, Chamber CEO Judy Lloyd and the Mayor, Santa and the Snow Angel lead the countdown, then entertainment and refreshments at downtown shops/restaurants. Town + Danville Area Chamber. Pairs with Small Business Saturday weekend.",
+     "url": "https://danvilleareachamber.com/lighting-of-the-old-oak-tree-planned-in-danville/"
+    },
+    {
+     "name": "Oktoberfest Danville",
+     "when": "Mid/late October in past years (last confirmed Sun Oct 20, 2024; walking tour 12–3 pm). No 2026 listing found on the Chamber's October 2026 calendar as of Sept 10, 2026.",
+     "note": "Town + Chamber; ticketed Walking Beer & Wine Tour through downtown storefronts (souvenir glass and Danville tote), free Kid's Zone and business pop-ups at 205 Railroad Ave, brass band polka.",
+     "url": "https://business.danvilleareachamber.com/events/details/oktoberfest-danville-11399?calendarMonth=2024-10-01"
+    },
+    {
+     "name": "Danville Fallfest ('faire of 1,000 pumpkins')",
+     "when": "Historically a weekend in October, 10 am–5 pm (2021: Oct 23–24, 29th year). No 2026 listing found as of Sept 10, 2026; danvillefallfest.com now redirects to a parked page.",
+     "note": "Chamber-run festival at Hartz & Prospect with 100+ vendors, kids' costume parade down Hartz, Sunday classic car show. Street closures included Hartz (Diablo Rd to Hartz Way), Prospect (Clock Tower lot to Front St), Church St (Railroad to Hartz) and School St — i.e., the district's own corner.",
+     "url": "https://www.danville.ca.gov/Calendar.aspx?EID=1536"
+    },
+    {
+     "name": "Flannel & Foliage (Gilmore Girls-inspired fall festival)",
+     "when": "October 23–25, 2026",
+     "note": "New three-day downtown Danville event by Small Town Venture with cast panels (Kelly Bishop, Scott Patterson, Sean Gunn, et al.), music; general admission free, VIP tickets; hotel block at Hyatt House San Ramon. Not affiliated with the show's studio/network.",
+     "url": "https://sfist.com/2026/08/28/danville-to-cosplay-as-stars-hollow-for-first-ever-gilmore-girls-inspired-fall-event/"
+    },
+    {
+     "name": "Danville Devil Mountain Run (10K, 5K, 'Mile of Truth', kids' runs)",
+     "when": "Spring (2025 edition: Sunday, May 4, 2025); 2026/2027 date not confirmed",
+     "note": "Starts in downtown Danville and runs the Iron Horse Trail; Town-supported; devilmtnrun.com.",
+     "url": "https://www.danville.ca.gov/calendar.aspx?EID=3594"
+    },
+    {
+     "name": "Taste Tri-Valley Restaurant Week",
+     "when": "Late February (6th annual in 2026; finale Feb 27, 2026)",
+     "note": "Visit Tri-Valley's 10-day promotion with mobile pass check-ins and prize entries; Danville Harvest shown as a partner; Danville, Dublin, Pleasanton and Livermore restaurants participate free.",
+     "url": "https://visittrivalley.com/restaurantweek/"
+    },
+    {
+     "name": "Danville Brewing 10-Year Anniversary Tap Takeover",
+     "when": "Fri–Sat, September 18–19, 2026 (live music Sat 5–8 pm)",
+     "note": "Guest breweries (Russian River, Ghost Town, Cellarmaker, et al.) at 200A Railroad Ave.",
+     "url": "https://business.danvilleareachamber.com/events/"
+    },
+    {
+     "name": "Danville Area Chamber Community Awards Gala 'Lights! Camera! Community!'",
+     "when": "Tuesday, September 22, 2026",
+     "note": "Chamber's annual awards; also monthly Chamber Mixers (e.g., Sep 10 and Oct 8, 2026) and Ignite Young Professionals Mixer (Oct 13, 2026).",
+     "url": "https://danvilleareachamber.com/2026-community-awards/"
+    },
+    {
+     "name": "Small Business Saturday in downtown Danville",
+     "when": "Saturday after Thanksgiving",
+     "note": "Downtown Danville promotes local shops the day after the Oak Tree lighting (Yahoo/Danville San Ramon coverage).",
+     "url": "https://www.yahoo.com/news/articles/downtown-danville-highlights-local-shops-073722527.html"
+    }
+   ],
+   "chamber": {
+    "name": "Danville Area Chamber of Commerce",
+    "url": "https://danvilleareachamber.com/",
+    "contact": "117-E Town and Country Drive, Danville, CA 94526; (925) 837-4400; office@danvilleareachamber.com (newsletter/general), events@danvilleareachamber.com (events); President & CEO Judy Lloyd; member directory/events at business.danvilleareachamber.com",
+    "programs": "Monthly Chamber Mixers; Ignite Young Professionals Monthly Mixer; annual Community Awards Gala (Sep 22, 2026); State of the Town; Women's Enterprise Initiative; Member-to-Member Deals program; 'Give, Grow, Thrive 2030' economic-development campaign; Town Council candidate forums (with Embarcadero Media); co-presents with the Town of Danville the Lighting of the Old Oak Tree, Oktoberfest Danville (walking beer & wine tour) and Danville Fallfest; runs the online business directory and events calendar (276 events listed)."
+   },
+   "town_orgs": [
+    {
+     "name": "Town of Danville — Recreation, Arts & Community Services / Economic Development",
+     "url": "https://www.danville.ca.gov/",
+     "note": "Runs Village Theatre & Art Gallery, Town Green, Prospect Park Plaza series, Music in the Park, Moonlight Movies, the 'Live Locally' brand, the Discover Danville walking-tour app and the 'Eat in Danville' directory (150+ restaurants). Town Office 500 La Gonda Way; Village Theatre (925) 314-3418; Parks/reservations (925) 314-3400 / 314-3405."
+    },
+    {
+     "name": "Town of Danville — Transportation Division (parking)",
+     "url": "https://danville.ca.gov/181/Public-Parking",
+     "note": "Publishes the Downtown Public Parking Map and employee-permit program; (925) 314-3310, transportation@danville.ca.gov; hours M–Th 8–5, F 8–1."
+    },
+    {
+     "name": "Danville Area Chamber of Commerce",
+     "url": "https://danvilleareachamber.com/",
+     "note": "See chamber field. Co-sponsors Oak Tree lighting, Oktoberfest, Fallfest."
+    },
+    {
+     "name": "Museum of the San Ramon Valley",
+     "url": "https://museumsrv.org/",
+     "note": "Nonprofit history museum in the 1891 depot, 205 Railroad Ave; (925) 837-3750; Tue–Fri 1–4, Sat 10–1, Sun 12–3; publishes local history (Danville Hotel, etc.)."
+    },
+    {
+     "name": "Pacific Coast Farmers' Market Association (PCFMA)",
+     "url": "https://www.pcfma.org/market/danville-farmers-market",
+     "note": "Operates the Saturday Danville Farmers' Market in the Railroad Ave lot."
+    },
+    {
+     "name": "Kiwanis Club of the San Ramon Valley",
+     "url": "https://www.danville.ca.gov/CivicAlerts.aspx?AID=1162",
+     "note": "Organizes the Kiwanis-Danville 4th of July Parade with the Town."
+    },
+    {
+     "name": "Visit Tri-Valley (regional DMO)",
+     "url": "https://visittrivalley.com/",
+     "note": "Markets Danville, Dublin, Pleasanton, Livermore; runs Taste Tri-Valley Restaurant Week, the Tri-Valley Beer Trail; IG @visittrivalley, #VisitTriValley."
+    },
+    {
+     "name": "East Bay Regional Park District",
+     "url": "https://www.ebparks.org/trails/interpark/iron-horse",
+     "note": "Manages the Iron Horse Regional Trail through downtown (5 am–10 pm); (888) 327-2757. (Page returned 403 to automated fetch; details taken from Wikipedia/Love Tri-Valley.)"
+    },
+    {
+     "name": "Friends of the Danville Library",
+     "url": "https://www.friendsofthedanvillelibrary.org/",
+     "note": "Bookstore and support group at 400 Front St."
+    },
+    {
+     "name": "Hot Summer Sundays (car show organizer)",
+     "url": "https://www.dhsscs.com/event-info",
+     "note": "Volunteer-run; contact David, ezasugo@yahoo.com; vehicle registration $40 advance / $50 day-of."
+    },
+    {
+     "name": "Small Town Venture",
+     "url": "https://sfist.com/2026/08/28/danville-to-cosplay-as-stars-hollow-for-first-ever-gilmore-girls-inspired-fall-event/",
+     "note": "New organizer of Flannel & Foliage, Oct 23–25, 2026."
+    },
+    {
+     "name": "Embarcadero Media Foundation (Danville San Ramon)",
+     "url": "https://www.danvillesanramon.com/",
+     "note": "Nonprofit local news; co-hosts civic forums with the Chamber."
+    }
+   ],
+   "hashtags_in_use": [
+    "#LiveLocallyDanville",
+    "#LiveLocally",
+    "#VisitTriValley",
+    "#danvilleca",
+    "#danvillecalifornia",
+    "#downtowndanville",
+    "#eastbayca",
+    "#bayareafoodie"
+   ],
+   "local_media_and_influencers": [
+    {
+     "name": "Danville San Ramon (Embarcadero Media Foundation)",
+     "url": "https://www.danvillesanramon.com/",
+     "handle": "Facebook @danvillesanramon; X @DanvilleSanRamo",
+     "note": "Nonprofit local news; broke Rancho Cantina's Danville plans (May 4, 2026). 'Tri-Valley Foodist' food column by Deborah Grossman (deborah@deborahgrossman.com) covers local restaurants, wineries, breweries."
+    },
+    {
+     "name": "Bay Area Telegraph",
+     "url": "https://bayareatelegraph.com/",
+     "handle": "Instagram @bayareatelegraph; Facebook bayareatelegraph",
+     "note": "Independent 925-focused food/news site; Editor in Chief Thomas Smith (tom@bayareatelegraph.com), Managing Editor Amy Fischer Smith. Reviewed Kaia's (Jul 2025), covered Rancho Cantina's soft opening (Aug 26, 2026), Prospect Park Plaza, Danville safest-city."
+    },
+    {
+     "name": "Diablo Magazine — 'Diablo Dish' column",
+     "url": "https://www.diablomag.com/food-drink/",
+     "handle": "Instagram @diablomagazine; X @DiabloMagazine",
+     "note": "Glossy East Bay magazine; Diablo Dish (Ethan Fletcher) covered Rancho Cantina's Danville opening; runs East Bay restaurant roundups."
+    },
+    {
+     "name": "Beyond the Creek",
+     "url": "https://www.beyondthecreek.com/",
+     "handle": "Instagram @btcreek; Facebook BeyondtheCreek",
+     "note": "Walnut Creek-based retail/dining news blog that also tracks Danville openings (Kaia's, Rancho Cantina, Kick N Mule, Danville Hotel)."
+    },
+    {
+     "name": "Danville Social ('Everything Danville, California!')",
+     "url": "https://www.danvillesocial.com/",
+     "handle": "Instagram @danvillesocial; X @danvillesocial",
+     "note": "Community directory/blog founded ~10 years ago by Heather Ruiz ('Be Seen. Support Local.'); (619) 944-5360; publishes Weekend Music Scene, Restaurants & Bars directory; uses #danvilleca #downtowndanville #bayareafoodie."
+    },
+    {
+     "name": "Your Town Monthly (East Bay edition)",
+     "url": "https://www.yourtownmonthly.com/",
+     "handle": "Facebook @yourtown; X @yourtownmonthly",
+     "note": "Community monthly; 'Taste of Your Town' column featured Kaia's (Aug 2026); lists Hot Summer Sundays and Danville Concours d'Elegance."
+    },
+    {
+     "name": "Visit Tri-Valley",
+     "url": "https://visittrivalley.com/",
+     "handle": "Instagram @visittrivalley; #VisitTriValley",
+     "note": "Regional DMO; features Danville Harvest, Danville Brewing, Danville Chocolates, Norm's Place; runs Taste Tri-Valley Restaurant Week; reposts user photos tagged #VisitTriValley."
+    },
+    {
+     "name": "Town of Danville (official)",
+     "url": "https://www.danville.ca.gov/",
+     "handle": "Instagram @danvillecagov; Facebook @DanvilleCAgov; also X, YouTube, LinkedIn, Nextdoor",
+     "note": "Uses #LiveLocallyDanville; publishes 'Live Locally' magazine (issuu.com/townofdanville), Discover Danville walking-tour app and the Eat in Danville directory."
+    },
+    {
+     "name": "@discoverdanville (Instagram, 'Danville, Calif.')",
+     "url": "https://www.instagram.com/discoverdanville/",
+     "handle": "@discoverdanville",
+     "note": "Danville, CA-branded account surfaced in search; ownership (Town vs. private) not verified — confirm before tagging."
+    },
+    {
+     "name": "Danville Living magazine (Best Version Media)",
+     "url": "https://www.danvillelivingca.com/",
+     "handle": "issuu.com/danvillelivingca",
+     "note": "Monthly resident-written community magazine since March 2016; publisher Jo Peek; family/business spotlights."
+    },
+    {
+     "name": "Patch — Danville, CA",
+     "url": "https://patch.com/california/danville",
+     "handle": "—",
+     "note": "Hyperlocal news/calendar; covers openings (Kick N Mule, Hartz House/Incontro), Restaurant Week participants, Oktoberfest, Elliott's."
+    },
+    {
+     "name": "Hoodline / WhatNow SF",
+     "url": "https://hoodline.com/2026/03/lafayette-s-rancho-cantina-saddles-up-for-downtown-danville-takeover/",
+     "handle": "—",
+     "note": "Regional openings coverage (Rancho Cantina, Crush'd)."
+    },
+    {
+     "name": "Contra Costa Live / contracosta.news / News24-680 / Valley Sentinel / Love Tri-Valley",
+     "url": "https://www.contracostalive.com/",
+     "handle": "—",
+     "note": "Regional event calendars and news aggregators that list Danville events (car show, Oktoberfest, Music in the Park)."
+    },
+    {
+     "name": "@eastbayeats (Instagram)",
+     "url": "https://www.instagram.com/eastbayeats/",
+     "handle": "@eastbayeats",
+     "note": "East Bay food account (~4.5K followers per search listing) — candidate micro-influencer; not verified beyond the listing."
+    }
+   ],
+   "notes": "Scope and caveats: (1) Coordinates are OpenStreetMap building/POI centroids retrieved via Overpass and Nominatim on Sept 10, 2026 (±10–20 m); the corner coordinate is the actual OSM street-intersection node of Hartz Ave and Church St. Distances are straight-line haversine values, so real walking paths are slightly longer. (2) Addresses were read from each restaurant's own website (ranchocantina.com/danville, incontrodanville.com, kaiasdanville.com, danvilleharvest.com/contact). Rancho Cantina's phone on its site is (925) 718-5153; a search summary showed (925) 519-3851 — use the site's. Rancho's soft-open date: Bay Area Telegraph says Monday Aug 24, 2026 (reservations Sep 1); Diablo Dish says 'Monday, August 26' (Aug 26, 2026 is a Wednesday, so likely a typo). (3) Hours are as read on Sept 10, 2026 and should be re-verified before publishing. (4) Parking time limits were read visually from the Town's color-coded Downtown Public Parking Map PDF (DocumentCenter/View/2427): orange = 3 hr (Clock Tower, Front Street, Rose Street), blue = 4 hr (Library/CC; parts of Village Theatre and Railroad lots), green = 2 hr (parts of Village Theatre and Railroad lots; most streets), dark green = 72 hr (Sycamore Valley Park & Ride). Lot capacities are not published except OSM's 82 for the Library lot. Sycamore Valley Park & Ride was not geocoded. (5) Village Theatre history (1874 Grange Hall) is from the Town's Historic Downtown Walking Tour Guide PDF; a search snippet of a Town page said 1873 and a 1,000 sq ft gallery opened Nov 14, 2009 — that page's text was not read directly. (6) Nightlife closures: Kick N Mule (340 Hartz) and Stilettos Piano Bar (148 E Prospect, ex-McGah's) appear as 'CLOSED' in Yelp listing titles surfaced by search (Feb and Aug 2026 respectively) and stilettosdanville.com does not resolve; no replacement tenant was found for 340 Hartz. Treat both as closed-pending-verification. (7) Not found / empty: 2026 dates for Lighting of the Old Oak Tree, Oktoberfest Danville and Danville Fallfest (the Chamber's Oct 2026 calendar shows neither Oktoberfest nor Fallfest; danvillefallfest.com is parked). 'Evenings in Danville' and discoverdowntowndanville.org in search results belong to Danville, INDIANA — excluded. (8) EBParks Iron Horse page and SFGate's Hartz Ave article returned 403/blank; Instagram profiles could not be read, so @discoverdanville ownership and @eastbayeats follower count are unverified; #LiveLocallyDanville is confirmed via the Town's 2017 Nextdoor branding post and LinkedIn. (9) The Danville Hotel's current tenants are not listed on the owner's page; OSM shows Basque Boulangerie Café there (unverified). (10) Oak Hill Park is ~1.6 mi north of downtown — not a walkable landmark for the district. (11) No prices or dishes were recorded beyond concept descriptions quoted from the restaurants' own sites and press.",
+   "sources": [
+    "https://www.ranchocantina.com/danville",
+    "https://www.incontrodanville.com/",
+    "https://kaiasdanville.com/",
+    "https://www.danvilleharvest.com/contact",
+    "https://www.danvillesanramon.com/food/2026/05/04/rancho-cantina-owners-eye-early-summer-opening-for-new-danville-restaurant/",
+    "https://bayareatelegraph.com/2026/08/26/a-long-awaited-mexican-restaurant-has-finally-soft-opened-in-danville/",
+    "https://www.diablomag.com/blog/diablo-dish/diablo-dish-rancho-cantina-opens-in-danville/article_8ec1a80b-b459-4c99-b980-634925556001.html",
+    "https://www.beyondthecreek.com/kaias-island-kitchen-tiki-bar-opens-in-danville/",
+    "https://www.yourtownmonthly.com/2026/08/taste-of-your-town-kaias-island-kitchen-tiki-bar/",
+    "https://patch.com/california/danville/historic-hartz-house-renovated-with-italian-flair",
+    "https://nominatim.openstreetmap.org/search?q=501+Hartz+Ave,+Danville,+CA+94526&format=json",
+    "https://overpass-api.de/api/interpreter (Overpass query, bbox 37.8180,-122.0030,37.8240,-121.9940, Sept 10, 2026)",
+    "https://danville.ca.gov/181/Public-Parking",
+    "https://www.danville.ca.gov/DocumentCenter/View/2427/Downtown-Public-Parking-Map",
+    "https://www.danville.ca.gov/177/Parking",
+    "https://www.danville.ca.gov/178/Downtown-Employee-Permit-Parking",
+    "https://www.danville.ca.gov/faq.aspx?TID=22",
+    "https://www.danville.ca.gov/DocumentCenter/View/3356/Danville-Historic-Walking-Tour-Guide-PDF",
+    "https://www.danville.ca.gov/308/Historic-Danville",
+    "https://www.danville.ca.gov/290/Community-Profile",
+    "https://en.wikipedia.org/wiki/Danville,_California",
+    "https://www.danville.ca.gov/m/newsflash/Home/Detail/1131?arc=2461",
+    "https://www.danville.ca.gov/CivicAlerts.aspx?AID=952&ARC=2133",
+    "https://danvilletowntalks.org/downtown-master-plan/news_feed/project-update-5-months-lead-up-to-final-intersection",
+    "https://bayareatelegraph.com/2026/02/25/photos-danvilles-downtown-micro-park-has-totally-transformed/",
+    "https://www.danville.ca.gov/1110/Prospect-Park-Plaza",
+    "https://www.danville.ca.gov/226/Village-Theatre",
+    "https://www.danville.ca.gov/facilities/facility/details/Town-Green-17",
+    "https://www.danville.ca.gov/1111/Town-Green-Pavilion",
+    "https://www.danville.ca.gov/619/Oak-Hill-Park",
+    "https://www.danville.ca.gov/247/Danville-Oak-Tree---Diablo-Road",
+    "https://www.danville.ca.gov/463/Danville-Farmers-Market",
+    "https://www.pcfma.org/market/danville-farmers-market",
+    "https://museumsrv.org/",
+    "https://museumsrv.org/the-danville-hotel/",
+    "https://nearon.com/portfolio/northern-california-danville-hotel",
+    "https://www.beyondthecreek.com/old-danville-hotel-redevelopment-coming-soon/",
+    "https://lovetrivalley.com/places/iron-horse-regional-trail-danville-segment/",
+    "https://www.bridgesdanville.com/",
+    "https://www.danvillesocial.com/things-to-do/weekend-music-scene/",
+    "https://www.danvillesocial.com/",
+    "https://www.auburnlounge.com/",
+    "https://www.meenarmusic.com/",
+    "https://danvillebrewing.com/",
+    "https://patch.com/california/danville/elliotts-named-number-three-dive-bar-in-the-bay-area",
+    "https://www.yelp.com/biz/kick-n-mule-danville",
+    "https://www.yelp.com/biz/stilettos-piano-bar-danville",
+    "https://www.yelp.com/biz/mcgahs-pub-and-pianos-danville",
+    "https://visittrivalley.com/restaurants-dining/revel-kitchen-bar/",
+    "https://normsdanville.com/",
+    "https://crushddanville.com/",
+    "https://www.contracostalive.com/event/5137",
+    "https://www.dhsscs.com/event-info",
+    "https://www.danville.ca.gov/CivicAlerts.aspx?AID=1162",
+    "https://www.danville.ca.gov/m/newsflash/home/detail/1167",
+    "https://danvilleareachamber.com/lighting-of-the-old-oak-tree-planned-in-danville/",
+    "https://www.danville.ca.gov/calendar.aspx?EID=3082",
+    "https://business.danvilleareachamber.com/events/details/oktoberfest-danville-11399?calendarMonth=2024-10-01",
+    "https://www.danville.ca.gov/Calendar.aspx?EID=1536",
+    "https://www.danville.ca.gov/CivicSend/ViewMessage/message/155337",
+    "https://sfist.com/2026/08/28/danville-to-cosplay-as-stars-hollow-for-first-ever-gilmore-girls-inspired-fall-event/",
+    "https://www.danville.ca.gov/calendar.aspx?EID=3594",
+    "https://visittrivalley.com/restaurantweek/",
+    "https://business.danvilleareachamber.com/events/",
+    "https://business.danvilleareachamber.com/events/calendar/2026-10-01",
+    "https://danvilleareachamber.com/",
+    "https://danvilleareachamber.com/contact/",
+    "https://nextdoor.com/agency-post/ca/danville/town-of-danville/town-launches-new-brandingmarketing-plan-livelocally-51874757/",
+    "https://www.danville.ca.gov/CivicAlerts.aspx?AID=1011&ARC=2236",
+    "https://danville.ca.gov/1066/Eat-in-Danville",
+    "https://visittrivalley.com/i-wish-i-was-there-instagrammable-worthy-hotspots/",
+    "https://visittrivalley.com/cities/danville/",
+    "https://bayareatelegraph.com/about-the-bay-area-telegraph-and-how-to-contact-us/",
+    "https://www.beyondthecreek.com/",
+    "https://www.danvillesanramon.com/blogs/tri-valley-foodist/",
+    "https://www.danvillelivingca.com/about/",
+    "https://www.instagram.com/discoverdanville/",
+    "https://www.instagram.com/eastbayeats/"
+   ]
+  }
+ }
+]

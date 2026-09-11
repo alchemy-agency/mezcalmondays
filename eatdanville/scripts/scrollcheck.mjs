@@ -1,0 +1,10 @@
+import { createRequire } from 'node:module';
+const require = createRequire('C:/Users/Kenneth Rodas/Documents/GitHub/google-flow-mcp/package.json');
+const { chromium } = require('playwright');
+const b = await chromium.connectOverCDP('http://127.0.0.1:9222'); const ctx = b.contexts()[0]; const p = await ctx.newPage();
+await p.setViewportSize({ width: 1440, height: 900 }); await p.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' }); await p.waitForTimeout(1500);
+const op = async () => p.evaluate(() => getComputedStyle(document.querySelector('[data-hero-word]')).opacity);
+console.log('opacity at load', await op());
+await p.evaluate(() => window.scrollTo(0, 600)); await p.waitForTimeout(400); console.log('opacity scrolled 600', await op());
+await p.evaluate(() => window.scrollTo(0, 0)); await p.waitForTimeout(600); console.log('opacity back at top', await op());
+await p.screenshot({ path: 'qa/v7-hero-after-scroll.png' }); await p.close(); await b.close();

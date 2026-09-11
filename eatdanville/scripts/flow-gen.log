@@ -1,0 +1,18 @@
+page https://flow.google.com/project/dcc28a73-0a82-4efa-b9bf-22e5cb56ca7a
+
+### tacos (1:1, Nano Banana Pro, x2)
+  settings step failed: locator.click: Timeout 30000ms exceeded.
+  submitted tacos
+  saved tacos-1.jpg 1376x768
+
+### pasta (1:1, Nano Banana Pro, x2)
+  settings step failed: locator.click: Timeout 30000ms exceeded.
+  submitted pasta
+  saved pasta-1.jpg 1376x768
+
+### oldfashioned (1:1, Nano Banana Pro, x2)
+  settings step failed: locator.click: Timeout 30000ms exceeded.
+  submitted oldfashioned
+  saved oldfashioned-1.jpg 1376x768
+
+### dinner (4:3, Nano Banana 2, x1)

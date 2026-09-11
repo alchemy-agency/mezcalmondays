@@ -1,0 +1,79 @@
+
+### flow_connect {"open_flow":true}
+{
+  "status": "connected",
+  "browserType": "Chrome dedicato (FlowAutomationChrome)",
+  "account": "kennethrodasphoto@gmail.com",
+  "url": "https://flow.google.com/",
+  "accountVerified": {
+    "verified": true,
+    "account": "kennethrodasphoto@gmail.com",
+    "method": "assumed"
+  }
+}
+
+### flow_generate_image {"prompt":"Studio product photograph of a classic mai tai tiki cocktail in a carved dark ceramic tiki mug filled with crushed ice, garnished with a mint sprig, 
+{
+  "error": true,
+  "message": "Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea.",
+  "code": "ERROR",
+  "needsManualIntervention": false
+}
+
+### flow_generate_image {"prompt":"Studio food photograph of three wood-fired carne asada street tacos on a small dark stoneware plate, charred lime halves, green chimichurri, pickled 
+{
+  "error": true,
+  "message": "Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea.",
+  "code": "ERROR",
+  "needsManualIntervention": false
+}
+
+### flow_generate_image {"prompt":"Studio food photograph of a rustic ceramic bowl of handmade pappardelle with braised short rib ragu, shaved parmesan and torn basil, a fork resting o
+{
+  "error": true,
+  "message": "Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea.",
+  "code": "ERROR",
+  "needsManualIntervention": false
+}
+
+### flow_generate_image {"prompt":"Cinematic evening photograph at blue hour of a quiet small-town Northern California main street corner: historic two-story storefronts converted to r
+{
+  "error": true,
+  "message": "Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea.",
+  "code": "ERROR",
+  "needsManualIntervention": false
+}
+
+### flow_generate_image {"prompt":"Cinematic night photograph, close-up on a candlelit restaurant bar after dark: two craft cocktails, an amaro pour and a shared dessert plate on a dar
+{
+  "error": true,
+  "message": "Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea.",
+  "code": "ERROR",
+  "needsManualIntervention": false
+}
+
+### flow_generate_image {"prompt":"Editorial photograph of a weekend brunch table on a sunny restaurant patio: a mimosa carafe with orange juice and bubbles, a stack of pancakes with b
+{
+  "error": true,
+  "message": "Generate button not found",
+  "code": "ERROR",
+  "needsManualIntervention": false
+}
+
+### flow_generate_image {"prompt":"Editorial photograph of a private dining room in a historic Californian house restaurant at night: a long table set for twelve with candles, wine gla
+{
+  "error": true,
+  "message": "Generate button not found",
+  "code": "ERROR",
+  "needsManualIntervention": false
+}
+
+### flow_generate_image {"prompt":"Editorial photograph of a restaurant kitchen pass late at night after service: stainless counter, plated late-night bar snacks, a ticket rail, a cook
+{
+  "error": true,
+  "message": "Generate button is disabled",
+  "code": "ERROR",
+  "needsManualIntervention": false
+}
+
+### flow_generate_image {"prompt":"Editorial photograph of a lunch table in a bright modern restaurant: a fried chicken sandwich on dutch crunch with fries, a poke bowl and a glass of 

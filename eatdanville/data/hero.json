@@ -1,0 +1,10 @@
+{
+  "slides": [
+    { "src": "assets/img/harvest/hero.jpg", "alt": "The corner of Hartz Ave and Church St at blue hour, Danville Harvest lit up", "focus": "50% 60%", "name": "Danville Harvest" },
+    { "src": "assets/img/kaias/hero.jpg", "alt": "The thatched tiki bar at Kaia's Island Kitchen", "focus": "50% 50%", "name": "Kaia's Island Kitchen & Tiki Bar" },
+    { "src": "assets/img/incontro/hero.jpg", "alt": "The string-lit veranda at Incontro Ristorante", "focus": "50% 45%", "name": "Incontro Ristorante" },
+    { "src": "assets/img/rancho-cantina/g1.jpg", "alt": "The wood-fired grill at Rancho Cantina", "focus": "50% 50%", "name": "Rancho Cantina" }
+  ],
+  "afterdark": "assets/img/hero/after-dark.jpg",
+  "og": "assets/img/og.jpg"
+}

@@ -1,0 +1,33 @@
+[2026-09-10T22:17:33.091Z] WARN  Could not read model selector — assuming image mode from config 
+[2026-09-10T22:17:33.097Z] WARN  Generate button not visible on project page 
+[2026-09-10T22:17:33.433Z] ERROR Job failed {"jobId":"8551ee80","type":"image_generation","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:33.434Z] ERROR Tool execution error {"tool":"flow_generate_image","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:33.438Z] WARN  Could not read model selector — assuming image mode from config 
+[2026-09-10T22:17:33.441Z] WARN  Generate button not visible on project page 
+[2026-09-10T22:17:33.733Z] ERROR Job failed {"jobId":"c055db77","type":"image_generation","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:33.733Z] ERROR Tool execution error {"tool":"flow_generate_image","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:33.736Z] WARN  Could not read model selector — assuming image mode from config 
+[2026-09-10T22:17:33.739Z] WARN  Generate button not visible on project page 
+[2026-09-10T22:17:34.029Z] ERROR Job failed {"jobId":"9e1bc262","type":"image_generation","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:34.029Z] ERROR Tool execution error {"tool":"flow_generate_image","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:34.033Z] WARN  Could not read model selector — assuming image mode from config 
+[2026-09-10T22:17:34.036Z] WARN  Generate button not visible on project page 
+[2026-09-10T22:17:34.367Z] ERROR Job failed {"jobId":"7aa9d62f","type":"image_generation","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:34.367Z] ERROR Tool execution error {"tool":"flow_generate_image","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:34.371Z] WARN  Could not read model selector — assuming image mode from config 
+[2026-09-10T22:17:34.373Z] WARN  Generate button not visible on project page 
+[2026-09-10T22:17:34.739Z] ERROR Job failed {"jobId":"ca7ef634","type":"image_generation","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:34.739Z] ERROR Tool execution error {"tool":"flow_generate_image","error":"Could not find prompt input field inside the project. The Flow UI may have changed. Expected [contenteditable] or textarea."}
+[2026-09-10T22:17:34.743Z] WARN  Could not read model selector — assuming image mode from config 
+[2026-09-10T22:17:34.748Z] WARN  Generate button not visible on project page 
+[2026-09-10T22:17:53.640Z] ERROR Job failed {"jobId":"763f8163","type":"image_generation","error":"Generate button not found"}
+[2026-09-10T22:17:53.641Z] ERROR Tool execution error {"tool":"flow_generate_image","error":"Generate button not found"}
+[2026-09-10T22:17:53.644Z] WARN  Could not read model selector — assuming image mode from config 
+[2026-09-10T22:17:53.648Z] WARN  Generate button not visible on project page 
+[2026-09-10T22:18:11.455Z] ERROR Job failed {"jobId":"32e17ace","type":"image_generation","error":"Generate button not found"}
+[2026-09-10T22:18:11.455Z] ERROR Tool execution error {"tool":"flow_generate_image","error":"Generate button not found"}
+[2026-09-10T22:18:11.459Z] WARN  Could not read model selector — assuming image mode from config 
+[2026-09-10T22:18:11.462Z] WARN  Generate button not visible on project page 
+[2026-09-10T22:18:32.069Z] ERROR Job failed {"jobId":"c3304119","type":"image_generation","error":"Generate button is disabled"}
+[2026-09-10T22:18:32.069Z] ERROR Tool execution error {"tool":"flow_generate_image","error":"Generate button is disabled"}
+[2026-09-10T22:18:32.073Z] WARN  Could not read model selector — assuming image mode from config 

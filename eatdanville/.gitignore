@@ -1,0 +1,4 @@
+node_modules/
+dist/
+data/research/*.raw.txt
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "google-flow": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["C:/Users/Kenneth Rodas/Documents/GitHub/google-flow-mcp/src/index.js"]
+    }
+  }
+}

@@ -1,0 +1,714 @@
+{
+ "official_name": "Incontro Ristorante",
+ "tagline": "Timeless Italian Taste, Right Here in Danville",
+ "description": "Incontro Ristorante is an upscale-casual Italian restaurant in the historic Hartz House at 455 Hartz Ave in downtown Danville, serving regional Italian cooking across a garden patio, a covered veranda and stone-walled indoor dining rooms. The restaurant's own words: \"Incontro is a place where family and friends come together to share meaningful moments. Inspired by the rich culinary heritage of Italy, our name reflects the spirit of gathering and connection. We bring diverse flavors from all regions of Italy to the heart of Danville.\" (incontrodanville.com). Bread, pasta and desserts are made in house; the kitchen runs handmade gnocchi, lasagne, lobster ravioli, a four-pasta \"Chef's Taste of Italy\" plate, plus seafood and steak secondi. There is an indoor and outdoor full bar, live music on the patio in the warmer months, a Sunday all-you-can-eat brunch buffet plus a Saturday midday buffet, a 16-seat Wine Room for private dining and a full tray catering menu. Albi's Middle Eastern Beer Garden, run by the owners' daughter Monique Moufarrej, occupies the back of the same 455 Hartz Ave property.",
+ "cuisine": "Italian (regional Italian; also listed as Italian/American on Tripadvisor)",
+ "address": "455 Hartz Ave",
+ "city": "Danville",
+ "state": "CA",
+ "zip": "94526",
+ "lat": 37.8207233,
+ "lng": -121.9988503,
+ "geo_source": "https://nominatim.openstreetmap.org/search?q=455%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json — returned osm way 743748058, name \"Hartz House\", display_name \"Hartz House, 455, Hartz Avenue, Danville, Contra Costa County, California, 94526, United States\", lat 37.8207233 / lon -121.9988503. The building name independently confirms the restaurant's claim that it occupies the historic Hartz House.",
+ "phone": "+1 925-820-2349",
+ "email": "info@incontrodanville.com",
+ "website": "https://www.incontrodanville.com/",
+ "menu_url": "https://order.boons.io/site/incontro-ristorante/327/y",
+ "order_online_url": "https://order.boons.io/site/incontro-ristorante/327/y",
+ "catering_url": "https://www.incontrodanville.com/catering/",
+ "reservation_url": "https://www.opentable.com/restaurant/profile/67189?ref=1068",
+ "reservation_platform": "OpenTable (restaurant id 67189; linked from incontrodanville.com \"Book a Table\" / \"Online Reservation\")",
+ "google_maps_url": "https://www.google.com/maps?q=455+Hartz+Ave,Danville,+Ca",
+ "yelp_url": "https://www.yelp.com/biz/incontro-ristorante-danville-2",
+ "google_rating": "4.4 (350 Google reviews) — shown on the restaurant's own boons.io ordering page, https://order.boons.io/site/incontro-ristorante/327/y (\"What people are saying 4.4 (350 Google reviews)\"). Sirved's structured data reports the same 4.4 value across 1,614 aggregated ratings.",
+ "yelp_rating": "",
+ "price_range": "$$$ (Sirved structured data \"priceRange\": \"$$$\"; Tripadvisor lists $$ - $$$). Current dinner pricing: antipasti $10–$23, salads $15–$20, pastas $29–$38, secondi $35–$48, desserts $9–$14.",
+ "owner_chef": "Owned by the Moufarrej family — Gabe Moufarrej is identified as the owner (ABC7 News, Dec 31 2020) and Bernadette Moufarrej as manager; their daughter Monique Moufarrej (Culinary Institute of America; Del Posto, Rich Table, Angler SF) opened sister restaurant Albi's at the back of the same property in April 2026 and is described as having \"grew up in Danville and her parents owned Incontro Ristorante\" (Danville Patch). When Incontro relocated to Danville in 2011 the co-owners were Gianni Bartoletti and Stefano Giovacchini and the executive chef was Raul Aguirre (napasonomamagazine.com Weekly Dish, May 2 2011). No current executive-chef name is published on any page I could read.",
+ "opened": "2011 at 455 Hartz Ave, Danville. Incontro relocated from San Ramon into the former La Ultima space at 455 Hartz Avenue; the owners were targeting an August 2011 opening (napasonomamagazine.com \"Weekly Dish: Incontro Moving to Danville\", May 2 2011). ABC7 News (Dec 31 2020) described the restaurant as having been at the Danville location for roughly 10 years, consistent with a 2011 opening.",
+ "hours": [
+  {
+   "day": "Monday",
+   "notes": "Closed"
+  },
+  {
+   "day": "Tuesday",
+   "open": "5:00 PM",
+   "close": "9:00 PM",
+   "notes": "Dinner"
+  },
+  {
+   "day": "Wednesday",
+   "open": "5:00 PM",
+   "close": "9:00 PM",
+   "notes": "Dinner"
+  },
+  {
+   "day": "Thursday",
+   "open": "5:00 PM",
+   "close": "9:00 PM",
+   "notes": "Dinner"
+  },
+  {
+   "day": "Friday",
+   "open": "5:00 PM",
+   "close": "10:00 PM",
+   "notes": "Dinner. In summer, Friday is the Spritz Series night on the patio bar, 5 PM to 10 PM, with TV and live music."
+  },
+  {
+   "day": "Saturday",
+   "open": "12:00 PM",
+   "close": "3:00 PM",
+   "notes": "Brunch buffet (listed in the site footer 'STORE HOURS' and confirmed by Sirved). Note: the homepage About block advertises only the Sunday brunch, so the Saturday buffet may be seasonal — worth confirming by phone."
+  },
+  {
+   "day": "Saturday",
+   "open": "5:00 PM",
+   "close": "10:00 PM",
+   "notes": "Dinner"
+  },
+  {
+   "day": "Sunday",
+   "open": "10:00 AM",
+   "close": "2:00 PM",
+   "notes": "All-you-can-eat brunch buffet (except holidays)"
+  },
+  {
+   "day": "Sunday",
+   "open": "5:00 PM",
+   "close": "9:00 PM",
+   "notes": "Dinner"
+  }
+ ],
+ "hours_source": "Primary: the restaurant's own site footer at https://www.incontrodanville.com/ — \"Brunch Buffet Saturday: 12:00 – 03:00PM Sunday: 10:00 AM – 2:00 PM Dinner Tuesday – Thursday: 5:00 PM – 9:00 PM Friday & Saturday: 5:00 PM – 10:00 PM Sunday: 5:00 PM – 9:00 PM Closed on Monday\" (same block repeats on https://www.incontrodanville.com/catering/). Cross-checked against Sirved's FAQ structured data (https://www.sirved.com/restaurant/danville-california-usa/incontro-ristorante/597349/menus), which matches exactly including the Saturday 12–3 PM buffet, and against the business-managed Tripadvisor listing (https://www.tripadvisor.com/Restaurant_Review-g60802-d627272-Reviews-Incontro_Ristorante-Danville_Tri_Valley_California.html), which matches on dinner and Sunday brunch. A stale third-party directory (danvillesocial.com) still shows 4:00 PM Tue–Thu opens and Sunday 11:00 AM–2:30 PM; the official site supersedes it.",
+ "latest_close_time": "10:00 PM (Friday and Saturday)",
+ "happy_hour": "No happy hour is published anywhere on the restaurant's own website, ordering menu or wine list. Two third-party directories tag the business with \"Happy Hour\" (winecountry.com/businesses/6595/incontro-ristorante under Drinks; vrconcierge.com under \"Things To Know\") but neither gives days, times or pricing, and I found no corroboration on any first-party page — treat as unverified. What IS documented is the Summer Spritz Series at Incontro's patio bar: every summer Friday, 5 PM to 10 PM, one cocktail paired with an appetizer for $20 plus tax, with TV and live music (https://www.incontrodanville.com/wp-content/uploads/2026/07/Summer-Spritz-Series-2026.pdf).",
+ "late_night": "No late-night service. The kitchen and the restaurant both close at 10:00 PM on Friday and Saturday and 9:00 PM the rest of the week, and nothing on the site or in the ordering system indicates the bar stays open past closing. For a nightcap, the wine list carries a dedicated \"Ports, Dessert Wines & Liquore\" section of digestivi: Fonseca Porto Bin No. 27 Ruby ($11), Sandeman 10 Year Tawny ($15), Castello di Querceto Vin Santo del Chianti Classico ($12), Caravella Limoncello ($12), Malvolti Prosecco Grappa Bianca ($14), Romana Sambuca ($12), Amaro Averna ($12) and Fernet Branca ($12). There is a full seven-item house dessert menu ($9–$14) and gelato/sorbetto. Source: https://www.incontrodanville.com/wp-content/uploads/2026/04/Wine-list-March-2026.pdf and https://order.boons.io/site/incontro-ristorante/327/y",
+ "industry_night": "None found. No industry night, service-industry discount or funeral-hour special appears on the website, the boons.io ordering menu, the wine list, the Summer Spritz PDF, any of the 2026 promotional flyers in the site's media library, or any listing page I read.",
+ "services": {
+  "brunch": true,
+  "catering": true,
+  "delivery": true,
+  "dinner": true,
+  "dog_friendly": true,
+  "full_bar": true,
+  "happy_hour": false,
+  "industry_specials": false,
+  "kids_menu": true,
+  "late_night": false,
+  "live_music": true,
+  "lunch": false,
+  "patio": true,
+  "private_dining": true,
+  "reservations": true,
+  "secret_menu": false,
+  "takeout": true
+ },
+ "services_notes": "dinner=true: site footer and boons ordering hours, dinner Tue–Sun 5 PM. lunch=false: the current published hours have no weekday midday service; only the Saturday 12–3 PM and Sunday 10 AM–2 PM brunch buffets. (vrconcierge.com lists \"Brunch, Lunch, Dinner\" but that directory is stale — it also lists hours the official site contradicts.) brunch=true: homepage \"Brunch Buffet Sunday 10:00 AM – 2:00 PM\"; footer adds \"Saturday: 12:00 – 03:00PM\"; Tripadvisor's business-managed About says \"we offer a wonderful all you can eat buffet brunch on Sundays from 10 am to 2 pm\"; Sirved FAQ confirms both blocks. Photographic evidence: multiple buffet-line images in the site media library. takeout=true: boons.io ordering page defaults to Pickup and has a dedicated \"Take-out Family Meals\" section (six family trays, $80–$100). delivery=true: the same boons.io page offers a Delivery tab quoting \"35 - 40 mins\"; boons' own footer advertises \"Get Dashers for Deliveries\". No DoorDash/Uber Eats/Grubhub storefront was found. catering=true: dedicated catering page at incontrodanville.com/catering/ plus a full separate tray-catering menu (Antipasti, Pane e Insalate, Contorni, Pasta, Secondi, Dolci; $37.50–$300 per half tray) at order.boons.io/site/catering/incontro-ristorante/327/y. reservations=true: OpenTable rid 67189 linked from the homepage \"BOOK A TABLE\" button; Sirved FAQ \"Yes, Incontro Ristorante accepts reservations\". private_dining=true: homepage \"your private event\" section (weddings, anniversaries, corporate events, rehearsal dinners); Eventective listing (eventective.com/danville-ca/incontro-ristorante-752036.html) details two event spaces — an Outdoor Patio venue and a 16-capacity \"Wine Room\" private dining room — with 100-guest max, $500–$5,000 per event and a separate events phone 925-548-7778; Tripadvisor feature list includes \"Private Dining\". Photo o-14.jpg shows the stone-walled private room set with gold linens. patio=true: \"romantic outdoor dining in a garden patio\" and \"you will enjoy delicious cuisine... on the porch or the garden patio\" (Tripadvisor business About); winecountry.com adds \"outside there is seating with a bar and firepit\"; the 2011 relocation press describes converting the patio into an \"Italian veranda\" with lighted trees, fire pits and a fountain; multiple own-site photos show the covered string-lit veranda. full_bar=true: Tripadvisor features list \"Full Bar\" and \"Wine and Beer\"; Eventective amenity \"Full Bar/Lounge\"; vrconcierge alcohol policy \"Full Bar, BYOB (Corkage Fee)\"; the 2011 press notes the Danville move was specifically to add a full bar (the San Ramon location had been beer-and-wine only); and two of the restaurant's own photos (IMG_9010, o-36) show a fully stocked spirits backbar. Corkage is $25 per 750ml bottle (wine list PDF). happy_hour=false: see the happy_hour field — only unsourced third-party directory tags, nothing first-party. live_music=true: Tripadvisor features \"Live Music\" and business About \"You can enjoy live musicians on the outside patio in the warmer months\"; the 2026 Summer Spritz Series PDF says \"TV and Live Music\"; danvillesocial.com notes \"Live music can be seen and heard here on the weekends\". kids_menu=true: dedicated Kids Menu section on the boons.io ordering menu (7 items, $3–$16); Tripadvisor lists \"Highchairs Available\". dog_friendly=true: Tripadvisor features list includes \"Dog Friendly\" (patio). late_night=false and industry_specials=false and secret_menu=false: no evidence found on any page read. Other verified amenities not in the boolean list: free off-street parking (private lot off Railroad Avenue), street parking, wheelchair accessible, non-smoking, television, vegetarian-friendly and a vegan menu section, gluten-free items marked (GF) on the menu.",
+ "signature_dishes": [
+  {
+   "name": "Arancini",
+   "course": "Antipasti",
+   "price": "$17.00",
+   "description": "Fried Arborio rice balls, smoked mozzarella with marinara and pesto sauce. Called out by a guest review on the homepage as \"spectacular and authentic,\" and used as the August pairing in the 2026 Summer Spritz Series."
+  },
+  {
+   "name": "Burrata Antipasti",
+   "course": "Antipasti",
+   "price": "$23.00",
+   "description": "Burrata cheese, prosciutto, cherry tomato, basil, arugula and crostini."
+  },
+  {
+   "name": "Gnocchi",
+   "course": "Le Paste",
+   "price": "$29.00",
+   "description": "House made gnocchi with fontina cream sauce and truffle oil. The dish the restaurant is best known for — a homepage review reads \"I've tried gnocchi at various different restaurants but nothing compares to Incontro!\""
+  },
+  {
+   "name": "Lasagne",
+   "course": "Le Paste",
+   "price": "$29.00",
+   "description": "House made lasagna with beef ragu, bechamel, and mozzarella. Also sold as a family tray ($100) and as a catering half tray ($175)."
+  },
+  {
+   "name": "Ravioli Aragosta",
+   "course": "Le Paste",
+   "price": "$34.00",
+   "description": "Lobster ravioli, diced zucchini and shrimp bisque sauce."
+  },
+  {
+   "name": "Chef's Taste of Italy - 4 pastas on 1 plate",
+   "course": "Le Paste",
+   "price": "$38.00",
+   "description": "Cacio e Pepe, Pappardelle al Pesto with Shrimp, Pacheri al Salmone, Gnocchi — four pastas on one plate."
+  },
+  {
+   "name": "Mostaccioli",
+   "course": "Le Paste",
+   "price": "$30.00",
+   "description": "Rigatoni pasta, sweet Italian sausage, peas, roasted pepper, tomato cream sauce."
+  },
+  {
+   "name": "Linguine Vongole",
+   "course": "Le Paste",
+   "price": "$30.00",
+   "description": "Linguine, clams, fresh tomatoes, garlic white wine sauce."
+  },
+  {
+   "name": "Chicken Marsala (GF)",
+   "course": "Secondi",
+   "price": "$35.00",
+   "description": "Chicken breast, mushrooms, creamy Marsala wine sauce, with mashed potatoes and garlic sauteed spinach. Gluten free."
+  },
+  {
+   "name": "Cioppino",
+   "course": "Secondi",
+   "price": "$38.00",
+   "description": "Shrimp, salmon, clams and mussels in spicy tomato broth."
+  },
+  {
+   "name": "Skirt Steak",
+   "course": "Secondi",
+   "price": "$48.00",
+   "description": "Grilled skirt steak, saffron risotto, with chimichurri sauce (all natural beef, no hormones, non-GMO)."
+  },
+  {
+   "name": "Halibut",
+   "course": "Secondi",
+   "price": "$48.00",
+   "description": "Seared Alaskan halibut, lemon olive oil, baby carrots, cauliflower puree, and grilled lemon."
+  }
+ ],
+ "signature_drinks": [
+  {
+   "name": "Aperol Spritz — \"The Bubbly Spritz\"",
+   "price": "$20 plus tax (paired)",
+   "description": "Aperol orange liquor, prosecco and club soda. July's Friday special in the 2026 Summer Spritz Series on the patio bar, served with two Caprese crostini (toasted bread, mozzarella, heirloom tomato, basil pesto, balsamic reduction, chili oil)."
+  },
+  {
+   "name": "Negroni Sbagliato — \"The Bitter and the Bold\"",
+   "price": "$20 plus tax (paired)",
+   "description": "Campari, sweet vermouth and prosecco. August's Friday special in the Summer Spritz Series, paired with two Arancini."
+  },
+  {
+   "name": "Hugo Spritz — \"The Citrus and the Sea\"",
+   "price": "$20 plus tax (paired)",
+   "description": "Elderflower liquor, prosecco, club soda, fresh mint. September's Friday special in the Summer Spritz Series, paired with a grilled shrimp skewer brushed with garlic butter."
+  },
+  {
+   "name": "Prosecco, Conegliano di Valdobbiadene DOCG — Veneto",
+   "price": "$13 glass / $48 bottle",
+   "description": "The house sparkling pour and the base of the spritz program."
+  },
+  {
+   "name": "Barolo, Costa di Bussia DOCG — Piemonte",
+   "price": "$88 bottle",
+   "description": "Flagship Piemontese red on a wine list that runs heavily Italian, alongside Barbaresco Riserva Roberto Sarotto DOCG ($75) and Rosso di Montalcino Citille di Sopra ($64)."
+  },
+  {
+   "name": "Brunello di Montalcino, Il Poggione DOCG — Tuscany",
+   "price": "$130 bottle",
+   "description": "The top Italian bottle on the list, matched in price only by Jordan Cabernet Sauvignon from Sonoma County ($130). Corkage is $25 per 750ml bottle."
+  },
+  {
+   "name": "Limoncello, Caravella — Italy",
+   "price": "$12",
+   "description": "House digestivo, from a Ports/Dessert Wines & Liquore section that also carries Grappa Malvolti ($14), Sambuca Romana ($12), Amaro Averna ($12) and Fernet Branca ($12)."
+  }
+ ],
+ "desserts": [
+  "Tiramisù — $13.00 — Espresso dipped ladyfingers, mascarpone cheese, coffee and orange liquor, and cocoa powder",
+  "Cannoli — $12.00 — Lemon mascarpone cheese filling in a pastry shell with pistachio nuts and chocolate sauce",
+  "Panna Cotta (GF) — $12.00 — Madagascar vanilla bean custard with mango and berry sauce",
+  "Crème Brûlée — $12.00 — Vanilla custard, bruleed sugar topping served with biscotti",
+  "Bourbon Panettone — $14.00 — Italian style bread pudding with bourbon glazed bananas, and vanilla gelato",
+  "Torta di Cioccolato (GF) — $12.00 — Chocolate gooey cake with crème anglaise and chocolate sauce",
+  "Gelato/Sorbetto — $9.00 — Italian ice cream, vanilla or chocolate; seasonal fruit sorbet",
+  "Kids Ice Cream or Gelato — $3.00",
+  "Catering dolci half trays: Tiramisu $75.00, Bourbon Caramel Panettone $112.50, Cannolis $40.00",
+  "All desserts are made in house (per the restaurant's Tripadvisor About text: sauces and desserts are made in house)"
+ ],
+ "delivery_links": [
+  {
+   "platform": "Boons (the restaurant's own ordering platform — pickup and delivery, ~35-40 min delivery quote)",
+   "url": "https://order.boons.io/site/incontro-ristorante/327/y"
+  },
+  {
+   "platform": "Boons Catering (tray catering, pickup and delivery)",
+   "url": "https://order.boons.io/site/catering/incontro-ristorante/327/y"
+  }
+ ],
+ "instagram": "https://www.instagram.com/incontro_ristorante",
+ "facebook": "https://www.facebook.com/INCONTRODANVILLE",
+ "brand_colors_or_style": "Deep-navy-and-gold, classic-serif Italian. The site's Elementor global palette is: primary #E6C9A2 (champagne gold), secondary #0E1927 (near-black navy), text #080F19, accent #C8C8C8, with cream #FBF5EE and a warm tan #DAB98D as secondary tints. Type pairs Cormorant Infant (serif display, used for headings and the wordmark) with DM Sans for body copy. The logo is a horizontal cream-on-charcoal wordmark reading INCONTRO / RISTORANTE in an all-caps serif; the physical signage uses the same wordmark in gold on dark (visible on the exterior sign and the interior bar-wall sign). Promotional flyers follow the same navy-and-gold, thin-gold-rule, Art-Deco-ish frame treatment. Physical look: exposed stone and warm plaster interiors, gold/white linens, a covered wooden veranda strung with Edison lights, a granite bar top, patio fire pits and greenery.",
+ "logo_url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/Incontro-Ristorante-08-06-2025_01_13_PM-removebg-preview.jpg",
+ "og_image": "",
+ "images": [
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/Incontro-Ristorante-08-06-2025_01_13_PM-removebg-preview.jpg",
+   "kind": "logo",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 36909,
+   "width": 945,
+   "height": 264,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Primary wordmark logo: cream all-caps serif type reading INCONTRO / RISTORANTE on a solid dark charcoal block. Clean, flat, no photography — the header logo used site-wide.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/o-15.jpg",
+   "kind": "exterior",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 232105,
+   "width": 1000,
+   "height": 821,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "Dusk street-level exterior on Hartz Ave: the illuminated gold-on-dark INCONTRO Ristorante blade sign glowing against a deep blue sky, with a lit holiday tree, wrapped-light hedges and the sidewalk running toward downtown Danville. Very atmospheric, strong brand signage.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/o-16.jpg",
+   "kind": "exterior",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 217434,
+   "width": 1000,
+   "height": 750,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Daytime exterior of the historic Hartz House: cream clapboard building with a dark awning, the INCONTRO Ristorante sign on a lamp post, a black iron fence along the sidewalk, hedges, patio heaters and a street clock. Shows the building and street context clearly.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_0593-e1756865273389.jpg",
+   "kind": "exterior",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 87938,
+   "width": 854,
+   "height": 414,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "Night exterior banner crop: the glowing INCONTRO Ristorante sign above the building with warm string lights strung across the front patio and umbrellas below. Wide letterbox aspect — good as a narrow banner strip, too short for a full hero.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-4-2025-01_44_47-PM.png",
+   "kind": "exterior",
+   "http_ok": true,
+   "content_type": "image/png",
+   "bytes": 2652621,
+   "width": 1536,
+   "height": 1024,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "CAUTION — AI-GENERATED, NOT A PHOTOGRAPH. Filename and WordPress title are 'ChatGPT Image Sep 4, 2025'. A synthetic night-time rendering of a restaurant exterior with an INCONTRO Ristorante sign, string lights, umbrellas and an iron fence. The restaurant uses it on its own homepage, but it is not a real photo of the building and should not be used as documentary imagery.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/o-14.jpg",
+   "kind": "interior",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 93616,
+   "width": 1000,
+   "height": 666,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Private dining room (the 16-seat Wine Room): exposed stone wall and arched niche, warm gold tablecloths over white, wine glasses and rolled napkins pre-set, dark wood chairs, and a large Botticelli-style Renaissance painting on the wall. Best single shot of the private-event space.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/12/2023-09-07.webp",
+   "kind": "interior",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 116922,
+   "width": 765,
+   "height": 1020,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/catering/",
+   "description": "Buffet service inside the dining room by a tall shuttered window: a chafing dish, a large charcuterie/salumi platter on a white pedestal, a tray of skewers and canapés, dark napkins folded on white linen and a tall stack of white plates ready for guests.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/o-13.jpg",
+   "kind": "interior",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 109273,
+   "width": 750,
+   "height": 1000,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Brunch buffet line running down the dining room: white linen with dark overlay, bowls of salad, platters of cold dishes, rows of individual dessert cups, serving tongs and a stack of plates with flatware. Warm ochre walls, framed art and a red velvet curtain in the background.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_5538-1-scaled.jpeg",
+   "kind": "patio",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 877439,
+   "width": 2560,
+   "height": 1848,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "The covered garden veranda set for a private party: one very long banquet table under a wood-beamed roof hung with Edison string lights, white linens, wine glasses and folded napkins at every seat, woven wicker armchairs, potted greenery down both sides and daylight spilling in from the open side. Empty and immaculate — the best patio hero.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_5667-1-scaled.jpg",
+   "kind": "patio",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 840792,
+   "width": 1920,
+   "height": 2560,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "The same covered veranda during a live event: a long white-linen table dressed with florals and wine glasses, guests standing and mingling at the far end, string lights overhead, white pergola posts and greenery. Shows the space in use with people.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_5829-scaled.jpg",
+   "kind": "bar",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 397453,
+   "width": 1920,
+   "height": 2560,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Two cocktails on the polished granite bar top — a coral-pink martini with a citrus twist and a pale green coupe garnished with a rosemary sprig — shot directly in front of the gold INCONTRO ristorante wall sign. Strong branded bar shot; the best drinks-plus-identity image on the site.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_9010-scaled.jpeg",
+   "kind": "drink",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 427098,
+   "width": 1920,
+   "height": 2560,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "An orange, spritz-style cocktail in a stemmed coupe with a mint garnish, sitting on the granite bar with a softly blurred backbar of spirit bottles and the espresso machine behind. Also serves as photographic evidence of a full liquor backbar.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/o-36.jpg",
+   "kind": "bar",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 168647,
+   "width": 750,
+   "height": 1000,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "A layered orange-to-red martini on the bar, shot with the fully stocked backbar in focus behind it — three glass shelves of spirits, hanging stemware and inverted glasses. The clearest proof of a full bar.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2023/10/Chicken-Marsala.jpg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 111057,
+   "width": 1000,
+   "height": 750,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Chicken Marsala as plated: sliced chicken breast under a heap of sautéed mushrooms in glossy Marsala sauce, a quenelle of mashed potatoes and a bed of garlic sautéed spinach on a wide white rimmed plate. Matches the $35.00 menu listing exactly.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/unnamed-32.webp",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 128814,
+   "width": 1360,
+   "height": 1020,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "The house gnocchi: a bowl of plump house-made potato gnocchi coated in pale fontina cream sauce and finished with coarse cracked black pepper. Simple white bowl, clean top-down framing — ideal for a signature-dish card.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/unnamed-33.webp",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 171996,
+   "width": 1360,
+   "height": 1020,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "Linguine vongole: a nest of linguine tossed in garlic white wine sauce with open clams and mussels arranged around the rim, scattered with chopped parsley, on a white plate.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/unnamed-31.webp",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 268406,
+   "width": 1332,
+   "height": 1020,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "A rack of grilled lamb chops standing interlocked, crusted with a bright green-and-red salsa verde, alongside garlic broccolini and a wedge of saffron-yellow risotto on a white plate.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/image-asset.webp",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 771410,
+   "width": 2500,
+   "height": 1875,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "A braised bone-in meat course — dark, fall-apart braised shank in a glossy pan jus, topped with micro-herbs, plated with a spoon of creamy risotto and three whole roasted baby carrots. The highest-resolution food photo on the site (2500px wide).",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_3741-scaled-e1756861211905.jpg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 307302,
+   "width": 2360,
+   "height": 1732,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "A citrus and shrimp salad: grilled shrimp and scallops over mixed and radicchio leaves with pink grapefruit and orange segments, shaved cheese and a light vinaigrette, held on a wide white plate. Bright, colourful, well lit.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_4379-1-scaled.jpeg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 416020,
+   "width": 2560,
+   "height": 1746,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "A deep white pasta bowl of spaghetti tossed in a pale garlic-butter sauce with clams and chopped parsley, shot on a dark stone table. WordPress alt text: 'Plate of spaghetti pasta with green herbs.'",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/8C2E978D-B3EF-4636-A50A-14F15593030E-scaled.jpeg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 277673,
+   "width": 2560,
+   "height": 1920,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Pan-seared salmon, crisp skin up, topped with a yellow corn-and-pepper relish and a rosemary sprig, set over roasted potatoes in a shallow cream sauce in a wide white bowl. WordPress alt text: 'Plated salmon filet served with rice medley.'",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_8991-1-scaled.jpeg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 639624,
+   "width": 2560,
+   "height": 1986,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Overhead table spread on dark wood: a linen-lined basket of house focaccia, a bowl of long pasta, a bowl of mussels, a caprese-style plate, a ramekin of marinara, sautéed greens with lemon and several small side dishes. Good 'table of food' establishing shot.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_8996-scaled-e1757023774259.jpeg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 293900,
+   "width": 1715,
+   "height": 1254,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "A bowl of steamed black mussels in broth with diced tomato and herbs, served in a floral-rimmed ceramic bowl on a dark wood table, with a cruet of olive oil, a ramekin of marinara and other plates around the edges.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/468977581_18472958572020360_944336569249359442_n.jpg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 121542,
+   "width": 1440,
+   "height": 1080,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "Shrimp and clams in a spicy red tomato sauce, scattered with parsley, in a plain white bowl on a grey surface — the Shrimp Diavola / cioppino register of the menu. Hosted on the restaurant's own domain (filename originates from a social post, but this is a stable first-party URL, not a social CDN link).",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/510919903_18512089522020360_1004295834442272022_n.jpg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 177570,
+   "width": 1440,
+   "height": 1292,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "Grilled shrimp fanned over a bed of grain salad with green asparagus spears, halved cherry tomatoes and a drizzle of olive oil, on a white plate. Hosted on the restaurant's own domain.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_5707-scaled.jpg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 517270,
+   "width": 2560,
+   "height": 1920,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Dessert: a tall molten chocolate cake dusted with powdered sugar, crowned with whipped cream, a raspberry and a mint sprig, on a white plate streaked with chocolate sauce and dotted with almonds. Matches the Torta di Cioccolato listing.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_3981-scaled-e1756861255420.jpg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 189049,
+   "width": 1920,
+   "height": 1457,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Dessert: an unmoulded white panna cotta topped with a mint leaf, sitting on a large white plate with an elegant sweeping comma of berry and mango sauce beside it. Very clean subject on a plain background — excellent crop-friendly hero.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/2025-04-10.webp",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 228578,
+   "width": 1360,
+   "height": 1020,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Dessert: three cannoli laid on a long rectangular white plate, filled with white mascarpone cream, zig-zagged with dark chocolate sauce and flanked by two mounds of crushed pistachio.",
+   "hero_candidate": true
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/Brunch-fruit-platter-and-desserts.webp",
+   "kind": "other",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 101412,
+   "width": 960,
+   "height": 720,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "The Sunday brunch buffet dessert station: a large round platter of sliced pineapple, watermelon, orange, strawberries and blueberries next to two gold-edged tiered trays of petit-four pastries and a row of wafer rolls, on white linen with a burgundy curtain behind.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/09/IMG_1326-scaled-e1756865475987.jpg",
+   "kind": "other",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 479069,
+   "width": 1920,
+   "height": 1715,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "An 'Antipasti Platter' on a white pedestal stand — rolled prosciutto and salami, marinated artichokes, green and black olives, cubed cheeses, roasted peppers and giardiniera — with a whole thin-crust vegetable pizza on a board beside it and a printed table card. Buffet/catering context.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/o-17.jpg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 123220,
+   "width": 750,
+   "height": 1000,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "A brunch plate: a folded omelette filled with diced vegetables and cheese, served with a small pile of dressed mixed greens and radicchio and fresh blackberries, blueberries and strawberries, on a white plate with wine glasses behind. Useful as the brunch-service image.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2023/10/Mostaccioli.jpg",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/jpeg",
+   "bytes": 145478,
+   "width": 750,
+   "height": 1000,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "Mostaccioli close-up: rigatoni in a pink tomato-cream sauce with peas, crumbled Italian sausage and roasted pepper, blanketed in finely grated Parmigiano and chopped parsley. (The file at /2025/08/o-18.jpg is a byte-identical duplicate of this image.)",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/unnamed-34.webp",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 221676,
+   "width": 1360,
+   "height": 1020,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/wp-json/wp/v2/media (site media library; not currently placed on a page)",
+   "description": "Grilled fish fillet fanned over a wide swipe of cauliflower or potato purée with charred ribbons of zucchini and yellow squash and a pool of olive-oil sauce, on a white plate.",
+   "hero_candidate": false
+  },
+  {
+   "url": "https://www.incontrodanville.com/wp-content/uploads/2025/08/unnamed-35.webp",
+   "kind": "dish",
+   "http_ok": true,
+   "content_type": "image/webp",
+   "bytes": 103848,
+   "width": 765,
+   "height": 1020,
+   "is_own_site": true,
+   "source_page": "https://www.incontrodanville.com/",
+   "description": "A piccata-style cutlet in a lemon-caper butter sauce served over a nest of angel hair pasta with chopped parsley, shot at the table with the printed menu visible in the background.",
+   "hero_candidate": false
+  }
+ ],
+ "notes": "NAME AND ADDRESS CONFIRMED. The exact name is \"Incontro Ristorante\" (the OpenTable listing shortens it to \"Incontro Restaurant\"). The address is 455 Hartz Ave, Danville, CA 94526 — NOT the Church St corner. It sits on the west side of Hartz between Church St and Railroad Ave, in the building OpenStreetMap independently names \"Hartz House,\" which matches the restaurant's own claim of dining \"in the historic Hartz House.\" Nearby-business check from the vrconcierge listing: Danville Harvest at 500 Hartz Ave (210 ft), Cocina Hermanas at 501 Hartz Ave (220 ft) and Bridges Restaurant & Bar at 44 Church St (229 ft). Note the brief's premise about \"Rancho Cantina at 501 Hartz\" — 501 Hartz is now listed as Cocina Hermanas. I did not verify Kaia's Island Kitchen at 480 Hartz.\n\nSISTER RESTAURANT: Albi's Middle Eastern Beer Garden occupies the back of the same 455 Hartz Ave property, opened April 24 2026, run by Monique Moufarrej (daughter of Incontro's owners; CIA graduate, ex-Del Posto, ex-Rich Table, ex-Angler SF). Hours Wed–Sun 11:30 AM–8:00 PM. Site: albisdanville.com, Instagram @albis_danville. Incontro's homepage carries an Albi's promo block and one Albi's food photo (a Middle Eastern mezze spread at https://www.incontrodanville.com/wp-content/uploads/2026/04/652769770_17927523081239109_227673107610504758_n.jpg) — I excluded it from the images array because it is Albi's food, not Incontro's.\n\nMENU SOURCE: the website's \"Menu\" and \"view all menu\" links both point to the boons.io ordering site, which is the live, current menu — the price widget embedded on the homepage is stale (it shows Bruschetta at $24 and $16 where the live menu says $16; vegan pastas at $26 where the live menu says $27). All dish prices I reported come from the live ordering menu.\n\nDATA I COULD NOT GET, and why: (1) OpenTable — both WebFetch and curl timed out repeatedly against opentable.com from this environment, so I have no OpenTable rating, review count, dress code, parking or executive-chef field; the reservation URL comes from the restaurant's own homepage link. (2) Yelp — returns HTTP 403 to both WebFetch and curl. Search-result page titles show \"591 Reviews, 626 Photos\" as of August 2026 but I could not read the star rating off the page, so yelp_rating is left empty rather than guessed. (3) Instagram — instagram.com/incontro_ristorante returns a JavaScript shell with no bio text in the HTML, so no bio captured. (4) Facebook — facebook.com/INCONTRODANVILLE returned HTTP 400 to curl and only the page title to WebFetch. (5) The homepage has NO og:image meta tag, so og_image is empty. (6) No current executive-chef name is published anywhere I could read. (7) No dedicated private-dining page exists; private events live in a homepage section, so private_dining_url is empty — the Eventective third-party listing (100-guest max, 16-seat Wine Room, events phone 925-548-7778, $500–$5,000/event) is the most detailed source.\n\nOTHER SOCIAL: the restaurant also links X/Twitter @INCONTRO455 (https://x.com/INCONTRO455) from its site footer. No TikTok found. The footer's \"Facebook\"/\"Instagram\" icons on some templates point to bare facebook.com / instagram.com placeholders; the real handles are in the header and are the ones I reported.\n\nSITE-QUALITY CAVEAT for anyone re-scraping: the WordPress theme (\"Basilico\") still has unedited demo content in places — the catering page shows fake sister locations in Sydney, Tokyo and New York with a placeholder phone +(406) 555-0120 and Basilicofood123@gmail.com, and the footer carries a leftover \"Andé Restaurant, 767 5th Avenue, Paris\" block and lorem ipsum. None of that is real. Likewise, the homepage's lead exterior image is an AI-generated ChatGPT render, flagged in the images array.\n\nEVENTS/PROMOS observed in the site media library (2026): monthly 10%-off online-order promo codes (LABOR10, TREAT10, SUMMER10, TGIF10, SPECIAL10, FREEDOM10, BESTDAD), holiday prix-fixe PDFs (Valentine's, Easter brunch, Mother's Day, Father's Day brunch, Christmas Eve, New Year's Eve, Thanksgiving) and a wine-dinner series — e.g. \"Incontro Presents O'Neill's Wine Dinner, Thursday March 12, 2026, 6:30 pm, $145 per person plus tax and gratuity,\" a five-course menu with Robert Hall and Ram's Gate pairings (graphic at https://www.incontrodanville.com/wp-content/uploads/2026/03/A43BE9B2-052B-4129-9EFD-5F4FFCCED4B5.jpg).\n\nIMAGE METHOD: I pulled raw HTML for the homepage and catering page with curl, extracted img src / srcset / data-src / CSS background-image / og:image, resolved relative URLs and stripped WordPress size suffixes to reach the originals; I then enumerated the full media library via the WordPress REST API (wp-json/wp/v2/media, 116 items across 2 pages) to catch photos not currently placed on a page and to read the alt text. Every URL in the images array was checked with curl -sIL (all returned HTTP 200 with the content-type and content-length recorded) and then downloaded and measured with Pillow for true width/height. Theme demo/stock assets (anything titled \"Basilico\", plus the unsplash and pexels files) were excluded. No Instagram or Facebook CDN URLs are included, and no Yelp or Google user photos were needed — every image is first-party on incontrodanville.com.",
+ "sources": [
+  "https://www.incontrodanville.com/",
+  "https://www.incontrodanville.com/catering/",
+  "https://www.incontrodanville.com/wp-json/wp/v2/pages?per_page=100",
+  "https://www.incontrodanville.com/wp-json/wp/v2/media?per_page=100&page=1",
+  "https://www.incontrodanville.com/wp-json/wp/v2/media?per_page=100&page=2",
+  "https://www.incontrodanville.com/wp-content/uploads/2026/04/Wine-list-March-2026.pdf",
+  "https://www.incontrodanville.com/wp-content/uploads/2026/07/Summer-Spritz-Series-2026.pdf",
+  "https://order.boons.io/site/incontro-ristorante/327/y",
+  "https://order.boons.io/site/catering/incontro-ristorante/327/y",
+  "https://nominatim.openstreetmap.org/search?q=455%20Hartz%20Ave%2C%20Danville%2C%20CA%2094526&format=json",
+  "https://www.tripadvisor.com/Restaurant_Review-g60802-d627272-Reviews-Incontro_Ristorante-Danville_Tri_Valley_California.html",
+  "https://www.sirved.com/restaurant/danville-california-usa/incontro-ristorante/597349/menus",
+  "https://www.winecountry.com/businesses/6595/incontro-ristorante",
+  "https://vrconcierge.com/restaurant/united-states/california/danville/virtual-restaurant-concierge-listing/incontro-ristorante/",
+  "https://www.eventective.com/danville-ca/incontro-ristorante-752036.html",
+  "https://www.danvillesocial.com/directory/incontro-ristorante/",
+  "https://www.napasonomamagazine.com/weekly-dish-incontro-moving-to-danville/article_992b2c54-efea-5e6d-8a0a-c4fe8e064a5c.html",
+  "https://patch.com/california/danville/new-danville-restaurant-michelin-starred-chef-blends-lebanese-food-beer-garden",
+  "https://abc7news.com/incontro-restaurant-in-danville-restaurants-open-shelter-place-contra-costa-county-stay-at-home-order/9210628/",
+  "https://www.opentable.com/restaurant/profile/67189?ref=1068 (reservation link taken from the restaurant's own site; opentable.com itself was unreachable from this environment)",
+  "https://www.yelp.com/biz/incontro-ristorante-danville-2 (HTTP 403 - not readable; listed for reference only)"
+ ],
+ "confidence": 0.92
+}

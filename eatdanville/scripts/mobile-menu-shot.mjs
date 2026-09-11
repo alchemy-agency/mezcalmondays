@@ -1,0 +1,16 @@
+import { createRequire } from 'node:module';
+const require = createRequire('C:/Users/Kenneth Rodas/Documents/GitHub/google-flow-mcp/package.json');
+const { chromium } = require('playwright');
+const theme = process.argv[2] || 'dark';
+const b = await chromium.connectOverCDP('http://127.0.0.1:9222'); const ctx = b.contexts()[0]; const p = await ctx.newPage();
+await p.setViewportSize({ width: 390, height: 844 });
+await p.addInitScript((t) => { try { localStorage.setItem('eat.theme', t); } catch (e) {} }, theme);
+await p.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' }); await p.waitForTimeout(1200);
+await p.screenshot({ path: `qa/m-${theme}-top.png` });
+await p.click('.burger'); await p.waitForTimeout(700);
+await p.screenshot({ path: `qa/m-${theme}-menu.png` });
+await p.keyboard.press('Escape'); await p.waitForTimeout(300);
+await p.evaluate(() => window.scrollTo(0, document.body.scrollHeight)); await p.waitForTimeout(900);
+await p.screenshot({ path: `qa/m-${theme}-bottom.png` });
+console.log('burger box', await p.locator('.burger').boundingBox(), 'meta theme-color', await p.evaluate(() => Array.from(document.querySelectorAll('meta[name=theme-color]')).map(m => m.content + '|' + m.media)));
+await p.close(); await b.close();

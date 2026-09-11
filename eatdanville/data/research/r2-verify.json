@@ -1,0 +1,207 @@
+{
+ "restaurants": [
+  {
+   "key": "rancho-cantina",
+   "confidence": 0.86,
+   "corrections": [
+    {
+     "field": "yelp_url / yelp_rating",
+     "original": "\"\" — researcher note (2): \"No Yelp listing for the Danville location surfaced in search\"",
+     "corrected": "A Yelp listing for the Danville location DOES exist: https://www.yelp.com/biz/rancho-cantina-danville-2 — indexed title \"RANCHO CANTINA - Updated September 2026 - 501 Hartz Ave, Danville\", categories Mexican / Spanish / Cocktail Bars, marked \"Unclaimed\". Star rating and review count still not readable (yelp.com returns 403/Cloudflare to WebFetch, curl with full browser headers, and r.jina.ai), so leave yelp_rating empty but populate yelp_url.",
+     "source": "https://www.yelp.com/biz/rancho-cantina-danville-2 (surfaced via https://html.duckduckgo.com/html/?q=site%3Ayelp.com+%22Rancho+Cantina%22+Danville+Hartz)"
+    },
+    {
+     "field": "desserts",
+     "original": "Flourless Chocolate Cake $10, House-made Flan $10, Churros $8 — from legacy ranchocantina.com/menu-old",
+     "corrected": "Remove, or explicitly mark as NOT offered in Danville. I downloaded both current printed-menu artboards at 2500px and read them end to end: there is no dessert section anywhere on the Danville menu (sections are Antojitos, Wood Fired, Whole Fish, Ensalada, Sopa, Cantina Menu, Sizzling Skillets, Niños, Extras, Cocktails, Margarita Time, Wine, Beer, Drinks, Our Story, Catering). Publishing three prices from a legacy Lafayette-era page on a Danville listing is exactly the cross-location copy the brief warns about.",
+     "source": "https://images.squarespace-cdn.com/content/v1/6601b7fc7a4fe3078e59a1f0/1ccd6793-56de-442c-9c4c-1ff63c69bdf0/AS+PRINTED+Rancho+Cantina+Danville+Main+Menu+%2B+Drinks+6.11.26+with+Bleed+beige+DMArtboard+1.jpg plus DMArtboard+2.jpg (both linked from https://www.ranchocantina.com/menu-danville)"
+    },
+    {
+     "field": "phone",
+     "original": "(925) 718-5153",
+     "corrected": "Keep (925) 718-5153 as primary (footer and body of every Danville page, the reservations page for 9+ parties, the catering page, and /order-online-danville for phone takeout), but flag a conflict: the Danville Area Chamber of Commerce member record for Rancho Cantina at 501 Hartz Ave publishes (925) 519-3851. One of the two is wrong; a directory should not silently ingest the Chamber number.",
+     "source": "https://business.danvilleareachamber.com/list/member/rancho-cantina-10766 vs https://www.ranchocantina.com/contact-us-danville"
+    },
+    {
+     "field": "happy_hour (note wording)",
+     "original": "\"No time-bounded happy hour published\" / services.happy_hour = false",
+     "corrected": "Keep false, but soften the note. OpenTable's own listing copy for this restaurant describes \"a high-energy room built for family dinners and happy hour.\" That is marketing text, not a published window — no timed HH exists on the printed menu or any site page — so the field should read \"no published happy-hour window; day-of-week specials only\" rather than implying nothing exists.",
+     "source": "https://www.opentable.com/r/rancho-cantina-danville (listing description via search index; opentable.com times out or 403s to every fetch method)"
+    },
+    {
+     "field": "happy_hour — Margarita Mondays provenance",
+     "original": "\"Margarita Mondays — $5 off top-shelf margaritas (site announcement bar)\"",
+     "corrected": "Still present but undated and possibly stale. The announcement-bar string is still configured site-wide: \"Now open for MARGARITA MONDAYS! $5 OFF TOP SHELF MARGARITAS starting this Monday! Make a reservation.\" — note \"starting this Monday\" with no date, and the visible promo block on /danville has since been replaced by a dine-in sweepstakes running through October 15. Treat Margarita Mondays as unconfirmed-current, not an established weekly program.",
+     "source": "https://www.ranchocantina.com/ (announcementBarSettings text in page source) and https://www.ranchocantina.com/danville"
+    }
+   ],
+   "confirmed_fields": [
+    "address 501 Hartz Ave, Danville, CA 94526 (official footer, printed-menu back page, Danville Area Chamber listing)",
+    "hours Sun–Thu 11am–10pm, Fri–Sat 11am–11pm — re-fetched 2026-09-10 from /danville, /menu-danville, /order-online-danville, /reservations-danville, /catering-danville and /contact-us-danville; identical on all six",
+    "latest_close_time 11:00 PM Fri–Sat",
+    "hours are Danville-specific, not copied from Lafayette (same footer separately lists Lafayette as Sun–Thurs 11:30am–8:30pm / Fri–Sat 11:30am–9:30pm)",
+    "phone (925) 718-5153 on the official site",
+    "Executive Chef Carlos Navarro (printed at the foot of menu artboard 1)",
+    "menu_url, and that the live menu is still the \"6.11.26\" printed menu (unchanged as of 2026-09-10)",
+    "all ten signature_dishes verified item-by-item on the printed menu: Vaquero Platter 38, Prime Cowboy Cut Bone-in Ribeye 120 (serves two, 32oz), Double Cut Pork Chop 42, Carne Asada 32, Brick Chicken 29, Wood-Fired Fresh Atlantic Salmon 36, Whole Fish 40, Bone Marrow Brûlée 29, Fajitas Skillet Trio 38, BBQ Oysters 3 for 15",
+    "all six signature_drinks verified: Top Shelf Margarita 18, Mezcal margarita 17, Alicia's Spicy Sunset 17, Mango Brasa 19, Hibiscus Paloma 15, Old Fashioned 16",
+    "kids_menu true — NIÑOS section, three items at $9, all with seasonal fruit",
+    "catering true — /catering-danville, $55 per person, inquiry form and phone; also promoted on the printed-menu back page",
+    "takeout true / delivery false — /order-online-danville still reads \"Online Ordering Coming Soon... For takeout, you can place an order over the phone at (925) 718-5153\"",
+    "reservations true — OpenTable restref 1504117 embedded on /reservations-danville; online bookings up to 8 guests, 9+ by phone, walk-ins welcome",
+    "patio true — corroborated twice independently: OpenTable listing copy (\"a sunny patio\") and Bay Area Telegraph 8/26/2026 (\"outdoor seating along one of downtown Danville's busiest restaurant stretches\")",
+    "full_bar true — printed menu carries cocktails, five margaritas, wine, draft and bottled beer; Bay Area Telegraph reports \"a more substantial bar\" than Lafayette",
+    "brunch false — no brunch section on the printed menu, no brunch hours on the site",
+    "late_night false — kitchen and bar close together; no separate bar hours published"
+   ],
+   "unverifiable_fields": [
+    "google_rating (Maps place page returns only a JS shell; the journal's google_maps_url is a constructed search link, not a read Place URL)",
+    "yelp_rating and Yelp price tier (yelp.com 403s to every method)",
+    "OpenTable rating, review count, dining style and price tier (opentable.com timed out or 403d to WebFetch, curl and r.jina.ai)",
+    "private_dining (no evidence either way; reservations page only mentions calling for 9+)",
+    "live_music (no evidence either way)",
+    "dog_friendly (no evidence either way)",
+    "secret_menu, industry_specials (none found)",
+    "email (none published on the site)",
+    "Tripadvisor listing (no Danville Rancho Cantina page surfaced)",
+    "whether the Chamber's (925) 519-3851 is a second live line or a data error"
+   ],
+   "additions": "MENU SECTIONS THE RESEARCHER OMITTED ENTIRELY (read off the 6.11.26 printed menu): CANTINA MENU — Carnitas 27, Rancho Enchiladas 20 (choice of 3: chicken tinga, cheese or grilled vegetables; red chile, verde or mole), Ranchero Burrito or Bowl 18 (wet +$2), Chile Relleno 18, Seafood Tacos 20, Taco Trio 22, Cheese Quesadilla 13, Cantina Burger 22 (half-pound angus or chicken breast, Boudin bun). ANTOJITOS beyond the two listed — Ranchero Bean Dip 14, Spicy Grilled Shrimp 17, Guacamole 14, Housemade Ceviche 16, BBQ Corn Elotes 16, Mexican Chicken Wings 18, Rancho Nachos 17. SIZZLING SKILLETS also has Chicken Fajitas Skillet 28 and Surf + Turf Fajitas Skillet 35. ENSALADA — Californio Taco Salad 17, Mixed Green Salad 15. SOPA — Tortilla Soup 15. EXTRAS — Rancho Rice 6, King City Pink Beans 6, Rancho Fennel Slaw 5, Sour Cream 3, Habanero Salsa 3, Small Guacamole 5. Add-ons: grilled chicken +8, carne asada or shrimp +9, pink beans +3, mexican rice +3.\n\nFULL MARGARITA LINEUP (journal listed only two): Top Shelf 18, Jalapeño 16, Mezcal 17, Pomegranate 16, Rancho 15. ADDITIONAL COCKTAILS: Pineapple Cucumber Mojito 15, Michelada 12, Mexican Manhattan 18, Sangría 15, The Amaya Fresca 16, Tamarindo Vodka Mule 16, Humo Tropical 16, Hibiscus Whiskey Smash 16, Raspberry Lemon Drop 16. BEER: draft Modelo Especial 8, Alameda Brewing Mexican Lager 8, Danville Brewing Rotator 8, Altamont Brewing Rotator IPA 8, Lagunitas Double IPA 10; bottles Corona / Corona N/A / Pacifico / Dos Equis / Modelo Negra all 7. WINE BY THE GLASS 12–23 (Imagery Chardonnay 13, Frank Family Chardonnay 18, Caymus Cabernet 23, Prisoner Red Blend 23, Fleurs de Prairie Rosé 12, Mumm Napa Brut 17). N/A: housemade lemonade 5.50, raspberry lemonade 7, watermelon agua fresca 8, Mexican Coke / Topo Chico 5.50, coffee 4.\n\nCURRENT TIME-SENSITIVE PROMOS worth surfacing: \"Every dine-in guest now through October 15th receives an entry for a chance to win FREE TACOS FOR A YEAR!\" plus an email-signup sweepstakes for \"$500 in free Rancho Cantina tacos\" (both on /danville).\n\nCAVEAT: the Taco Tuesday card on /menu-danville is dated \"2026 June V4\" and is shared with Lafayette, so the $5 tacos / $10 Rancho Margarita deal may not be Danville-specific.",
+   "notes": "Sources used that the researcher did not: the Danville Area Chamber member record, the Yelp Danville business page (existence and title metadata via search index), OpenTable listing description text via search index, and a direct pixel read of both printed-menu artboards rather than a transcription. This is the hardest of the three to second-source because it opened Aug 24, 2026: Yelp is unclaimed, there is no Tripadvisor page, no res-discover / Restaurantji / Visit Tri-Valley / Love Tri-Valley mirror exists yet, and OpenTable and Yelp both refuse programmatic access. One cached Yelp hours line reads \"Closed 11:00 AM - 11:00 PM\", which would conflict with the official Sun–Thu 10pm close, but I could not establish which weekday it was cached on, so I am NOT treating it as evidence against the official hours — only as a reason to note that the sole third-party hours source here is an unclaimed listing. Everything else in the journal's listing block that I could reach checked out; the two real defects are the inherited dessert list and the false \"no Yelp listing exists\" claim."
+  },
+  {
+   "key": "kaias",
+   "confidence": 0.9,
+   "corrections": [
+    {
+     "field": "opened",
+     "original": "\"April 2025 (Diablo Magazine, 3/18/2025: planned launch 'second week of April' 2025...)\"",
+     "corrected": "Downgrade to \"spring 2025 — open by mid-May 2025; local press announced the opening June 18, 2025.\" The Diablo item is dated 3/18/2025 and reports a plan (\"plans to reopen in early April\"), not an opening. Beyond the Creek published \"Kaia's Island Kitchen & Tiki Bar opens in Danville\" on June 18, 2025. Ultimate Mai Tai's visit write-up is 5/14/2025, so it was operating by mid-May. Note the journal contradicts itself: its own neighborhood-mapping entry states \"opened June 18, 2025\".",
+     "source": "https://www.beyondthecreek.com/kaias-island-kitchen-tiki-bar-opens-in-danville/ (dated June 18, 2025) vs https://www.diablomag.com/blog/diablo-dish/diablo-dish-an-island-breeze-blows-into-danville/article_b193eef0-0453-11f0-bf79-a32dd5842507.html"
+    },
+    {
+     "field": "price_range",
+     "original": "\"$$$$\"",
+     "corrected": "Recommend \"$$$\" (or \"$$–$$$\") for display, with the Yelp tier noted rather than adopted. $$$$ is genuinely what Yelp publishes — the Apple Maps Yelp-fed card reads \"Price Range: $$$$ (High)\" — but DoorDash lists the same restaurant at \"$$\", and the actual menu is $9–$19 starters, $16–$31 mains, $16–$18 cocktails, $11 keiki. $$$$ implies a fine-dining check average this restaurant does not have.",
+     "source": "https://maps.apple.com/place?place-id=I60703D19645509D8 ($$$$) vs https://www.doordash.com/store/kaias-island-kitchen-&-tiki-bar-danville-36555069/ ($$, via search index) vs https://kaiasdanville.com/food-menu"
+    },
+    {
+     "field": "services.catering / catering_url",
+     "original": "true; catering_url = https://kaiasdanville.com/party",
+     "corrected": "Qualify it. On-premise group/party service is real and priced (Aloha Lunch $35pp, Aloha Feast $48pp, Kaia's Deluxe $59pp, Ohana Buffet $75pp, plus Escape & Celebrate platters $8–$12pp). Off-premise catering is NOT live: the food-menu page ends with \"COMING SOON — To-go catering tray options coming soon! from family of 4 packs, up to 20 people.\" Yelp/Apple list \"Catering\" as an amenity, which is what the journal leaned on. A plain \"catering: yes\" will mislead someone phoning for trays.",
+     "source": "https://kaiasdanville.com/food-menu (COMING SOON block at the foot of the menu, read 2026-09-10)"
+    },
+    {
+     "field": "signature_drinks (completeness)",
+     "original": "six drinks listed",
+     "corrected": "Not wrong — all six prices verified exactly — but the list omits drinks that actually distinguish this bar, notably Jungle Bird $18 (a Tiki Favorite sitting alongside the two Mai Tais) and the whole \"Matt's Groggery\" section. See additions.",
+     "source": "https://kaiasdanville.com/drink-menu"
+    }
+   ],
+   "confirmed_fields": [
+    "official_name, address 480 Hartz Avenue Danville CA 94526, phone (925) 820-7210 — confirmed independently on the Danville Area Chamber member page and the Apple Maps card as well as the site footer",
+    "email info@kaiasdanville.com",
+    "hours Sun–Tue 11:30 AM–9:00 PM, Wed–Thu 11:30 AM–10:00 PM, Fri–Sat 11:30 AM–11:00 PM — verified three ways: site footer re-read 2026-09-10, the Apple Maps/Yelp-fed card, and the Google-derived day-by-day hours returned in search. All three agree exactly; this is the best-corroborated hours set of the three restaurants.",
+    "the bar-later rule — \"Please note that our kitchen closes one hour before the bar\" is verbatim in the site footer, so latest_close_time 11:00 PM Fri–Sat (bar) with the kitchen closing ~10:00 PM is correct",
+    "Island Brunch & Lunch Combo every day 11:30 AM–3:00 PM",
+    "happy_hour — Aloha Hour listed at 03:00 PM–06:00 PM under each of Monday, Tuesday, Wednesday, Thursday and Friday on the specials page; the Aloha Hour food and drink lists on the food menu match the journal item-for-item and price-for-price (Fried Fish Tacos 8, Kalua Pork Tacos 8, Tiki Chicken Bites 11, Green Waves 12, Tiki Torch Satay 12, Huli Huli Sliders 12; lunch-size Island Fries 6, Spam Musubi 10, Veggie Spring Rolls 10, Maui Salad 12, Kalua Pork Nachos 13, Coconut Shrimp 15, Poke Crisp 15, Veggie Garlic Noodle Bowl 15, Early Bird Mix Plate 15, Garlic Shrimp Bowl 18, Poke Bowl 19, Kimo's Bowl 21; all draft beer $6, $3 off wine/sparkling, $3 off select cocktails)",
+    "Mai Tai Mondays — all day Monday, listed 11:30 AM–09:00 PM, $5 off the '44 and Ohanapod Mai Tais, $3 off any call/custom Mai Tai",
+    "live_music true — specials page lists Live Music 06:00 PM–10:00 PM under Every Friday",
+    "all eleven signature_dishes verified against the live menu: Spam Musubi 14, Poke Crisp 19, Kalua Pork Nachos 16, Loco Moco 23, Chicken Katsu 22, Kalbi Beef 31, Macadamia Nut Crusted Catch AQ, Miso Salmon 27, Fresh Catch Tacos 19, Poke Bowl 24 dinner / 20|24 lunch",
+    "all six signature_drinks verified: '44 Mai Tai 17, Ohanapod Mai Tai 18, Chi Chi 16, Zombie 16, Three Hour Tour 16, Navy Grog 18",
+    "desserts — \"Sweets & Treats\": Hula Pie to Share 14, Chocolate Lava Cake 11, Kaia's Paradise 12, Dole Whip big bowl 8 / small cone 3",
+    "kids_menu — separate Keiki Lunch and Keiki Dinner menus, every item $11, cone Dole Whip included",
+    "private_dining — Party Menu tiers all live on the food-menu page; /party page headed \"Group Reservations and Private Parties\"; Celi's Beach Hut reservable per the home page",
+    "patio true — \"dine in our lush island garden patio\" on the home page; Apple Maps amenity \"Outdoor dining\"",
+    "takeout and delivery true — \"Order online directly with us for pickup or delivery\" links to Toast on the home page; Apple Maps lists both Takeout and Delivery",
+    "reservations true via Resy, with Fri/Sat 6:00–8:00 PM tables held for walk-ins",
+    "secret_menu — footer verbatim: \"Follow us on social media for specials and secret menu items!\"",
+    "full_bar true",
+    "dog_friendly — Apple Maps (Yelp-fed) lists \"Pets welcome\"; still absent from the official site",
+    "yelp_rating 3.9 with 237 reviews — confirmed on the Apple Maps card",
+    "industry_specials false — the specials page enumerates every recurring program and there is no industry night"
+   ],
+   "unverifiable_fields": [
+    "google_rating (never obtained; the site footer does expose the Google Business identifiers place_id ChIJfxrE3quMj4ARVZRm43itrZc and CID 0x808f8d69d39c3cbf:0xdcac58f57fc25723, but the Maps page returns only a JS shell)",
+    "Tripadvisor rank and review count — two search passes returned mutually inconsistent snippets (\"#69 of 106 restaurants\" and \"#69 of 146 restaurants\"); tripadvisor.com 403s to direct fetch. Do not publish either.",
+    "whether the Toast online-ordering store is currently live — order.toasttab.com/online/kaiasdanville returns HTTP 200 but its embedded Apollo state resolves restaurantByShortUrl(\"kaiasdanville\") to null, so no menu or ordering hours could be read. The journal's \"Toast ordering 11:30 AM–8:00 PM\" could not be re-confirmed; treat that earlier close as unverified.",
+    "DoorDash and Uber Eats store pages (Cloudflare 403 to curl and WebFetch); delivery_links are title-verified only",
+    "Instagram bio and follower count (login wall)",
+    "named executive chef (none on any first-party page)"
+   ],
+   "additions": "MENU ITEMS MISSED: dinner First Waves also has Pupu Platter $28 (spam musubi, veggie spring rolls, coconut shrimp, teriyaki beef skewer, pickled veggies, 2 dipping sauces) — a natural share-plate hook. Also Island Fries 9, Veggie Spring Rolls 14, Coconut Shrimp 18; Miso Ramen 16; Kalua Pork & Cabbage 24; Maui Burger 21; Kalua Pork Tacos 17; 'Da Kine' Sandwich 18; three salads absent from the journal — Island Chopped, Kaia's Luau, Pacific Rim (all 11 lunch / 15 dinner); Veggie Garlic Noodle Bowl 16|19; add-protein ladder (Tofu +5, Teriyaki Chicken +6, Katsu Chicken/Kalua Pork +7, Kalbi Beef/Grilled Shrimp +10, Grilled Salmon +14); Extras (Hawaiian Potato Salad 6, Steamed Rice 5, Pineapple Coleslaw 6, Stir Fried Veggies 8, Kimchi 3).\n\nBRUNCH IS DEEPER THAN THE JOURNAL SUGGESTS — Sun Rise Plates also includes Da Breakfast Sandwich 19, Da Kitchen Scramble 19, Aloha Veggie Scramble 16. Brunch drink section \"Golden Mornings\": mimosas by flavor (traditional OJ, pineapple, passion fruit, lime, coconut, P.O.G.), Kaia's Glow, Lilikoi Spritz, Filthy Bloody Mary (+$3 sweet & spicy candied bacon garnish), Chi Chi.\n\nDRINKS OMITTED: Jungle Bird 18, Jet Pilot 17, Saturn 17, Blue Hawaii 17, Ipanema Breeze 16, Seb's Signature Sling 16, Cranberry Punch 17, Kaia's Crown. The list is organized into \"Tiki Favorites\" and \"Matt's Groggery\" (a nod to Danville Brewing's Matt Sager). A full zero-proof program: \"Buzz Free Breeze\" mocktails all $10 — Painless, Beach Front, The Perfect Wave, Coconut Breeze. Hand-Made Tropical Sodas $8 (lilikoi, coconut, pomegranate, P.O.G.). Draft $8–9, cans $6–9 including a N/A option. Wine BTG $12–$22 / bottles $45–$90. TWO RUM FLIGHTS, no prices printed: a Diplomático vertical (Planas, Mantuano, Reserva Exclusiva, Selección de Familia) and a \"Rum World Tour\" (Flor de Caña Blanco, Ron Zacapa No. 23, MacNair's Exploration 7-Year Peated, Camikara 8-Year).\n\nPARTY DETAIL: each party tier includes a fixed dessert (Aloha Lunch to Dole Whip; Aloha Feast and Deluxe to Kaia's Paradise, Deluxe adds Chocolate Lava Cake; Ohana Buffet to Hula Pie plus Kaia's Paradise). Escape & Celebrate platters per person: Tropical Garden Display 8, Aloha Bites 10, Island Fusion Board 11, Tiki Taco Platter 12.\n\nAPPLE MAPS AMENITIES not in the journal: wheelchair accessible, parking lot and street parking, Apple Pay / contactless, gender-neutral restrooms, smoke-free, casual ambiance and attire, good for groups.\n\nTWO SITE DEFECTS worth noting: (1) gift cards still sell under the predecessor's Toast slug, https://www.toasttab.com/the-vine-new-480-hartz-avenue/giftcards, linked live from the current site; (2) the home page title tag reads \"Kaia's Island Kitchen & Tiki Bar – Best BBQ in Danville\" — a SpotHopper template error for a Hawaiian/tiki restaurant.",
+   "notes": "Sources used that the researcher did not: a full read of the Apple Maps place card (they cited the URL but did not pull the amenity / price / rating payload), the Danville Area Chamber member record as a phone and address cross-check, Beyond the Creek's dated opening post, and a fresh 2026-09-10 re-read of the live home, food-menu, drink-menu and happy-hours-specials pages. This is the strongest of the three journal entries: every dish price, every drink price, every Aloha Hour item and both keiki menus matched the live menu exactly, and the hours triangulate across three independent sources. The only real problems are the soft opening date, the $$$$ price tier, and \"catering: true\" glossing over the site's own \"coming soon.\" Resy is a pure JS shell (1.9KB) and yielded nothing; DoorDash, Uber Eats, MenuPix, Yelp and Tripadvisor all returned Cloudflare 403s."
+  },
+  {
+   "key": "harvest",
+   "confidence": 0.88,
+   "corrections": [
+    {
+     "field": "hours_source",
+     "original": "\"Official site (danvilleharvest.com home/contact) gives service windows only... Day-by-day open/close times are Google-derived listings\"",
+     "corrected": "Factually wrong about the contact page. https://www.danvilleharvest.com/contact publishes an explicit HOURS block: \"Weekdays 11:30am–9pm / Weekends 10am–10pm.\" That is a first-party open/close statement, and it contradicts BOTH the site's own footer (\"DINNER / Daily 4pm - 8:30pm (later on weekends)\") and the Google-derived day-by-day hours the journal adopted. The restaurant's own website disagrees with itself about when it closes.",
+     "source": "https://www.danvilleharvest.com/contact"
+    },
+    {
+     "field": "latest_close_time",
+     "original": "\"9:30 PM Fri-Sat (Google-derived listings; official site only says dinner ends 8:30 PM, 'later on weekends')\"",
+     "corrected": "Publish as a disclosed range: \"9:30–10:00 PM Fri–Sat, sources disagree.\" Four sources, three answers. Google (mirrored at danville-harvest.res-discover.com) = Mon 8:30, Tue–Thu 9:00, Fri 9:30, Sat 9:30, Sun 8:00, which exactly matches the journal — so the journal's numbers are a faithful copy of the current Google listing. But the restaurant's own contact page says weekends to 10pm; Visit Tri-Valley says Mon 9:00, Tue–Thu 9:30, Fri 10:00, Sat 10:00, Sun 9:00; danvillesocial.com says Mon–Wed 9:00, Thu–Fri 10:00, Sat 10:00, Sun 9:00. For a directory selling 8–10pm business this is the single most consequential unresolved fact in the journal and must not be presented as settled.",
+     "source": "https://danville-harvest.res-discover.com/ , https://www.danvilleharvest.com/contact , https://visittrivalley.com/restaurants-dining/danville-harvest/ , https://www.danvillesocial.com/directory/danville-harvest/"
+    },
+    {
+     "field": "signature_dishes → Sunday Evening Fried Chicken Supper price",
+     "original": "\"$25 per person / $80 family of 4\"",
+     "corrected": "$80 is correct per the restaurant's own home page, but flag the conflict: the item description carried on the Google/ordering listing reads \"$25 per person and $85 for families of four.\" The June 2026 Lunch PDF prints only \"$25 per person\" with no family price. Publish $80 and note the $85 discrepancy, or verify by phone.",
+     "source": "https://www.danvilleharvest.com/ ($80) vs https://danville-harvest.res-discover.com/ Recommended Dishes → Sunday Fried Chicken ($85)"
+    },
+    {
+     "field": "services.live_music",
+     "original": "false — \"no evidence found\"",
+     "corrected": "Keep false, but \"no evidence found\" overstates the search. Google's business attributes for Danville Harvest list \"Live music\" under Highlights (alongside Fireplace, Great beer selection, Great cocktails, Great dessert, Great wine list, Serves local specialty, Sport). Google Highlights are partly review-mined and unreliable, and nothing on the site, events page or menus advertises music — so false is the right call, but the note should read \"not advertised by the restaurant; Google attribute claims live music, unverified.\"",
+     "source": "https://danville-harvest.res-discover.com/ (Services & Amenities → Highlights)"
+    },
+    {
+     "field": "owner_chef",
+     "original": "\"Owner: Darren Matte (restaurateur; group 'Restaurants by Darren Matte')\"",
+     "corrected": "Flag as unsupported by any first-party page I could read. The restaurant's own contact page says \"We are a local family-owned restaurant,\" and Google's \"From the business\" attribute says \"Identifies as women-owned.\" Neither names Darren Matte; the journal's only support is a Culinary Agents group page. Executive Chef Noe Briseno IS first-party confirmed (printed on the Dinner, Lunch and Brunch PDFs). Keep the chef, demote or re-source the owner.",
+     "source": "https://www.danvilleharvest.com/contact and https://danville-harvest.res-discover.com/ (From the business: \"Identifies as women-owned\")"
+    },
+    {
+     "field": "desserts",
+     "original": "Bread Pudding, Beignets, Jumbo Choc Cookies with DoorDash prices ($14.70 / $14.70 / $12.60)",
+     "corrected": "Keep the item names but strip or explicitly label the prices as DoorDash markups, not menu prices. I read all four June 2026 PDFs end to end: there is no dessert section on the Dinner, Lunch or Happy Hour menus, and the only published sweets are brunch \"shared\" items (Cinnamon Roll 9, Mini Donuts 14, Banana Bread 10, Fruit Bowl 12). Google lists \"Dessert\" and \"Great dessert\" as attributes, so in-house dessert almost certainly exists — it is simply unpublished and unpriced.",
+     "source": "https://www.danvilleharvest.com/s/Harvest-Dinner-JUNE-2026.pdf , /s/LUNCH-JUNE-2026.pdf , /s/Happy-Hour-For-Website.pdf , /s/Brunch-JUNE-2026.pdf"
+    }
+   ],
+   "confirmed_fields": [
+    "address 500 Hartz Avenue, phone (925) 362-3665, emails info@danvilleharvest.com (general and catering) and events@danvilleharvest.com (private events / group dining), Instagram @danvilleharvest — all first-party on /contact and /events",
+    "service windows: Lunch weekdays 11:30am–3pm, Brunch weekends 10am–3pm, Dinner daily 4pm–8:30pm (later on weekends), Happy Hour daily 3pm–5pm — identical footer on home, menu, contact, reservations and events",
+    "the journal's day-by-day hours exactly match the current Google Business listing (Mon 11:30–8:30, Tue–Thu 11:30–9:00, Fri 11:30–9:30, Sat 10:00–9:30, Sun 10:00–8:00) — independently confirmed at danville-harvest.res-discover.com",
+    "weekly offerings: Sunday Evening Fried Chicken Supper from 5 PM; Kids Eat Free Mon–Thu 4–6 PM, free kids meal up to $11 per adult entree — both on the home page AND printed on the Dinner and Lunch PDFs",
+    "private_dining — all four spaces and every capacity verified verbatim: Front Bar Dining up to 24; Main Dining Room 48 seated / 70 standing with a curtainable back section for up to 20; Side Patio 26 seated / 36 standing; full-restaurant buyout; bookings via events@danvilleharvest.com",
+    "happy_hour — the entire happy-hour menu verified line by line against the PDF: $5 bites (Shrimp Lettuce Wrap, Fried Chicken Slider, Ahi Tuna Tostada, Short Rib Taco, Italian Meatballs 2pc, Short Rib Empanada, Fries; sweet potato +3, truffle +5); $10 cocktails Solstice, Old-Fashioned, Southpaw, Hi-Tide; A Pimm's Style $11; all other signature cocktails $5 off; $5 drafts Bo Pils, Fieldwork Hazy IPA, Mother Earth Cream Ale, Coronado Salty Crew Blonde; $9 wines Argiolas Vermentino and EOS Cabernet; Chateau de Bligny Brut $18; $3 off all other wines by the glass; Three Horseman Elijah Craig flight $20",
+    "signature_dishes verified on the June 2026 PDFs: Hushpuppies (VG) 13, Millionaire Bacon (GF) 16, Short Rib Bites 17, Braised Short Ribs 31, Danville Burger 26, Filet Mignon (GF) 42, Horseradish Crusted Salmon 30, Short Rib Hash (GF) 23 brunch, Fried Chicken Sandwich 17 lunch / 21 brunch",
+    "signature_drinks verified: Harvest Old-Fashioned 18, Smoke on the Water 18, Hi-Tide 16, Cal Salida 16, Sombra Diablo 16 (the menu sets these as \"sixteen\" and \"eighteen\" tiers), Mimosa Bar bottle service 28 / single mimosa 12",
+    "menu footnotes: bread service $4; 20% service charge for parties of 6 or more; VG/v/GF labeling; Executive Chef Noe Briseno",
+    "menus are still the June 2026 PDFs as of 2026-09-10 — no newer menu posted, so the journal's menu data is current",
+    "Google service attributes independently corroborate takeout, delivery, no-contact delivery, kerbside pickup, dine-in, outdoor seating, private dining room, catering, kids' menu and high chairs, happy-hour food and drinks, accepts reservations, wheelchair accessible, free parking lot and free street parking, dogs allowed outside",
+    "late_night false — kitchen and bar close together, no separate bar hours published anywhere",
+    "Yelp review count ~1,471 — confirmed via the Yelp page title in search results"
+   ],
+   "unverifiable_fields": [
+    "exact day-by-day open/close times (four sources, three different answers — see corrections)",
+    "google_rating 4.3 / 826 reviews (Wanderlog only, still not second-sourced)",
+    "yelp_rating star value (yelp.com 403s; only the review count is readable from the page title)",
+    "OpenTable rating, review count and restaurant ID — the /reservations widget is injected by JS with no rid in the HTML, and opentable.com refuses WebFetch, curl and r.jina.ai",
+    "dessert names and prices (DoorDash only; nothing published by the restaurant)",
+    "\"Established in 2016\" (search-snippet only)",
+    "catering scope — info@danvilleharvest.com is listed for \"General & Catering Inquiries\" and Google lists Catering as a dining option, but no catering menu, minimum or pricing is published anywhere",
+    "kids_menu — Kids Eat Free is confirmed and Google lists a kids' menu, but no kids menu PDF is published",
+    "dog_friendly — Google's \"Dogs allowed outside\" is the strongest evidence; the official site says nothing and BringFido remains unreadable",
+    "live_music, secret_menu, industry_specials"
+   ],
+   "additions": "THE CONTACT-PAGE HOURS BLOCK is itself the most important addition — \"Weekdays 11:30am–9pm / Weekends 10am–10pm\" is a second, later, first-party hours statement the journal never captured, and it is the only official source supporting a 10pm weekend close.\n\nZERO-PROOF COCKTAILS, a whole missing category at $13: Blueberry Crush (blueberry, lime, rosemary, ginger ale, pea-flower water), Blackberry Bramble (N/A gin, blackberry, orgeat, lime, basil), Mint Condition (N/A gin, apple, cinnamon, orange, mint, ginger beer). N/A beer too: Fieldwork Grapefruit Blonde or IPA 7, Erdinger 5.\n\nCOCKTAILS OMITTED: Solstice (vodka, earl grey, lemon, mint), Farmer's Punch (rum, strawberry-kiwi, orgeat, lime, angostura, mint), Just Beachy (vodka, pineapple, lime, honey, toasted coconut, ginger beer), Golden Orchard (white whiskey, golden raisin, apricot, marigold liqueur, almond), Violet Hour (gin, aloe, plum, sichuan peppercorn, butterfly pea flower).\n\nWINE IS POURED IN TWO SIZES — 6oz and 9oz, priced as a pair (Argiolas Vermentino 14/22, BloodRoot Chardonnay 15/23, Rivers-Marie Chardonnay 19/27, Three Sticks Pinot Noir 19/27, Teeter-Totter Cabernet 20/28, Brut Blanc de Blancs 16/24). That format is a genuine listing differentiator and is nowhere in the journal.\n\nDINNER ITEMS MISSED: starters Gazpacho 12, Deviled Eggs 13, Roasted Cauliflower 13, Italian Meatballs 15, Shrimp & Succotash 18, Avocado Bruschetta 15, Ahi Tuna Poke 21, Burrata Toast 14, Shrimp Lettuce Cups 16; salads Heirloom Tomato 19, Superfood 18, Chopped 17, Farmhouse Caesar 21; mains Grain Bowl 22, Roasted Chicken 29, Gnocchi Ragu 24, Summer Ravioli 26, Grilled Pork Chop 32; add-ons Grilled Shrimp 11, Steak 15, Salmon 14, Grilled Chicken 8, Crispy Parmesan Chicken 9, truffle fries 12, sweet potato fries 10.\n\nHAPPY-HOUR-ONLY ITEMS MISSED: Smashburger 16 (two patties, secret sauce, fries; +bacon 4) appears only on the happy-hour menu, plus Tempura Green Beans 13, Deviled Eggs 13, and happy-hour-priced Chopped Salad 16 and Superfood Salad 17.\n\nBRUNCH ITEMS MISSED: Cheddar Biscuits 12, Fruit Bowl 12, Avocado Toast 16, Country Breakfast Plate 17, Breakfast Skillet 19, Fried Chicken & Waffles 23, Ham Benedict 18, Golden Sourdough Stack 19, Chorizo Tostada 19, Breakfast Sandwich 17, Huevos Rancheros 19, Chicken Salad Sandwich 15, Smoked Turkey Sandwich 16.\n\nBEER: six drafts all $8 (Mother Earth Cali Creamin cream ale, Coronado Salty Crew blonde, East Brothers Bo Pils, Humble Sea helles, Fieldwork hazy IPA, Laughing Monk rotating WC IPA), cans $6–8, Sincere Bonafide dry cider 6.\n\nGOOGLE ATTRIBUTES worth surfacing: fireplace, LGBTQ+ friendly, family friendly, good for groups, cosy/romantic/upmarket, \"brunch, lunch and dinner reservations recommended,\" and a free parking lot behind the restaurant (repeatedly cited in reviews as the fix for tight street parking).\n\nDATA-QUALITY WARNING for future ingest: lovetrivalley.com/places/danville-harvest publishes a WRONG phone number, (925) 743-4278, and shows Thursday and Friday as \"Closed.\" It is an unclaimed listing. Do not ingest it.",
+   "notes": "Sources used that the researcher did not: danville-harvest.res-discover.com read directly for the full Google Business attribute set and day-by-day hours (they cited the URL but never pulled the services/highlights payload), visittrivalley.com, lovetrivalley.com, and a fresh pdftotext extraction of all four June 2026 menu PDFs plus a fresh read of /contact and /events. The menu and happy-hour transcription in the journal is accurate — I found no invented dish, no wrong price, and no item copied from a sibling restaurant. The defects are all on the listing side: the claim that the official site publishes no open/close times is simply false; the day-by-day hours are presented as settled when four sources disagree by up to 90 minutes on exactly the nights this directory cares about; the owner attribution has no first-party support; and three dessert prices are DoorDash markups presented as menu facts. Yelp, OpenTable, Tripadvisor, Uber Eats, order.online, wheree and BringFido all returned 403/CAPTCHA to every method, so the rating figures in the journal remain snippet-sourced and should carry that caveat on the live site."
+  }
+ ]
+}

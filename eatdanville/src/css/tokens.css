@@ -1,0 +1,71 @@
+/* EatDanville design tokens.
+   Daytime: paper and ink with one deep indigo. After Dark: the blue-hour navy of the corner photo, paper type, periwinkle accents. */
+:root {
+  color-scheme: light;
+  --bg: #F4F4F2;
+  --surface: #FCFCFB;
+  --surface-2: #ECECE9;
+  --surface-3: #E1E1DD;
+  --ink: #141519;
+  --ink-2: #4E515A;
+  --ink-3: #737782;
+  --line: rgba(20, 21, 25, 0.10);
+  --line-strong: rgba(20, 21, 25, 0.18);
+  --accent: #23306B;
+  --accent-hover: #1A2554;
+  --accent-soft: rgba(35, 48, 107, 0.08);
+  --accent-ink: #F6F7FC;
+  --btn-bg: #141519;
+  --btn-ink: #F4F4F2;
+  --scrim: rgba(20, 21, 25, 0.4);
+  --shadow: 0 24px 48px -28px rgba(20, 21, 25, 0.28);
+  --shadow-sm: 0 10px 24px -16px rgba(20, 21, 25, 0.22);
+  --map-tiles: light;
+
+  --font-display: 'Bricolage Grotesque', 'Instrument Sans', system-ui, sans-serif;
+  --font-body: 'Instrument Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --r: 12px;
+  --r-in: 8px;
+  --r-pill: 999px;
+
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-soft: cubic-bezier(0.32, 0.72, 0, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --dur-fast: 160ms;
+  --dur: 280ms;
+  --dur-slow: 700ms;
+
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --container: 1360px;
+  --section: clamp(4rem, 7.5vw, 6.5rem);
+  --nav-h: 60px;
+
+  --z-nav: 40;
+  --z-drawer: 50;
+  --z-overlay: 60;
+  --z-toast: 70;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0B1020;
+  --surface: #121831;
+  --surface-2: #1A2142;
+  --surface-3: #232B52;
+  --ink: #EEF0F7;
+  --ink-2: #AEB4CB;
+  --ink-3: #7F869F;
+  --line: rgba(238, 240, 247, 0.10);
+  --line-strong: rgba(238, 240, 247, 0.2);
+  --accent: #B7C2F8;
+  --accent-hover: #CDD5FF;
+  --accent-soft: rgba(183, 194, 248, 0.12);
+  --accent-ink: #0B1020;
+  --btn-bg: #EEF0F7;
+  --btn-ink: #0B1020;
+  --scrim: rgba(3, 6, 16, 0.6);
+  --shadow: 0 24px 48px -28px rgba(0, 0, 0, 0.7);
+  --shadow-sm: 0 10px 24px -16px rgba(0, 0, 0, 0.6);
+  --map-tiles: dark;
+}
