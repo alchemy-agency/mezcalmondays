@@ -1,0 +1,1 @@
+{ "name": "Mezcal Monday", "short_name": "Mezcal Monday", "start_url": "/", "display": "standalone", "background_color": "#EEF1EA", "theme_color": "#10201A", "icons": [{ "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }] }

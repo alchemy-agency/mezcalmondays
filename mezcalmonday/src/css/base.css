@@ -34,4 +34,5 @@ ul, ol { margin: 0; padding: 0; }
 .ico { display: inline-grid; place-items: center; width: 1.15em; height: 1.15em; flex: none; }
 .ico svg { width: 100%; height: 100%; }
 main { display: block; }
+[hidden] { display: none !important; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; } }
